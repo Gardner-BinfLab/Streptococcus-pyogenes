@@ -1,0 +1,11 @@
+*.hmm
+*.zip
+*.faa
+*.fa
+*.gz
+.ipynb_checkpoints/
+*.txt
+doc/ncbi_dataset/
+*.clstr
+*.pkl
+ref/
