@@ -1,0 +1,48 @@
+# STOCKHOLM 1.0
+#=GF ID WP_023079587.1-i2
+
+#=GS WP_023079587.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023079587.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054883.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_164972002.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194112913.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023079219.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168634692.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194075300.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_015898613.1/1-54 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136290256.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168393672.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002988735.1/1-54 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_168625484.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194131202.1/1-54 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_023079587.1              MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTREREND
+WP_023079587.1/1-56         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTREREND
+#=GR WP_023079587.1/1-56 PP 9******************************************************8
+WP_011054883.1/1-56         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREREND
+#=GR WP_011054883.1/1-56 PP 9******************************************************8
+WP_164972002.1/1-56         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYTREREND
+#=GR WP_164972002.1/1-56 PP 9******************************************************8
+WP_194112913.1/1-56         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLGFWDSCEATVKEKYTREREND
+#=GR WP_194112913.1/1-56 PP 9******************************************************8
+WP_023079219.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ--
+#=GR WP_023079219.1/1-54 PP 9****************************************************5..
+WP_168634692.1/1-56         MKKEYVVRIYTGREKNFEAKPQFEEKTFNPKPDMLKFWNSCEATVKEKYTREREND
+#=GR WP_168634692.1/1-56 PP 9******************************************************8
+WP_194075300.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYIREWQ--
+#=GR WP_194075300.1/1-54 PP 9****************************************************5..
+WP_015898613.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE--
+#=GR WP_015898613.1/1-54 PP 9****************************************************8..
+WP_136290256.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE--
+#=GR WP_136290256.1/1-54 PP 9****************************************************8..
+WP_168393672.1/1-54         MKKEYVVRVYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ--
+#=GR WP_168393672.1/1-54 PP 9****************************************************5..
+WP_002988735.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREWK--
+#=GR WP_002988735.1/1-54 PP 9****************************************************5..
+WP_168625484.1/1-54         MEKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ--
+#=GR WP_168625484.1/1-54 PP 99***************************************************5..
+WP_194131202.1/1-54         MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCETTVKEKYTREWK--
+#=GR WP_194131202.1/1-54 PP 9****************************************************5..
+#=GC PP_cons                9****************************************************7*8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

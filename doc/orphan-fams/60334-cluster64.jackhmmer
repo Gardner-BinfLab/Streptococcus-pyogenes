@@ -1,0 +1,118 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/60334.fa
+# target sequence database:        orphan-spyogenes-protein-ids.2.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/60334-cluster64.jackhmmer
+# MSA of hits saved to file:       orphan-fams/60334-cluster64.stk
+# per-dom hits tabular output:     orphan-fams/60334-cluster64.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       GCF_900991155.1|WP_011054766.1  [L=84]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
++   1.1e-54  175.5   3.7    1.2e-54  175.4   3.7    1.0  1  GCF_900991155.1|WP_011054766.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900991155.1|WP_011054766.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  175.4   3.7   4.3e-57   1.2e-54       1      84 []       1      84 []       1      84 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 175.4 bits;  conditional E-value: 4.3e-57
+  GCF_900991155.1|WP_011054766.1  1 mtlhnfssfrndsfiiarrrnytdrkenhmrpkrypysgkknrkakdislklmskeelsdfsrqiaeatrdsvepfrepqs 81
+                                    mtlhnfssfrndsfiiarrrnytdrkenhmrpkrypysgkknrkakdislklmskeelsdfsrqiaeatrdsvepfrepqs
+  GCF_900991155.1|WP_011054766.1  1 MTLHNFSSFRNDSFIIARRRNYTDRKENHMRPKRYPYSGKKNRKAKDISLKLMSKEELSDFSRQIAEATRDSVEPFREPQS 81
+                                    8******************************************************************************** PP
+
+  GCF_900991155.1|WP_011054766.1 82 mms 84
+                                    mms
+  GCF_900991155.1|WP_011054766.1 82 MMS 84
+                                    *97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (84 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                         7  (0.0241379); expected 5.8 (0.02)
+Passed bias filter:                        6  (0.0206897); expected 5.8 (0.02)
+Passed Vit filter:                         3  (0.0103448); expected 0.3 (0.001)
+Passed Fwd filter:                         1  (0.00344828); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.28
+# Mc/sec: 5.70
+
+@@ New targets included:   1
+@@ New alignment includes: 2 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        2 subsequences (query + 1 subseqs from 1 targets)
+@@ Model size:             84 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
+    2.5e-62  201.4   5.8    2.7e-62  201.2   5.8    1.0  1  GCF_900991155.1|WP_011054766.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900991155.1|WP_011054766.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  201.2   5.8   9.3e-65   2.7e-62       1      84 []       1      84 []       1      84 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 201.2 bits;  conditional E-value: 9.3e-65
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900991155.1|WP_011054766.1-i1  1 mtlhnfssfrndsfiiarrrnytdrkenhmrpkrypysgkknrkakdislklmskeelsdfsrqiaeatrdsvepfre 78
+                                       mtlhnfssfrndsfiiarrrnytdrkenhmrpkrypysgkknrkakdislklmskeelsdfsrqiaeatrdsvepfre
+     GCF_900991155.1|WP_011054766.1  1 MTLHNFSSFRNDSFIIARRRNYTDRKENHMRPKRYPYSGKKNRKAKDISLKLMSKEELSDFSRQIAEATRDSVEPFRE 78
+                                       9***************************************************************************** PP
+
+                                       xxxxxx RF
+  GCF_900991155.1|WP_011054766.1-i1 79 pqsmms 84
+                                       pqsmms
+     GCF_900991155.1|WP_011054766.1 79 PQSMMS 84
+                                       *****8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (84 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                         7  (0.0241379); expected 5.8 (0.02)
+Passed bias filter:                        7  (0.0241379); expected 5.8 (0.02)
+Passed Vit filter:                         3  (0.0103448); expected 0.3 (0.001)
+Passed Fwd filter:                         2  (0.00689655); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.13u 0.01s 00:00:00.14 Elapsed: 00:00:00.26
+# Mc/sec: 6.35
+
+@@ New targets included:   0
+@@ New alignment includes: 2 subseqs (was 2), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 2 hits satisfying inclusion thresholds saved to: orphan-fams/60334-cluster64.stk
+//
+[ok]

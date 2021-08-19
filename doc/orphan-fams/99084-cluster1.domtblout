@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_002990686.1       -             49 WP_136106993.1       -             49   8.4e-41  134.0   1.2   1   1   1.4e-42   9.1e-41  133.9   1.2     1    49     1    49     1    49 1.00 MULTISPECIES: hypothetical protein [Streptococcus]
+WP_002994198.1       -             49 WP_136106993.1       -             49   1.3e-40  133.4   0.7   1   1   2.1e-42   1.4e-40  133.3   0.7     1    49     1    49     1    49 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_047235923.1       -             49 WP_136106993.1       -             49   1.7e-40  133.0   1.2   1   1   2.9e-42   1.9e-40  132.9   1.2     1    49     1    49     1    49 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136106993.1       -             49 WP_136106993.1       -             49   2.4e-40  132.5   1.1   1   1     4e-42   2.6e-40  132.4   1.1     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_136273614.1       -             49 WP_136106993.1       -             49   2.6e-40  132.4   0.9   1   1   4.3e-42   2.8e-40  132.3   0.9     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_038433655.1       -             49 WP_136106993.1       -             49     3e-40  132.2   1.1   1   1     5e-42   3.3e-40  132.1   1.1     1    49     1    49     1    49 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136261872.1       -             49 WP_136106993.1       -             49   3.2e-40  132.1   1.1   1   1   5.3e-42   3.5e-40  132.0   1.1     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_136287047.1       -             49 WP_136106993.1       -             49   4.6e-40  131.6   0.7   1   1   7.6e-42     5e-40  131.5   0.7     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_136046984.1       -             49 WP_136106993.1       -             49   4.9e-40  131.5   0.7   1   1   8.1e-42   5.3e-40  131.4   0.7     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_030126777.1       -             49 WP_136106993.1       -             49     5e-40  131.5   1.8   1   1   8.3e-42   5.4e-40  131.4   1.8     1    49     1    49     1    49 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_076639576.1       -             49 WP_136106993.1       -             49   5.4e-40  131.4   0.6   1   1   8.9e-42   5.8e-40  131.3   0.6     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_011285429.1       -             49 WP_136106993.1       -             49   6.1e-40  131.2   0.8   1   1     1e-41   6.6e-40  131.1   0.8     1    49     1    49     1    49 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136262022.1       -             49 WP_136106993.1       -             49   7.4e-40  131.0   0.9   1   1   1.2e-41     8e-40  130.9   0.9     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+WP_136286059.1       -             49 WP_136106993.1       -             49   2.5e-39  129.3   0.8   1   1   4.1e-41   2.7e-39  129.2   0.8     1    49     1    49     1    49 1.00 dihydroxyacetone kinase [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster1.jackhmmer -A orphan-fams/99084-cluster1.stk --domtblout orphan-fams/99084-cluster1.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:22:18 2021
+# [ok]

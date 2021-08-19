@@ -1,0 +1,436 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster142.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster142.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster142.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136295217.1  [L=440]
+Description: streptokinase [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++  6.9e-301  993.0  12.4   7.7e-301  992.8  12.4    1.0  1  WP_136295217.1  streptokinase [Streptococcus pyogenes]
++  2.1e-292  965.0  11.9   2.4e-292  964.8  11.9    1.0  1  WP_111712510.1  streptokinase [Streptococcus pyogenes]
++  6.3e-232  765.8   9.0   7.1e-232  765.6   9.0    1.0  1  WP_129322770.1  streptokinase [Streptococcus pyogenes]
++  6.6e-232  765.7   9.9   7.4e-232  765.5   9.9    1.0  1  WP_031488733.1  streptokinase [Streptococcus pyogenes]
++  1.5e-231  764.5   8.8   1.7e-231  764.4   8.8    1.0  1  WP_014407866.1  streptokinase [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136295217.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  992.8  12.4  4.2e-303  7.7e-301       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 992.8 bits;  conditional E-value: 4.2e-303
+  WP_136295217.1   1 mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga 95 
+                     mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga
+  WP_136295217.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLGRPPVNNSQLVVSMAGIVEGTDKKVFINFFEIDLTSQPAHGGKTEQGLSPKSKPFVTDNGA 95 
+                     8********************************************************************************************** PP
+
+  WP_136295217.1  96 mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv 190
+                     mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv
+  WP_136295217.1  96 MPHKLEKADLLKAIQERLIANVHSNDGYFEVIDFASDATITDRDDNIYFANQDGSVTLPTQPIQQFLLRGHVRVRPYKEKPIQTPAKSVDITYTV 190
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 191 qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg 285
+                     qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg
+  WP_136295217.1 191 QFTPLNPDDDFTPVLKDTKLLKTLAIGDTITSQELLAQAQSILNESHPNYTIYERDSSIVTHDNDIFRTILPIDQEFTYRVKNREQAYQNDNKTG 285
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 286 lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv 380
+                     lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv
+  WP_136295217.1 286 LKKETKNTDLISEKYYILKKGEKPYDPFDRSHLKLFTIKYVDVNTNELLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDAFDIMDYTLTGKV 380
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 381 ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk 440
+                     ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk
+  WP_136295217.1 381 EDNHDKNNRVVTVYMGKRPKGAKGSYHLAYDKDLYTEEEREVYSYLRDTGTPIPDNPNDK 440
+                     ***********************************************************8 PP
+
+>> WP_111712510.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  964.8  11.9  1.3e-294  2.4e-292       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 964.8 bits;  conditional E-value: 1.3e-294
+  WP_136295217.1   1 mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga 95 
+                     mknylsfgmfallfaltfgtvkpvqaiag ewll rp vnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpf tdnga
+  WP_111712510.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGYEWLLDRPSVNNSQLVVSMAGIVEGTDKKVFINFFEIDLTSQPAHGGKTEQGLSPKSKPFATDNGA 95 
+                     8********************************************************************************************** PP
+
+  WP_136295217.1  96 mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv 190
+                     mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfa+qdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvdi ytv
+  WP_111712510.1  96 MPHKLEKADLLKAIQERLIANVHSNDGYFEVIDFASDATITDRDDNIYFASQDGSVTLPTQPIQQFLLRGHVRVRPYKEKPIQTPAKSVDIRYTV 190
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 191 qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg 285
+                     qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg
+  WP_111712510.1 191 QFTPLNPDDDFTPVLKDTKLLKTLAIGDTITSQELLAQAQSILNESHPNYTIYERDSSIVTHDNDIFRTILPIDQEFTYRVKNREQAYQNDNKTG 285
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 286 lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv 380
+                     lkketkntdlisekyyilkkge+pydpfdrshlklftikyvdvnt  llkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv
+  WP_111712510.1 286 LKKETKNTDLISEKYYILKKGEEPYDPFDRSHLKLFTIKYVDVNTKALLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDAFDIMDYTLTGKV 380
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 381 ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk 440
+                     ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnp dk
+  WP_111712510.1 381 EDNHDKNNRVVTVYMGKRPKGAKGSYHLAYDKDLYTEEEREVYSYLRDTGTPIPDNPKDK 440
+                     **********************************************************98 PP
+
+>> WP_129322770.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  765.6   9.0  3.9e-234  7.1e-232       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 765.6 bits;  conditional E-value: 3.9e-234
+  WP_136295217.1   1 mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga 95 
+                     mknylsfgmfallfaltfgtvkpvqaiag ewll rp vnnsqlvvs+ag vegt++++ + ffeidlts+pahggkteqgl+pkskpf  d ga
+  WP_129322770.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGYEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSRPAHGGKTEQGLNPKSKPFARDKGA 95 
+                     8********************************************************************************************** PP
+
+  WP_136295217.1  96 mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv 190
+                     mphklekadllkaiqe+l+anvhsndgyfevidfasdatitdr+  iyfa++d svtlptqp+q+fll ghvrvrpy+ k +   a+ v++ y v
+  WP_129322770.1  96 MPHKLEKADLLKAIQEQLVANVHSNDGYFEVIDFASDATITDRNGKIYFADKDDSVTLPTQPVQEFLLSGHVRVRPYRPKAVHNSAERVNVNYEV 190
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 191 qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg 285
+                      f     + dftp lk+   l tla+gd+++sq+l a aq il++ hp+y i +rdssivthdndifrtilp+dqefty++k+reqay+ ++ktg
+  WP_129322770.1 191 SFVSETGNLDFTPSLKEQYHLTTLAVGDSLSSQKLAAIAQFILSKKHPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQAYKANSKTG 285
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 286 lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv 380
+                     ++++  ntdlisekyyilkkge+pydpfdrshlklftikyvdvntn+llkseqlltase+nldfrdlydprdkakllynnldaf im ytltgkv
+  WP_129322770.1 286 IEEKMNNTDLISEKYYILKKGEEPYDPFDRSHLKLFTIKYVDVNTNKLLKSEQLLTASEHNLDFRDLYDPRDKAKLLYNNLDAFGIMGYTLTGKV 380
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 381 ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk 440
+                     ednhd  nr++tvymgkrp+g  +syhlaydkd yteeerevysylr tgtpipdnp dk
+  WP_129322770.1 381 EDNHDDTNRIITVYMGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPKDK 440
+                     **********************************************************98 PP
+
+>> WP_031488733.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  765.5   9.9    4e-234  7.4e-232       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 765.5 bits;  conditional E-value: 4e-234
+  WP_136295217.1   1 mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga 95 
+                     mknylsfgmfallfaltfgtvkpvqaiagpewll rp vnnsqlvvs+ag vegt++++ + ffeidltsqpa+ggkteq l+pkskp+ td ga
+  WP_031488733.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSQPAQGGKTEQDLNPKSKPLATDKGA 95 
+                     8********************************************************************************************** PP
+
+  WP_136295217.1  96 mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv 190
+                     m hklekadllkaiqe+lianvhsndgyfevidfasdatitdr+  +yfa++d svtlptqp+q+fll ghvrvrpy+ k +   a+ v++ y v
+  WP_031488733.1  96 MSHKLEKADLLKAIQEQLIANVHSNDGYFEVIDFASDATITDRNGKVYFADRDDSVTLPTQPVQEFLLSGHVRVRPYQPKAVHNSAERVNVNYEV 190
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 191 qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg 285
+                      f       dftp+l++   l tla+gd+++sqel a aq il++ +p+y i +rdssivthdndifrtilp+dqefty++k+reqay+ + ktg
+  WP_031488733.1 191 SFVSETGGLDFTPLLRNQYHLTTLAVGDSLSSQELAAIAQFILSKKYPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQAYEINPKTG 285
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 286 lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv 380
+                     +k++  ntdlisekyy+lkkgekpydpfdrshlklfti yvdvntnellkseqlltasernldfrdlydprdkakllynnldaf imdytltgkv
+  WP_031488733.1 286 IKEKMNNTDLISEKYYVLKKGEKPYDPFDRSHLKLFTINYVDVNTNELLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDAFGIMDYTLTGKV 380
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 381 ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk 440
+                     ednhd  nr++tvy+gkrp+g  +syhlaydkd yteeerevysylr tgtpipdnpndk
+  WP_031488733.1 381 EDNHDDTNRIITVYIGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPNDK 440
+                     ***********************************************************8 PP
+
+>> WP_014407866.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  764.4   8.8  9.1e-234  1.7e-231       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 764.4 bits;  conditional E-value: 9.1e-234
+  WP_136295217.1   1 mknylsfgmfallfaltfgtvkpvqaiagpewllgrppvnnsqlvvsmagivegtdkkvfinffeidltsqpahggkteqglspkskpfvtdnga 95 
+                     mknylsfgmfallfaltfgtvkpvqaiagpewll rp vnnsqlvvs+ag vegt++++ + ffeidlts pa+ggkteqglspkskpf t+ ga
+  WP_014407866.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSGPAQGGKTEQGLSPKSKPFATNKGA 95 
+                     8********************************************************************************************** PP
+
+  WP_136295217.1  96 mphklekadllkaiqerlianvhsndgyfevidfasdatitdrddniyfanqdgsvtlptqpiqqfllrghvrvrpykekpiqtpaksvditytv 190
+                     mphklekadllkaiqe+lianvhsndgyfevidfasdatitdr+  +yfa++d svtlptqp+q+fll ghvrvrpy+ k +   a+ v++ y v
+  WP_014407866.1  96 MPHKLEKADLLKAIQEQLIANVHSNDGYFEVIDFASDATITDRNGKVYFADRDDSVTLPTQPVQEFLLSGHVRVRPYQPKAVHNSAERVNVNYEV 190
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 191 qftplnpdddftpvlkdtkllktlaigdtitsqellaqaqsilneshpnytiyerdssivthdndifrtilpidqeftyrvknreqayqndnktg 285
+                      f     d dftp+l++   l tla+gd+++sqel a aq il++ +p+y i +rdssivthdndifrtilp+dqefty++k+reqay+ ++ktg
+  WP_014407866.1 191 SFVSETGDLDFTPLLRNQYHLTTLAVGDSLSSQELAAIAQFILSKKYPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQAYKANSKTG 285
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 286 lkketkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnldafdimdytltgkv 380
+                     + ++t ntdlisekyy+lkkge+pydpfdrshlklfti yvdvnt  llkseqlltasernldfrdlyd rdkakllynnldaf imdytltgkv
+  WP_014407866.1 286 IVEKTNNTDLISEKYYVLKKGEEPYDPFDRSHLKLFTINYVDVNTKALLKSEQLLTASERNLDFRDLYDSRDKAKLLYNNLDAFGIMDYTLTGKV 380
+                     *********************************************************************************************** PP
+
+  WP_136295217.1 381 ednhdknnrvvtvymgkrpkgakgsyhlaydkdlyteeerevysylrdtgtpipdnpndk 440
+                     ednhd  nr++tvymgkrp+g  +syhlaydkd yteeerevysylr tgtpipdnp dk
+  WP_014407866.1 381 EDNHDDTNRIITVYMGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPKDK 440
+                     **********************************************************98 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (440 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        40  (0.0436205); expected 18.3 (0.02)
+Passed bias filter:                       37  (0.040349); expected 18.3 (0.02)
+Passed Vit filter:                         5  (0.00545256); expected 0.9 (0.001)
+Passed Fwd filter:                         5  (0.00545256); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.11u 0.03s 00:00:00.14 Elapsed: 00:00:00.27
+# Mc/sec: 156.33
+
+@@ New targets included:   5
+@@ New alignment includes: 6 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        6 subsequences (query + 5 subseqs from 5 targets)
+@@ Model size:             440 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   4.3e-297  980.7   8.4   4.8e-297  980.5   8.4    1.0  1  WP_136295217.1  streptokinase [Streptococcus pyogenes]
+   8.8e-297  979.6   9.3   9.9e-297  979.5   9.3    1.0  1  WP_111712510.1  streptokinase [Streptococcus pyogenes]
+   1.8e-295  975.3   7.2     2e-295  975.2   7.2    1.0  1  WP_129322770.1  streptokinase [Streptococcus pyogenes]
+   3.1e-295  974.5   6.9   3.4e-295  974.4   6.9    1.0  1  WP_014407866.1  streptokinase [Streptococcus pyogenes]
+   7.3e-295  973.3   7.4   8.2e-295  973.1   7.4    1.0  1  WP_031488733.1  streptokinase [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136295217.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  980.5   8.4  2.6e-299  4.8e-297       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 980.5 bits;  conditional E-value: 2.6e-299
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1   1 mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvagivegtdkkvslkffeidltsqpahggkteqglspkskpfatd 92 
+                        mknylsfgmfallfaltfgtvkpvqaiagpewll+rp+vnnsqlvvs+agivegtdkkv+++ffeidltsqpahggkteqglspkskpf+td
+     WP_136295217.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLGRPPVNNSQLVVSMAGIVEGTDKKVFINFFEIDLTSQPAHGGKTEQGLSPKSKPFVTD 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1  93 kgamphklekadllkaiqerlianvhsndgyfevidfasdatitdrddkiyfadkddsvtlptqpvqefllsghvrvrpykekavqtsakrv 184
+                        +gamphklekadllkaiqerlianvhsndgyfevidfasdatitdrdd+iyfa++d+svtlptqp+q+fll+ghvrvrpykek++qt+ak+v
+     WP_136295217.1  93 NGAMPHKLEKADLLKAIQERLIANVHSNDGYFEVIDFASDATITDRDDNIYFANQDGSVTLPTQPIQQFLLRGHVRVRPYKEKPIQTPAKSV 184
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 185 dvnyevsfvsetgdldftpvlkdqkllktlavgdslssqellaiaqsilskkypdyiitkrdssivthdndifrtilpidqeftyrvkdreq 276
+                        d++y+v+f+++++d+dftpvlkd+kllktla+gd+++sqella+aqsil++++p+y+i++rdssivthdndifrtilpidqeftyrvk+req
+     WP_136295217.1 185 DITYTVQFTPLNPDDDFTPVLKDTKLLKTLAIGDTITSQELLAQAQSILNESHPNYTIYERDSSIVTHDNDIFRTILPIDQEFTYRVKNREQ 276
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 277 aykadsktglkkktkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda 368
+                        ay++d+ktglkk+tkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda
+     WP_136295217.1 277 AYQNDNKTGLKKETKNTDLISEKYYILKKGEKPYDPFDRSHLKLFTIKYVDVNTNELLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDA 368
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 369 fdimdytltgkvednhddtnrvvtvylgkrpkgekasyhlaydkdlyteeerevysylrdtgtpipdnpkdk 440
+                        fdimdytltgkvednhd++nrvvtvy+gkrpkg+k+syhlaydkdlyteeerevysylrdtgtpipdnp+dk
+     WP_136295217.1 369 FDIMDYTLTGKVEDNHDKNNRVVTVYMGKRPKGAKGSYHLAYDKDLYTEEEREVYSYLRDTGTPIPDNPNDK 440
+                        ***********************************************************************8 PP
+
+>> WP_111712510.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  979.5   9.3  5.4e-299  9.9e-297       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 979.5 bits;  conditional E-value: 5.4e-299
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1   1 mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvagivegtdkkvslkffeidltsqpahggkteqglspkskpfatd 92 
+                        mknylsfgmfallfaltfgtvkpvqaiag+ewlldrpsvnnsqlvvs+agivegtdkkv+++ffeidltsqpahggkteqglspkskpfatd
+     WP_111712510.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGYEWLLDRPSVNNSQLVVSMAGIVEGTDKKVFINFFEIDLTSQPAHGGKTEQGLSPKSKPFATD 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1  93 kgamphklekadllkaiqerlianvhsndgyfevidfasdatitdrddkiyfadkddsvtlptqpvqefllsghvrvrpykekavqtsakrv 184
+                        +gamphklekadllkaiqerlianvhsndgyfevidfasdatitdrdd+iyfa++d+svtlptqp+q+fll+ghvrvrpykek++qt+ak+v
+     WP_111712510.1  93 NGAMPHKLEKADLLKAIQERLIANVHSNDGYFEVIDFASDATITDRDDNIYFASQDGSVTLPTQPIQQFLLRGHVRVRPYKEKPIQTPAKSV 184
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 185 dvnyevsfvsetgdldftpvlkdqkllktlavgdslssqellaiaqsilskkypdyiitkrdssivthdndifrtilpidqeftyrvkdreq 276
+                        d++y+v+f+++++d+dftpvlkd+kllktla+gd+++sqella+aqsil++++p+y+i++rdssivthdndifrtilpidqeftyrvk+req
+     WP_111712510.1 185 DIRYTVQFTPLNPDDDFTPVLKDTKLLKTLAIGDTITSQELLAQAQSILNESHPNYTIYERDSSIVTHDNDIFRTILPIDQEFTYRVKNREQ 276
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 277 aykadsktglkkktkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda 368
+                        ay++d+ktglkk+tkntdlisekyyilkkge+pydpfdrshlklftikyvdvnt++llkseqlltasernldfrdlydprdkakllynnlda
+     WP_111712510.1 277 AYQNDNKTGLKKETKNTDLISEKYYILKKGEEPYDPFDRSHLKLFTIKYVDVNTKALLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDA 368
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 369 fdimdytltgkvednhddtnrvvtvylgkrpkgekasyhlaydkdlyteeerevysylrdtgtpipdnpkdk 440
+                        fdimdytltgkvednhd++nrvvtvy+gkrpkg+k+syhlaydkdlyteeerevysylrdtgtpipdnpkdk
+     WP_111712510.1 369 FDIMDYTLTGKVEDNHDKNNRVVTVYMGKRPKGAKGSYHLAYDKDLYTEEEREVYSYLRDTGTPIPDNPKDK 440
+                        ***********************************************************************8 PP
+
+>> WP_129322770.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  975.2   7.2  1.1e-297    2e-295       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 975.2 bits;  conditional E-value: 1.1e-297
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1   1 mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvagivegtdkkvslkffeidltsqpahggkteqglspkskpfatd 92 
+                        mknylsfgmfallfaltfgtvkpvqaiag+ewlldrpsvnnsqlvvsvag+vegt++++slkffeidlts+pahggkteqgl+pkskpfa+d
+     WP_129322770.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGYEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSRPAHGGKTEQGLNPKSKPFARD 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1  93 kgamphklekadllkaiqerlianvhsndgyfevidfasdatitdrddkiyfadkddsvtlptqpvqefllsghvrvrpykekavqtsakrv 184
+                        kgamphklekadllkaiqe+l+anvhsndgyfevidfasdatitdr++kiyfadkddsvtlptqpvqefllsghvrvrpy++kav++sa+rv
+     WP_129322770.1  93 KGAMPHKLEKADLLKAIQEQLVANVHSNDGYFEVIDFASDATITDRNGKIYFADKDDSVTLPTQPVQEFLLSGHVRVRPYRPKAVHNSAERV 184
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 185 dvnyevsfvsetgdldftpvlkdqkllktlavgdslssqellaiaqsilskkypdyiitkrdssivthdndifrtilpidqeftyrvkdreq 276
+                        +vnyevsfvsetg+ldftp+lk+q++l+tlavgdslssq+l+aiaq+ilskk+pdyiitkrdssivthdndifrtilp+dqefty++kdreq
+     WP_129322770.1 185 NVNYEVSFVSETGNLDFTPSLKEQYHLTTLAVGDSLSSQKLAAIAQFILSKKHPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQ 276
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 277 aykadsktglkkktkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda 368
+                        ayka+sktg+++k++ntdlisekyyilkkge+pydpfdrshlklftikyvdvntn+llkseqlltase+nldfrdlydprdkakllynnlda
+     WP_129322770.1 277 AYKANSKTGIEEKMNNTDLISEKYYILKKGEEPYDPFDRSHLKLFTIKYVDVNTNKLLKSEQLLTASEHNLDFRDLYDPRDKAKLLYNNLDA 368
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 369 fdimdytltgkvednhddtnrvvtvylgkrpkgekasyhlaydkdlyteeerevysylrdtgtpipdnpkdk 440
+                        f+im+ytltgkvednhddtnr++tvy+gkrp+ge+asyhlaydkd+yteeerevysylr+tgtpipdnpkdk
+     WP_129322770.1 369 FGIMGYTLTGKVEDNHDDTNRIITVYMGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPKDK 440
+                        ***********************************************************************8 PP
+
+>> WP_014407866.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  974.4   6.9  1.9e-297  3.4e-295       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 974.4 bits;  conditional E-value: 1.9e-297
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1   1 mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvagivegtdkkvslkffeidltsqpahggkteqglspkskpfatd 92 
+                        mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvag+vegt++++slkffeidlts pa+ggkteqglspkskpfat+
+     WP_014407866.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSGPAQGGKTEQGLSPKSKPFATN 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1  93 kgamphklekadllkaiqerlianvhsndgyfevidfasdatitdrddkiyfadkddsvtlptqpvqefllsghvrvrpykekavqtsakrv 184
+                        kgamphklekadllkaiqe+lianvhsndgyfevidfasdatitdr++k+yfad+ddsvtlptqpvqefllsghvrvrpy++kav++sa+rv
+     WP_014407866.1  93 KGAMPHKLEKADLLKAIQEQLIANVHSNDGYFEVIDFASDATITDRNGKVYFADRDDSVTLPTQPVQEFLLSGHVRVRPYQPKAVHNSAERV 184
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 185 dvnyevsfvsetgdldftpvlkdqkllktlavgdslssqellaiaqsilskkypdyiitkrdssivthdndifrtilpidqeftyrvkdreq 276
+                        +vnyevsfvsetgdldftp+l++q++l+tlavgdslssqel+aiaq+ilskkypdyiitkrdssivthdndifrtilp+dqefty++kdreq
+     WP_014407866.1 185 NVNYEVSFVSETGDLDFTPLLRNQYHLTTLAVGDSLSSQELAAIAQFILSKKYPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQ 276
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 277 aykadsktglkkktkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda 368
+                        ayka+sktg+ +kt+ntdlisekyy+lkkge+pydpfdrshlklfti+yvdvnt++llkseqlltasernldfrdlyd+rdkakllynnlda
+     WP_014407866.1 277 AYKANSKTGIVEKTNNTDLISEKYYVLKKGEEPYDPFDRSHLKLFTINYVDVNTKALLKSEQLLTASERNLDFRDLYDSRDKAKLLYNNLDA 368
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 369 fdimdytltgkvednhddtnrvvtvylgkrpkgekasyhlaydkdlyteeerevysylrdtgtpipdnpkdk 440
+                        f+imdytltgkvednhddtnr++tvy+gkrp+ge+asyhlaydkd+yteeerevysylr+tgtpipdnpkdk
+     WP_014407866.1 369 FGIMDYTLTGKVEDNHDDTNRIITVYMGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPKDK 440
+                        ***********************************************************************8 PP
+
+>> WP_031488733.1  streptokinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  973.1   7.4  4.5e-297  8.2e-295       1     440 []       1     440 []       1     440 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 973.1 bits;  conditional E-value: 4.5e-297
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1   1 mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvagivegtdkkvslkffeidltsqpahggkteqglspkskpfatd 92 
+                        mknylsfgmfallfaltfgtvkpvqaiagpewlldrpsvnnsqlvvsvag+vegt++++slkffeidltsqpa+ggkteq+l+pkskp+atd
+     WP_031488733.1   1 MKNYLSFGMFALLFALTFGTVKPVQAIAGPEWLLDRPSVNNSQLVVSVAGTVEGTNQEISLKFFEIDLTSQPAQGGKTEQDLNPKSKPLATD 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1  93 kgamphklekadllkaiqerlianvhsndgyfevidfasdatitdrddkiyfadkddsvtlptqpvqefllsghvrvrpykekavqtsakrv 184
+                        kgam+hklekadllkaiqe+lianvhsndgyfevidfasdatitdr++k+yfad+ddsvtlptqpvqefllsghvrvrpy++kav++sa+rv
+     WP_031488733.1  93 KGAMSHKLEKADLLKAIQEQLIANVHSNDGYFEVIDFASDATITDRNGKVYFADRDDSVTLPTQPVQEFLLSGHVRVRPYQPKAVHNSAERV 184
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 185 dvnyevsfvsetgdldftpvlkdqkllktlavgdslssqellaiaqsilskkypdyiitkrdssivthdndifrtilpidqeftyrvkdreq 276
+                        +vnyevsfvsetg ldftp+l++q++l+tlavgdslssqel+aiaq+ilskkypdyiitkrdssivthdndifrtilp+dqefty++kdreq
+     WP_031488733.1 185 NVNYEVSFVSETGGLDFTPLLRNQYHLTTLAVGDSLSSQELAAIAQFILSKKYPDYIITKRDSSIVTHDNDIFRTILPMDQEFTYHIKDREQ 276
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 277 aykadsktglkkktkntdlisekyyilkkgekpydpfdrshlklftikyvdvntnellkseqlltasernldfrdlydprdkakllynnlda 368
+                        ay++++ktg+k+k++ntdlisekyy+lkkgekpydpfdrshlklfti+yvdvntnellkseqlltasernldfrdlydprdkakllynnlda
+     WP_031488733.1 277 AYEINPKTGIKEKMNNTDLISEKYYVLKKGEKPYDPFDRSHLKLFTINYVDVNTNELLKSEQLLTASERNLDFRDLYDPRDKAKLLYNNLDA 368
+                        ******************************************************************************************** PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136295217.1-i1 369 fdimdytltgkvednhddtnrvvtvylgkrpkgekasyhlaydkdlyteeerevysylrdtgtpipdnpkdk 440
+                        f+imdytltgkvednhddtnr++tvy+gkrp+ge+asyhlaydkd+yteeerevysylr+tgtpipdnp+dk
+     WP_031488733.1 369 FGIMDYTLTGKVEDNHDDTNRIITVYIGKRPEGENASYHLAYDKDRYTEEEREVYSYLRYTGTPIPDNPNDK 440
+                        ***********************************************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (440 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        34  (0.0370774); expected 18.3 (0.02)
+Passed bias filter:                       20  (0.0218103); expected 18.3 (0.02)
+Passed Vit filter:                         5  (0.00545256); expected 0.9 (0.001)
+Passed Fwd filter:                         5  (0.00545256); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.63u 0.02s 00:00:00.65 Elapsed: 00:00:00.76
+# Mc/sec: 55.54
+
+@@ New targets included:   0
+@@ New alignment includes: 6 subseqs (was 6), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 6 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster142.stk
+//
+[ok]

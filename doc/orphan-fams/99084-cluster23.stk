@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+#=GF ID WP_168715568.1-i2
+
+#=GS WP_168715568.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011285624.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168715568.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194084094.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_009880273.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011017988.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168471457.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194118560.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_168715568.1              MTKYYVSAKIANLDIGAEIEAENQHMAPIAFKETYDHLLRFGSHKLIILGVEELN
+WP_011285624.1/1-55         MTKYYVSAKIANLDIGAETEAENQHMAPIAFKETYDHLLRFGSHKLIILGVEELN
+#=GR WP_011285624.1/1-55 PP 9*****************************************************9
+WP_168715568.1/1-55         MTKYYVSAKIANLDIGAEIEAENQHMAPIAFKETYDHLLRFGSHKLIILGVEELN
+#=GR WP_168715568.1/1-55 PP 9*****************************************************9
+WP_194084094.1/1-55         MTKYYVSAKIANLDIGAETEAENQHMAPIAFKETYDHLLRFGSHKLRILGVEEVN
+#=GR WP_194084094.1/1-55 PP 9*****************************************************9
+WP_009880273.1/1-55         MTKYYVSAKIANLDIGAEIEAENQHMAPIAFKETYDHLLRFGSHKLRILGVEEVN
+#=GR WP_009880273.1/1-55 PP 9*****************************************************9
+WP_011017988.1/1-55         MTKYYVSAKIANLYIGAETEAENQHMAPIAFKETYDHLLRFGSHKLIILGVEELN
+#=GR WP_011017988.1/1-55 PP 9*****************************************************9
+WP_168471457.1/1-55         MTKYYVSAKIANLDVGAKTEAENQHMAPIAFKETYDHLLRFGSHKLIILGVEELN
+#=GR WP_168471457.1/1-55 PP 9*****************************************************9
+WP_194118560.1/1-55         MTKYYVSAKIVNLDIGAETEAENQHMASIAFKETYDHLLRFGSHKMRILGVEEVN
+#=GR WP_194118560.1/1-55 PP 9*****************************************************9
+#=GC PP_cons                9*****************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

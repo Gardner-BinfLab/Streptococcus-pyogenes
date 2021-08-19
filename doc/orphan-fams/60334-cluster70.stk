@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+#=GF ID GCF_900983705.1|WP_136291463.1-i2
+
+#=GS GCF_900983705.1|WP_136291463.1/1-213 DE [subseq from] GCF_900983705.1|WP_136291463.1
+
+GCF_900983705.1|WP_136291463.1               MTKQQIEKLADLLPPFAATLYLDMIPEFQEGYASYVYQTPKQDIQKRRIKQLTKNFERLLDTPSFYVMPVTRKTAEQLLADKGLAYHLLSTIADNQVFAAAVNEDQTLFQVLRNGARVAFVILQEKGEFLEMTLGILETVTENEVPAAIVEAVQTYLLADMQEKLPSLSIMVSQESSKLFYQEQGFVLLAKGCKPGNEND
+GCF_900983705.1|WP_136291463.1/1-213         MTKQQIEKLADLLPPFAATLYLDMIPEFQEGYASYVYQTPKQDIQKRRIKQLTKNFERLLDTPSFYVMPVTRKTAEQLLADKGLAYHLLSTIADNQVFAAAVNEDQTLFQVLRNGARVAFVILQEKGEFLEMTLGILETVTENEVPAAIVEAVQTYLLADMQEKLPSLSIMVSQESSKLFYQEQGFVLLAKGCKPGNEND
+#=GR GCF_900983705.1|WP_136291463.1/1-213 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_900983705.1|WP_136291463.1               SDVCQLVKYFSKP
+GCF_900983705.1|WP_136291463.1/1-213         SDVCQLVKYFSKP
+#=GR GCF_900983705.1|WP_136291463.1/1-213 PP ************9
+#=GC PP_cons                                 ************9
+#=GC RF                                      xxxxxxxxxxxxx
+//

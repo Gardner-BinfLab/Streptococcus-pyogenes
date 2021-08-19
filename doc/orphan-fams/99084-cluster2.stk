@@ -1,0 +1,313 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136059126.1-i2
+
+#=GS WP_136059126.1       DE hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136302685.1/1-338 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136019434.1/1-338 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136129412.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_111695808.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136112860.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136104748.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136117198.1/1-335 DE [subseq from] hyaluronidase HylP, partial [Streptococcus pyogenes]
+#=GS WP_136038239.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_029714406.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_111705092.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_014635501.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_030127700.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_020837648.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136268000.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136286777.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136305627.1/1-339 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136297394.1/1-335 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_011184912.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136119078.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136109102.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136270727.1/1-340 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_111685785.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_093974599.1/1-335 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_063632486.1/1-340 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136306237.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136309698.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136105377.1/1-340 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_014411852.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136302035.1/1-340 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136290259.1/1-338 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136263520.1/1-338 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136116639.1/1-336 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_032464987.1/1-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136022555.1/1-338 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136118594.1/4-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136026303.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_011017589.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136048171.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_115225215.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136286080.1/4-337 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136263270.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_011017970.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_047235257.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136094443.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136262365.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136075497.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136059126.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136040101.1/1-330 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_194118501.1/4-339 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_194118282.1/4-339 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136077128.1/1-332 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_194102075.1/4-339 DE [subseq from] hyaluronidase HylP [Streptococcus pyogenes]
+#=GS WP_136308287.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136084472.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136267235.1/1-335 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_012560951.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_038433336.1/1-333 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136266396.1/1-334 DE [subseq from] hyaluronoglucosaminidase [Streptococcus pyogenes]
+#=GS WP_136290086.1/1-251 DE [subseq from] hyaluronoglucosaminidase, partial [Streptococcus pyogenes]
+#=GS WP_136106165.1/1-231 DE [subseq from] hyaluronidase HylP, partial [Streptococcus pyogenes]
+
+WP_136059126.1               MTETIPLRVQFKRMTAEEWARSTVILLEGEIGLETDTGYAKFGDGKNRFSKLKYLNKPDLDAFAQKEETNSKITKLESS-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSEGAAMVMYTNKDTTDGPLMILRSDKDTFDQSAQFVDYSGKTNAVNIVMRQPSAPNFSS
+WP_136302685.1/1-338         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLRYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136302685.1/1-338 PP 89****************************************************************************99*****************************************.******************************************************************************
+WP_136019434.1/1-338         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136019434.1/1-338 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136129412.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSELGYISPLDYNLLTNKPNIDELATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136129412.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_111695808.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_111695808.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136112860.1/1-337         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136112860.1/1-337 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136104748.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136104748.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136117198.1/1-335         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136117198.1/1-335 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136038239.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTDGAVNIDLSSTRGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136038239.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_029714406.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSELGYISPLDYNLLTNKPNIDELATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_029714406.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_111705092.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDRHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVFVYSNNDTSDGPLMSLRTGKETFNQSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_111705092.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_014635501.1/1-337         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETTQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_014635501.1/1-337 PP 89****************************************************************************999999*************************************.******************************************************************************
+WP_030127700.1/1-337         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_030127700.1/1-337 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_020837648.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_020837648.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136268000.1/1-336         MSETTPLRVQFKRMKAAEWARSDIILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136268000.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136286777.1/1-336         MSENIPLRVQFKRMKAAEWASSDVVLLEGEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136286777.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136305627.1/1-339         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLRYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136305627.1/1-339 PP 89****************************************************************************99*****************************************99*****************************************************************************
+WP_136297394.1/1-335         MTETIPLRVQFKRMTAEEWARSDVILLEGEIGFETDTGFARAGDGHNRFSDLRYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136297394.1/1-335 PP 9*****************************************************************************99*****************************************.******************************************************************************
+WP_011184912.1/1-337         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFVRAGDGHNRFSELGYISPLDYNLLTNKPNIDELATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_011184912.1/1-337 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136119078.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSELGYISPLDYNLLTNKPNIDELATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136119078.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136109102.1/1-337         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136109102.1/1-337 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136270727.1/1-340         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136270727.1/1-340 PP 99****************************************************************************99*****************************************99*****************************************************************************
+WP_111685785.1/1-336         MTENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_111685785.1/1-336 PP 9*****************************************************************************99*****************************************.******************************************************************************
+WP_093974599.1/1-335         MTENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_093974599.1/1-335 PP 9*****************************************************************************99*****************************************.******************************************************************************
+WP_063632486.1/1-340         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_063632486.1/1-340 PP 99****************************************************************************99*****************************************99*****************************************************************************
+WP_136306237.1/1-336         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136306237.1/1-336 PP 89****************************************************************************99*****************************************.******************************************************************************
+WP_136309698.1/1-336         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLRYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136309698.1/1-336 PP 89****************************************************************************99*****************************************.******************************************************************************
+WP_136105377.1/1-340         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTDKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136105377.1/1-340 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_014411852.1/1-336         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFVRAGDGHNRFSELGYISPLDYNLLTNKPNIDELATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFDQSALFVDYKGTTNAVNIVMRQPTTPNFSS
+#=GR WP_014411852.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136302035.1/1-340         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSKGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_136302035.1/1-340 PP 99****************************************************************************99*****************************************99*****************************************************************************
+WP_136290259.1/1-338         MTETIPLRVQFKRMKAAEWASSDVVLLEGEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136290259.1/1-338 PP 9*****************************************************************************99*****************************************99*****************************************************************************
+WP_136263520.1/1-338         MSENIPLRVQFKRMTASEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_136263520.1/1-338 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136116639.1/1-336         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136116639.1/1-336 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_032464987.1/1-337         MAENIPLRVQFKRMSADEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLRYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_032464987.1/1-337 PP 89****************************************************************************99*****************************************99*****************************************************************************
+WP_136022555.1/1-338         MSENIPLRVQFKRMKAAEWARSDVILLESEIGFETDTGFARAGDGHNRFSDLRYIGPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136022555.1/1-338 PP 99****************************************************************************99*****************************************.******************************************************************************
+WP_136118594.1/4-337         --EVISARVRHKGMTKSEWESSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136118594.1/4-337 PP ..89**************************************************************************99*****************************************.******************************************************************************
+WP_136026303.1/1-332         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLDAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSKGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136026303.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_011017589.1/1-333         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLNLKGGVMTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYSGKTNAVNIAMRQPTTPNFSS
+#=GR WP_011017589.1/1-333 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_136048171.1/1-332         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLDAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSKGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136048171.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_115225215.1/1-332         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLNAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_115225215.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136286080.1/4-337         --EVISARVRHKGMTKSEWESSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136286080.1/4-337 PP ..89**************************************************************************99*****************************************.******************************************************************************
+WP_136263270.1/1-333         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLNAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136263270.1/1-333 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_011017970.1/1-332         MTETIPLRVQFKRMTAEEWARSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLDAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSKGAGIVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_011017970.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_047235257.1/1-332         MTETIPLRVQFKRMTAKEWASSAVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTGDGPLMSLRTGKETFNKSALFVDYKGTTNAVNIAMRQPSTPNFSS
+#=GR WP_047235257.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136094443.1/1-333         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKNQFSKLKYLNKLDLNAFAQKKETNSKITKLESN-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136094443.1/1-333 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_136262365.1/1-333         MTETIPLRVQFKRMTAEEWTRSDVILLESEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESNAKLAEKLSLTGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136262365.1/1-333 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_136075497.1/1-333         MTETIPLRVQFKRMTAKEWARSAVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESNAKLAEKLSLTGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAGVVVYSNNDTSDGPLMSLRTGKETFNKSALFVDYSGKTNAVNIAMRQPSTPNFSS
+#=GR WP_136075497.1/1-333 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_136059126.1/1-333         MTETIPLRVQFKRMTAEEWARSTVILLEGEIGLETDTGYAKFGDGKNRFSKLKYLNKPDLDAFAQKEETNSKITKLESS-----KADKNAVYLKAESNAKLDEKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSEGAAMVMYTNKDTTDGPLMILRSDKDTFDQSAQFVDYSGKTNAVNIVMRQPSAPNFSS
+#=GR WP_136059126.1/1-333 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136040101.1/1-330         MTETIPLRVQFKRMTAEEWARSDVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELNKKLSLTGGIVTGQLRLKPN-SGIKHSSSTGGAINIDMSKSKGAAMVMYTNKDTTDGPLMILRSDKDTFNQSVQFVDYRGKTNAVNIVMRQPSTPNFSS
+#=GR WP_136040101.1/1-330 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_194118501.1/4-339         --EVISARVRHKGMTKSEWESSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDASDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_194118501.1/4-339 PP ..89**************************************************************************99*****************************************.******************************************************************************
+WP_194118282.1/4-339         --EVISARVRHKGMTKSEWESSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMTGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDASDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_194118282.1/4-339 PP ..89**************************************************************************99*****************************************.******************************************************************************
+WP_136077128.1/1-332         MTETIPLRVQFKRMTAKEWASSTVILLEGEIGFETDTGYAKFGDGTSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLTGGIVTGQLRLKPN-SGIEKSSSTGGAINIDMSKSKGAGVVVYSNNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136077128.1/1-332 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_194102075.1/4-339         --EVISARVRHKGMTKSEWESSDVILLESEIGFETDTGFARAGDGHNRFSDLGYISPLDYNLLTNKPNIDGLATKVETAQKLQQKADKETVYTKAESKQELDKKLNLKGGVMPGQLKFKPA-ATVAYSSSTGGAVNIDLSSSRGAGVVVYSNNDASDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_194102075.1/4-339 PP ..89**************************************************************************99*****************************************.******************************************************************************
+WP_136308287.1/1-333         MTETIPLRVQFKRMTAKEWARSAVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLAGGIVTGQLRLKPN-SGIEKSSSTGGAINIDMSKSKGAAMVMYTNKDTTDGPLMILRSDKDTFDQSAQFVDYSGKTNAVNIVMRQPPTPNFSS
+#=GR WP_136308287.1/1-333 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136084472.1/1-333         MTETIPLRVQFKRMTAEEWARSDVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELNKKLSLTGGIVTGQLQFKPN-SGIKPSSSVGGAINIDMSKSEGAAMVMYTNKDTTDGPLMILRSDKDTFDQSAQFVDYSGKTNAVNIVMRQPSAPNFSS
+#=GR WP_136084472.1/1-333 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136267235.1/1-335         MTETIPLRVQFKRMTAEEWARSTVILLEGEIGLETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLAGGIVTGQLRLKPN-SGIEKSSSTGGAINIDMSKSKGAAMVMYTNKDTTDGPLMILRSNKDTFDQSVQFVDYRGKTNAVNIVMRQPPTPNFSS
+#=GR WP_136267235.1/1-335 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_012560951.1/1-333         MTETIPLRVQFKRMTAKEWASSAVILLEGEIGFETDTGYAKFGDGKSRFSELKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLAGGIVTGQLRLKPN-SGIEKSSSTGGAINIDMSKSKGAAMVMYTNKDTTDGPLMILRSNKDTFDQSVQFVDYRGKTNAVNIVMRQPPTPNFSS
+#=GR WP_012560951.1/1-333 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_038433336.1/1-333         MTETIPLRVQFKRMTAKEWASSAVILLEGEIGFETDTGYAKFGDGKSRFSKLKYLNKPDLGAFAQKEETNSKITKLESS-----KADKNAVYLKAESKIELDKKLSLTGGIVTGQLRLKPN-SGIEKSSSTGGAINIDMSKSKGAAMVMYTNKDTTDGPLMILRSNKDTFDQSVQFVDYRGKTNAVNIVMRQPSTPNFSS
+#=GR WP_038433336.1/1-333 PP 9******************************************************************************.....*************************************.******************************************************************************
+WP_136266396.1/1-334         MTETIPLRVQFKRMTAEEWARSDVILLESEIGFETDTGYAKFGDGENQFSKLKYLNKLDLDAFAQKKETNSKITKLESS-----KADKSAVYSKAESKIELDKKLSLTGGIVTGQLRLKPNKSGIKHSSSTGGAINIDMSKSEGAAMVMYTNKDTTDGPLMILRSNKDTFDQSAQFVDYKGKTNAVNIVMRQPSAPNFSS
+#=GR WP_136266396.1/1-334 PP 9******************************************************************************.....*************************************99*****************************************************************************
+WP_136290086.1/1-251         ---------------------------------------------------------------------------------------KSAVYSKAESKIELDKKLSLTGGIVTGQLQFKPNKSGIKPSSSVGGAINIDMSKSEGAAMVMYTNKDTTDGPLMILRSDKDTFDQSAQFVDYSGKTNAVNIVMRQPSAPNFSS
+#=GR WP_136290086.1/1-251 PP .......................................................................................789*******************************99*****************************************************************************
+WP_136106165.1/1-231         ---------------------------------------------------------------------------------------------------------SLTGGIVTGQLRLKPN-SGIKPSSSVGGAVNIDLSSTRGAGVVVYSDNDTSDGPLMSLRTGKETFNQSALFVDYKGTTNAVNIAMRQPTTPNFSS
+#=GR WP_136106165.1/1-231 PP .........................................................................................................69**************.******************************************************************************
+#=GC PP_cons                 99****************************************************************************9.....*************************************.******************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+WP_136059126.1               ALNITSANEGGSAMQIRGVEKALGTLKITHENPNVKANYDENAAALSIDIVKKT--NGEGTAAQGIYINSSTGTTGKMLRIRNKNEDKFYVGPDGGFHSYADSIVDGNLTVKDPTSGKHAATKDYVDKKFDELKKLIQKTD
+WP_136302685.1/1-338         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLIQKTD
+#=GR WP_136302685.1/1-338 PP ******************************************************..***********************************************************************************86
+WP_136019434.1/1-338         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLIQKTD
+#=GR WP_136019434.1/1-338 PP ******************************************************..***********************************************************************************86
+WP_136129412.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136129412.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_111695808.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_111695808.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136112860.1/1-337         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDKAISELKELIQK--
+#=GR WP_136112860.1/1-337 PP *****************************************************9.89********************************************************************************98..
+WP_136104748.1/1-336         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136104748.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136117198.1/1-335         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKNPTANDHAATKAYVDKAISELKKLI----
+#=GR WP_136117198.1/1-335 PP *****************************************************9.89*******************************************************************************9....
+WP_136038239.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136038239.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_029714406.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_029714406.1/1-336 PP ******************************************************..********************************************************************************975..
+WP_111705092.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_111705092.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_014635501.1/1-337         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVKANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_014635501.1/1-337 PP *****************************************************9.89********************************************************************************98..
+WP_030127700.1/1-337         ALNITSGNENGSAMQIRGVEKALGTLKITHENPSIKADYDKNAAALSIDIVKKQESGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_030127700.1/1-337 PP *****************************************************8778******************************************************************************996...
+WP_020837648.1/1-336         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_020837648.1/1-336 PP *****************************************************9.89******************************************************************************996...
+WP_136268000.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136268000.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136286777.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136286777.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136305627.1/1-339         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKMLRIRNKNKDKFYVNPDGGFHSYADSIVDGNLTVKDPTSGKHAATKDYVDKKFDELKKLIQKTD
+#=GR WP_136305627.1/1-339 PP ******************************************************..***********************************************************************************86
+WP_136297394.1/1-335         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKPDGGFYAKATSQIDGNLKLKDPAASDHAATKAYVDGEVEKLKALLT---
+#=GR WP_136297394.1/1-335 PP ******************************************************..*******************************************************************************996...
+WP_011184912.1/1-337         ALNITSGNENGSAMQIRGVEKALGTLKITHENPSIKADYDKNAAALSIDIVKKQESGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_011184912.1/1-337 PP *****************************************************8778******************************************************************************996...
+WP_136119078.1/1-336         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_136119078.1/1-336 PP *****************************************************9.89******************************************************************************996...
+WP_136109102.1/1-337         ALNITSGNENGSAMQIRGIEKALGTLKITHENPSLEANYDKDAAALSIDIVKKQEGGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDSEVKKLKELLT---
+#=GR WP_136109102.1/1-337 PP *****************************************************97789******************************************************************************96...
+WP_136270727.1/1-340         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTAGKMLRIRNENKDKFYVNPDGGFWSCANSTVTGNLTVKDPTSEKHAATKKYVDEKIAELKKLIQKTD
+#=GR WP_136270727.1/1-340 PP *****************************************************9.89**********************************************************************************86
+WP_111685785.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGEGTAAQGIYINSSTGTTGKMLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVKDPTSGKHAATKDYVDEKIAELKKLILK--
+#=GR WP_111685785.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_093974599.1/1-335         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKPDGGFYAKATSQIDGNLKLKDPAASDHAATKAYVDGEVEKLKALLT---
+#=GR WP_093974599.1/1-335 PP ******************************************************..*******************************************************************************996...
+WP_063632486.1/1-340         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTAGKMLRIRNENKDKFYVNPDGGFWSCANSTVTGNLTVKDPTSEKHAATKKYVDEKIAELKKLIQKTD
+#=GR WP_063632486.1/1-340 PP *****************************************************9.89**********************************************************************************86
+WP_136306237.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVNYPTSEKHAATKKYVDEKFDELKKLIQK--
+#=GR WP_136306237.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136309698.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVNYPTSEKHAATKKYVDEKIAELKKLIHK--
+#=GR WP_136309698.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_136105377.1/1-340         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIKADYDKNAAALSIDIVGKRGASGNGTAAQGIFINSSAGTTGKMLRIRNKNKDKFYVNPDGGFHSYADSIVDGNLTVKDPTSGKHAATKDYVDKKFDELKKLIQKTD
+#=GR WP_136105377.1/1-340 PP ***************************************************997668**********************************************************************************86
+WP_014411852.1/1-336         ALNITSDNENGSAMQLRGSEKALGTLKITHENPSLEANYDKNAAALSIDIVEKK-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_014411852.1/1-336 PP ***************************************************665.49******************************************************************************996...
+WP_136302035.1/1-340         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTAGKMLRIRNENKDKFYVNSDGGFWSCANSTVTGNLTVKDPTSGKHAATKDYVDEKIAELKKLIQKTD
+#=GR WP_136302035.1/1-340 PP *****************************************************9.89**********************************************************************************86
+WP_136290259.1/1-338         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136290259.1/1-338 PP *****************************************************9.89********************************************************************************98..
+WP_136263520.1/1-338         ALNITSGNENGSAMQIRGIEKALGTLKITHENPSLEANYDKDAAALSIDIVKKQEGGGNGTAAQGIYINSTSGTTGKLLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVNYPTSEKHAATKKYVDEKFDELKKLIQK--
+#=GR WP_136263520.1/1-338 PP *****************************************************97779*******************************************************************************98..
+WP_136116639.1/1-336         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGGGTAAQGIYINSSTGTTGKMLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVNYPTSEKHAATKKYVDEKIAELKKLIHK--
+#=GR WP_136116639.1/1-336 PP ******************************************************..*********************************************************************************98..
+WP_032464987.1/1-337         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVNYPTSEKHAATKKYVDEKFDELKKLIQK--
+#=GR WP_032464987.1/1-337 PP ******************************************************..*********************************************************************************98..
+WP_136022555.1/1-338         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIKADYDKNAAALSIDIVEKKKGGGKGTAAQGIFINSSAGTTGKMLRIRNKNKDKFYVGPNGDFWSCASSIVDGNLTVKDPTSGKHAATKDYVDKAIAELKKLIQK--
+#=GR WP_136022555.1/1-338 PP ***************************************************6654689*******************************************************************************98..
+WP_136118594.1/4-337         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136118594.1/4-337 PP ******************************************************..*********************************************************************************98..
+WP_136026303.1/1-332         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKKYVDEKIAELKRLILK--
+#=GR WP_136026303.1/1-332 PP *****************************************************9.89********************************************************************************98..
+WP_011017589.1/1-333         ALNITSGNENGSAMQIRGVEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_011017589.1/1-333 PP *****************************************************9.89*******************************************************************************975..
+WP_136048171.1/1-332         ALNITSANKDGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKKYVDEKIAELKKLILK--
+#=GR WP_136048171.1/1-332 PP *****************************************************9.89********************************************************************************98..
+WP_115225215.1/1-332         ALNITSGNENGSAMQIRGVEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_115225215.1/1-332 PP *****************************************************9.89*******************************************************************************975..
+WP_136286080.1/4-337         ALNITSGNENGSAMQLRGSERALGTLKITHENPSLEANYDKDAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLNDDKFYVKPDGGFYAKETSQIDGNLKLKDPIANDHAATKAYVDGEVEKLKALLT---
+#=GR WP_136286080.1/4-337 PP *****************************************************9.89******************************************************************************996...
+WP_136263270.1/1-333         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNKNEDKFYVNPDGGFHSYADSIVDGNLTVKNPTSNEHAVTKKYVDEKFDELKKLIQK--
+#=GR WP_136263270.1/1-333 PP *****************************************************9.89********************************************************************************98..
+WP_011017970.1/1-332         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEAKYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTAGKMLRIRNKNKDKFYVGPDGDFWSCASSIVDGNLTVKDPTSGKHAATKDYVDEKIAELKKLILK--
+#=GR WP_011017970.1/1-332 PP *****************************************************9.89********************************************************************************98..
+WP_047235257.1/1-332         ALNITSGNENGSAMQIRGVEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_047235257.1/1-332 PP *****************************************************9.89*******************************************************************************975..
+WP_136094443.1/1-333         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_136094443.1/1-333 PP *****************************************************9.89*******************************************************************************975..
+WP_136262365.1/1-333         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_136262365.1/1-333 PP *****************************************************9.89*******************************************************************************975..
+WP_136075497.1/1-333         ALNITSGNENGSAMQLRGSEKALGTLKITHENPNVEANYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVKHDGGFYAKKTSQIDGNLKLKNPTADDHAATKAYVDSEVKKLKALLMD--
+#=GR WP_136075497.1/1-333 PP *****************************************************9.89*******************************************************************************975..
+WP_136059126.1/1-333         ALNITSANEGGSAMQIRGVEKALGTLKITHENPNVKANYDENAAALSIDIVKKT--NGEGTAAQGIYINSSTGTTGKMLRIRNKNEDKFYVGPDGGFHSYADSIVDGNLTVKDPTSGKHAATKDYVDKKFDELKKLIQKTD
+#=GR WP_136059126.1/1-333 PP ******************************************************..***********************************************************************************86
+WP_136040101.1/1-330         ALNITSANEGGSAMQLRGSEEALGTLKITHENPSLKANYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLGDDKFYVEHDGGFYAKKTSQIDGNLKLKNPTASDHAATKAYVDDEVKKLKALLT---
+#=GR WP_136040101.1/1-330 PP ******************************************************..********************************************************************************96...
+WP_194118501.1/4-339         ALNITSGNENGSAMQIRGIERALGTLKITHENPSANAKYDDNAAALSIDIVGKRGASGNGTAAQGIFINSSTGTTGKMLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVKDPTSGKHAATKDYVDEKIAELKKLILK--
+#=GR WP_194118501.1/4-339 PP ***************************************************997668********************************************************************************98..
+WP_194118282.1/4-339         ALNITSGNENGSAMQIRGIERALGTLKITHENPSANAKYDENAAALSIDIVGKRRASGNGTAAQGIFINSSAGTTGKMLRIRNKNVDKFYVGPDGGFWSCANSTVAGNLTVNDPTSSKHAVTKDYVDKEIAKLKELIQK--
+#=GR WP_194118282.1/4-339 PP ***************************************************886569********************************************************************************98..
+WP_136077128.1/1-332         ALNITSANKDGSAMQIRGVEKALGTLKITHENPSVDKEYDKNAAALSIDIVKKKKGGGNGTAAQGIFINSSTGTTGKLLRIRNLNEDKFYVEPNGGFYAKKTSQIDGNLKLKDLTADDHAATKAYVDSEVKKLKELLT---
+#=GR WP_136077128.1/1-332 PP ***************************************************9876789******************************************************************************96...
+WP_194102075.1/4-339         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSANAKYDENAAALSIDIVGKRRASGNGTAAQGIFINSSAGTTGKMLRIRNKNVDKFYVGPDGGFWSCANSTVAGNLTVNDPTSSKHAVTKDYVDKEIAKLKELIQK--
+#=GR WP_194102075.1/4-339 PP ***************************************************886569********************************************************************************98..
+WP_136308287.1/1-333         ALNITSANEGGSAMQIRGVEKALGTLKITHENPSVDKEYDKNAAALSIDIVKKKKGGGDGTAAQGIFINSSSGTTGKLLRIRNKNEDKFYVNPDGGFHSYADSIVDGNLTVKNPTSNEHAVTKKYVDEKFDELKKLIQK--
+#=GR WP_136308287.1/1-333 PP ***************************************************9876789*******************************************************************************98..
+WP_136084472.1/1-333         ALNITSANEGGSAMQIRGVEKALGTLKITHENPNVEAKYDENAAALSIDIVEKKKGGGKGTAAQGIFINSSAGTTGKMLRIRNKNKDKFYVNPDGGFWSCANSTVTGNLTVNDPTSSKHAATKDYVDKAIAELKKLIQK--
+#=GR WP_136084472.1/1-333 PP ***************************************************6654689*******************************************************************************98..
+WP_136267235.1/1-335         ALNITSANEGGSAMQIRGVEKALGTLKITHENPSVDKEYDKNAAALSIDIVKKKKGGGDGTAAQGIFINSSSGTTGKLLRIRNKNEDKFYVNPDGGFHSYADSIVDGNLTVKDPTSGKHAATKDYVDKKFDELKKLIQKTD
+#=GR WP_136267235.1/1-335 PP ***************************************************9876789*********************************************************************************86
+WP_012560951.1/1-333         ALNITSANEGGSAMQIRGVEKALGTLKITHENPSVDKEYDKNAAALSIDIVKKKKGGGDGTAAQGIFINSSSGTTGKLLRIRNKNEDKFYVNPDGGFHSYADSIVDGNLTVKNPTSNEHAVTKKYVDEKFDELKKLIQK--
+#=GR WP_012560951.1/1-333 PP ***************************************************9876789*******************************************************************************98..
+WP_038433336.1/1-333         ALNITSANEGGSAMQIRGVEKALGTLKITHENPSVNKEYDKNAAALSIDIVKKKKGGGNGTAAQGIFINSSTGTTGKLLRIRNKNEDKFYVNPDGGFHSYADSIVDGNLTVKNPTSNEHAVTKKYVDEKFDELKELIQK--
+#=GR WP_038433336.1/1-333 PP ***************************************************9876789*******************************************************************************98..
+WP_136266396.1/1-334         ALNITSANEGGSAMQIRGSEEALGTLKITHENPSLEANYDKNAAALSIDIVEKKKGGGKGTAAQGIFINSSAGTTGKMLRIRNKNKDKFYVGPDGGFWSCANSIVIGNLTVKDPTSNEHAVTKKYVDEKFDELKKLIQK--
+#=GR WP_136266396.1/1-334 PP ***************************************************6654689*******************************************************************************98..
+WP_136290086.1/1-251         ALNITSANEGGSAMQIRGVEKALGTLKITHENPNVEAKYDENAAALSIDIVKKQ-KGGKGTAAQGIYINSTSGTAGKMLRIRNKNEDKFYVGPDGGFHSGANSTVAGNLTVKDPTSGKHAATKDYVDEKIAELKKLILK--
+#=GR WP_136290086.1/1-251 PP *****************************************************9.89********************************************************************************98..
+WP_136106165.1/1-231         ALNITSGNENGSAMQLRGSEKALGTLKITHENPSIGADYDKNAAALSIDIVKKT--NGAGTAAQGIYINSTSGTTGKLLRIRNLSDDKFYVKSDGGFYAKETSQIDGNLKLKDPTANDHAATKAYVDKAISELKKLILK--
+#=GR WP_136106165.1/1-231 PP ******************************************************..*********************************************************************************98..
+#=GC PP_cons                 ****************************************************99..9********************************************************************************8886
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

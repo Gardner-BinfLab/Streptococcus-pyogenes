@@ -1,0 +1,146 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/60334.fa
+# target sequence database:        orphan-spyogenes-protein-ids.2.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/60334-cluster66.jackhmmer
+# MSA of hits saved to file:       orphan-fams/60334-cluster66.stk
+# per-dom hits tabular output:     orphan-fams/60334-cluster66.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       GCF_900995505.1|WP_063812070.1  [L=312]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
++  1.8e-209  688.3  13.5     2e-209  688.1  13.5    1.0  1  GCF_900995505.1|WP_063812070.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900995505.1|WP_063812070.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.1  13.5  6.8e-212    2e-209       1     312 []       1     312 []       1     312 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 688.1 bits;  conditional E-value: 6.8e-212
+  GCF_900995505.1|WP_063812070.1   1 mneelqnffcvkaseriekiitsrgksffeiysensniiswivsgkrtkrnpylltdtavqrinesvhgqelsdkenry 79 
+                                     mneelqnffcvkaseriekiitsrgksffeiysensniiswivsgkrtkrnpylltdtavqrinesvhgqelsdkenry
+  GCF_900995505.1|WP_063812070.1   1 MNEELQNFFCVKASERIEKIITSRGKSFFEIYSENSNIISWIVSGKRTKRNPYLLTDTAVQRINESVHGQELSDKENRY 79 
+                                     8****************************************************************************** PP
+
+  GCF_900995505.1|WP_063812070.1  80 qcrviswgddeeigdyipemmklivknlrdeqqlifdetlmddiyfaetiayteilneynshfldvdmeqlytedvpis 158
+                                     qcrviswgddeeigdyipemmklivknlrdeqqlifdetlmddiyfaetiayteilneynshfldvdmeqlytedvpis
+  GCF_900995505.1|WP_063812070.1  80 QCRVISWGDDEEIGDYIPEMMKLIVKNLRDEQQLIFDETLMDDIYFAETIAYTEILNEYNSHFLDVDMEQLYTEDVPIS 158
+                                     ******************************************************************************* PP
+
+  GCF_900995505.1|WP_063812070.1 159 rhlaemelleaieedfknefikfldsskyvrtkvngkdeyvnkgitfknqfgcddivnlflrvvnahklsieesighrv 237
+                                     rhlaemelleaieedfknefikfldsskyvrtkvngkdeyvnkgitfknqfgcddivnlflrvvnahklsieesighrv
+  GCF_900995505.1|WP_063812070.1 159 RHLAEMELLEAIEEDFKNEFIKFLDSSKYVRTKVNGKDEYVNKGITFKNQFGCDDIVNLFLRVVNAHKLSIEESIGHRV 237
+                                     ******************************************************************************* PP
+
+  GCF_900995505.1|WP_063812070.1 238 ysivkkdvskldslieeelvydtvyapyrqdkireaefefqhgiikagqdyikslydthksrnetwnklrkegei 312
+                                     ysivkkdvskldslieeelvydtvyapyrqdkireaefefqhgiikagqdyikslydthksrnetwnklrkegei
+  GCF_900995505.1|WP_063812070.1 238 YSIVKKDVSKLDSLIEEELVYDTVYAPYRQDKIREAEFEFQHGIIKAGQDYIKSLYDTHKSRNETWNKLRKEGEI 312
+                                     *************************************************************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (312 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                         3  (0.0103448); expected 5.8 (0.02)
+Passed bias filter:                        2  (0.00689655); expected 5.8 (0.02)
+Passed Vit filter:                         1  (0.00344828); expected 0.3 (0.001)
+Passed Fwd filter:                         1  (0.00344828); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.08u 0.03s 00:00:00.11 Elapsed: 00:00:00.33
+# Mc/sec: 18.59
+
+@@ New targets included:   1
+@@ New alignment includes: 2 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        2 subsequences (query + 1 subseqs from 1 targets)
+@@ Model size:             312 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
+   6.8e-224  735.9  16.2   7.6e-224  735.8  16.2    1.0  1  GCF_900995505.1|WP_063812070.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900995505.1|WP_063812070.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  735.8  16.2  2.6e-226  7.6e-224       1     312 []       1     312 []       1     312 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 735.8 bits;  conditional E-value: 2.6e-226
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900995505.1|WP_063812070.1-i1   1 mneelqnffcvkaseriekiitsrgksffeiysensniiswivsgkrtkrnpylltdtavqrinesvhgqelsdke 76 
+                                        mneelqnffcvkaseriekiitsrgksffeiysensniiswivsgkrtkrnpylltdtavqrinesvhgqelsdke
+     GCF_900995505.1|WP_063812070.1   1 MNEELQNFFCVKASERIEKIITSRGKSFFEIYSENSNIISWIVSGKRTKRNPYLLTDTAVQRINESVHGQELSDKE 76 
+                                        9*************************************************************************** PP
+
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900995505.1|WP_063812070.1-i1  77 nryqcrviswgddeeigdyipemmklivknlrdeqqlifdetlmddiyfaetiayteilneynshfldvdmeqlyt 152
+                                        nryqcrviswgddeeigdyipemmklivknlrdeqqlifdetlmddiyfaetiayteilneynshfldvdmeqlyt
+     GCF_900995505.1|WP_063812070.1  77 NRYQCRVISWGDDEEIGDYIPEMMKLIVKNLRDEQQLIFDETLMDDIYFAETIAYTEILNEYNSHFLDVDMEQLYT 152
+                                        **************************************************************************** PP
+
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900995505.1|WP_063812070.1-i1 153 edvpisrhlaemelleaieedfknefikfldsskyvrtkvngkdeyvnkgitfknqfgcddivnlflrvvnahkls 228
+                                        edvpisrhlaemelleaieedfknefikfldsskyvrtkvngkdeyvnkgitfknqfgcddivnlflrvvnahkls
+     GCF_900995505.1|WP_063812070.1 153 EDVPISRHLAEMELLEAIEEDFKNEFIKFLDSSKYVRTKVNGKDEYVNKGITFKNQFGCDDIVNLFLRVVNAHKLS 228
+                                        **************************************************************************** PP
+
+                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900995505.1|WP_063812070.1-i1 229 ieesighrvysivkkdvskldslieeelvydtvyapyrqdkireaefefqhgiikagqdyikslydthksrnetwn 304
+                                        ieesighrvysivkkdvskldslieeelvydtvyapyrqdkireaefefqhgiikagqdyikslydthksrnetwn
+     GCF_900995505.1|WP_063812070.1 229 IEESIGHRVYSIVKKDVSKLDSLIEEELVYDTVYAPYRQDKIREAEFEFQHGIIKAGQDYIKSLYDTHKSRNETWN 304
+                                        **************************************************************************** PP
+
+                                        xxxxxxxx RF
+  GCF_900995505.1|WP_063812070.1-i1 305 klrkegei 312
+                                        klrkegei
+     GCF_900995505.1|WP_063812070.1 305 KLRKEGEI 312
+                                        *******8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (312 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                         2  (0.00689655); expected 5.8 (0.02)
+Passed bias filter:                        2  (0.00689655); expected 5.8 (0.02)
+Passed Vit filter:                         1  (0.00344828); expected 0.3 (0.001)
+Passed Fwd filter:                         1  (0.00344828); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.40u 0.02s 00:00:00.42 Elapsed: 00:00:00.54
+# Mc/sec: 11.36
+
+@@ New targets included:   0
+@@ New alignment includes: 2 subseqs (was 2), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 2 hits satisfying inclusion thresholds saved to: orphan-fams/60334-cluster66.stk
+//
+[ok]

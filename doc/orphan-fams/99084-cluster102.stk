@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136262750.1-i2
+
+#=GS WP_136262750.1      DE MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_110410863.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136262750.1/1-67 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136300329.1/1-66 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136303854.1/9-72 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136022100.1/1-65 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136262750.1              MTDRANDILTDYEGICGQVSDVLKVLDLAAQEYSKETTSAIINTSCHALNYLIADHTKITHKYREKA
+WP_110410863.1/1-67         MTDRVNDILTDYEGLCGQLMDILNVLDLAAQEYSKETTSAIINTSCHALNYLIADHTKITHKYREKA
+#=GR WP_110410863.1/1-67 PP 9****************************************************************97
+WP_136262750.1/1-67         MTDRANDILTDYEGICGQVSDVLKVLDLAAQEYSKETTSAIINTSCHALNYLIADHTKITHKYREKA
+#=GR WP_136262750.1/1-67 PP 9****************************************************************97
+WP_136300329.1/1-66         MTDRANDILTDYEGLCGQLMDILNVLDLAAQEYSKETTSAIINTSCSALKCLISDHDKTTHKYRKE-
+#=GR WP_136300329.1/1-66 PP 9***************************************************************97.
+WP_136303854.1/9-72         --EIANDILVDYEGLCGQLMDILDVLDLAAQEYSKETTSTIINTSCSALKCLISDHDKTTRKYRKE-
+#=GR WP_136303854.1/9-72 PP ..789***********************************************************97.
+WP_136022100.1/1-65         MTTNEFSILTDCEGLLGQLGDVLQVSELASMEDDRDSIISLLNTSNLALNQLLSNHRTIIGEYRE--
+#=GR WP_136022100.1/1-65 PP 9***************************************************************9..
+#=GC PP_cons                9*9*************************************************************987
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

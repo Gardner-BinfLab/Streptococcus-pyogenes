@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+#=GF ID WP_018451764.1-i2
+
+#=GS WP_018451764.1      DE MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+#=GS WP_018451764.1/1-27 DE [subseq from] MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+#=GS WP_001814874.1/1-27 DE [subseq from] MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+
+WP_018451764.1              MLVFQIRNVDKTSTVLKQTKNSDYADK
+WP_018451764.1/1-27         MLVFQIRNVDKTSTVLKQTKNSDYADK
+#=GR WP_018451764.1/1-27 PP **************************9
+WP_001814874.1/1-27         MLVFQMRNVDKTSTVLKQTKNSDYADK
+#=GR WP_001814874.1/1-27 PP **************************9
+#=GC PP_cons                **************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

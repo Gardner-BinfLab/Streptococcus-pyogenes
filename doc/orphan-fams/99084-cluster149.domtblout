@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_111704756.1       -             80 WP_111704756.1       -             80   1.9e-56  184.2   0.4   1   1   1.1e-58     2e-56  184.0   0.4     1    80     1    80     1    80 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136270134.1       -            158 WP_111704756.1       -             80   1.8e-27   91.3   0.0   1   1   1.5e-29   2.7e-27   90.7   0.0    27    80    19    72     3    72 0.93 hypothetical protein [Streptococcus pyogenes]
+WP_136069629.1       -            155 WP_111704756.1       -             80   3.2e-27   90.5   0.2   1   1   2.7e-29   4.9e-27   89.9   0.2    31    80    19    69     4    69 0.89 hypothetical protein [Streptococcus pyogenes]
+WP_136299627.1       -            157 WP_111704756.1       -             80   7.1e-26   86.2   0.1   1   1     6e-28   1.1e-25   85.6   0.1    33    79    21    70     7    71 0.92 hypothetical protein [Streptococcus pyogenes]
+WP_136263501.1       -            157 WP_111704756.1       -             80   8.7e-26   85.9   0.2   1   1   7.2e-28   1.3e-25   85.3   0.2    33    79    21    70     7    71 0.92 hypothetical protein [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster149.jackhmmer -A orphan-fams/99084-cluster149.stk --domtblout orphan-fams/99084-cluster149.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:26:14 2021
+# [ok]

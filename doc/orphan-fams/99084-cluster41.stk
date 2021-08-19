@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136094347.1-i2
+
+#=GS WP_136094347.1      DE peptide pheromone SHP2 [Streptococcus pyogenes]
+#=GS WP_128650799.1/1-22 DE [subseq from] peptide pheromone SHP2 [Streptococcus pyogenes]
+#=GS WP_142353550.1/1-22 DE [subseq from] peptide pheromone SHP2 [Streptococcus pyogenes]
+#=GS WP_136094347.1/1-22 DE [subseq from] peptide pheromone SHP2 [Streptococcus pyogenes]
+
+WP_136094347.1              MKKVNKALLFTLIIDILIIVGG
+WP_128650799.1/1-22         MKKVNKALLFTLIMDILIIVGG
+#=GR WP_128650799.1/1-22 PP *********************9
+WP_142353550.1/1-22         MKKVNKALFFTLIMDILIIVGG
+#=GR WP_142353550.1/1-22 PP *********************9
+WP_136094347.1/1-22         MKKVNKALLFTLIIDILIIVGG
+#=GR WP_136094347.1/1-22 PP *********************9
+#=GC PP_cons                *********************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxx
+//

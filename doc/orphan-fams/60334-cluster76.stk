@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+#=GF ID GCF_000756485.1|WP_038433483.1-i2
+
+#=GS GCF_000756485.1|WP_038433483.1/1-219 DE [subseq from] GCF_000756485.1|WP_038433483.1
+
+GCF_000756485.1|WP_038433483.1               MIKIDEIHRILGIDEVYKAPKRLTDILFDKDSREDIFRQFLDIEADLSYDWFMRYFEDEHADRKNKKQDFTPLSVSKLLTGLVSGHTYHESAVGTGGILIQAWQRHRISSNPFTYKPSDYWYQVEELSDRALPFLLFNMSIRGINGVVVHGDSLTRQVKNIYFLQNTKDDMLSFSDINVMPRTQDIEREFNVKEWIGDAI
+GCF_000756485.1|WP_038433483.1/1-219         MIKIDEIHRILGIDEVYKAPKRLTDILFDKDSREDIFRQFLDIEADLSYDWFMRYFEDEHADRKNKKQDFTPLSVSKLLTGLVSGHTYHESAVGTGGILIQAWQRHRISSNPFTYKPSDYWYQVEELSDRALPFLLFNMSIRGINGVVVHGDSLTRQVKNIYFLQNTKDDMLSFSDINVMPRTQDIEREFNVKEWIGDAI
+#=GR GCF_000756485.1|WP_038433483.1/1-219 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+GCF_000756485.1|WP_038433483.1               VHVESKLNALTRHRAPVSK
+GCF_000756485.1|WP_038433483.1/1-219         VHVESKLNALTRHRAPVSK
+#=GR GCF_000756485.1|WP_038433483.1/1-219 PP ******************8
+#=GC PP_cons                                 ******************8
+#=GC RF                                      xxxxxxxxxxxxxxxxxxx
+//

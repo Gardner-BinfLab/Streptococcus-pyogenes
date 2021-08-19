@@ -1,0 +1,135 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster144.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster144.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster144.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_018451764.1  [L=27]
+Description: MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   3.9e-16   50.1   0.2    4.1e-16   50.1   0.2    1.0  1  WP_018451764.1  MULTISPECIES: 23S rRNA methyltransferase atte
++   1.2e-15   48.7   0.2    1.2e-15   48.7   0.2    1.0  1  WP_001814874.1  MULTISPECIES: 23S rRNA methyltransferase atte
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_018451764.1  MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   50.1   0.2   8.9e-19   4.1e-16       1      27 []       1      27 []       1      27 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 50.1 bits;  conditional E-value: 8.9e-19
+  WP_018451764.1  1 mlvfqirnvdktstvlkqtknsdyadk 27
+                    mlvfqirnvdktstvlkqtknsdyadk
+  WP_018451764.1  1 MLVFQIRNVDKTSTVLKQTKNSDYADK 27
+                    89************************8 PP
+
+>> WP_001814874.1  MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.7   0.2   2.7e-18   1.2e-15       1      27 []       1      27 []       1      27 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 48.7 bits;  conditional E-value: 2.7e-18
+  WP_018451764.1  1 mlvfqirnvdktstvlkqtknsdyadk 27
+                    mlvfq+rnvdktstvlkqtknsdyadk
+  WP_001814874.1  1 MLVFQMRNVDKTSTVLKQTKNSDYADK 27
+                    89************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (27 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        28  (0.0305344); expected 18.3 (0.02)
+Passed bias filter:                       25  (0.0272628); expected 18.3 (0.02)
+Passed Vit filter:                         6  (0.00654308); expected 0.9 (0.001)
+Passed Fwd filter:                         2  (0.00218103); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.03u 0.03s 00:00:00.06 Elapsed: 00:00:00.23
+# Mc/sec: 11.26
+
+@@ New targets included:   2
+@@ New alignment includes: 3 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        3 subsequences (query + 2 subseqs from 2 targets)
+@@ Model size:             27 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    7.9e-25   82.4   3.8    8.3e-25   82.3   3.8    1.0  1  WP_018451764.1  MULTISPECIES: 23S rRNA methyltransferase atte
+    1.5e-24   81.5   4.9    1.6e-24   81.4   4.9    1.0  1  WP_001814874.1  MULTISPECIES: 23S rRNA methyltransferase atte
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_018451764.1  MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   82.3   3.8   1.8e-27   8.3e-25       1      27 []       1      27 []       1      27 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 82.3 bits;  conditional E-value: 1.8e-27
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_018451764.1-i1  1 MLVFQiRNVDKTSTVLKQTKNSDYADK 27
+                       MLVFQiRNVDKTSTVLKQTKNSDYADK
+     WP_018451764.1  1 MLVFQIRNVDKTSTVLKQTKNSDYADK 27
+                       **************************9 PP
+
+>> WP_001814874.1  MULTISPECIES: 23S rRNA methyltransferase attenuation leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   81.4   4.9   3.5e-27   1.6e-24       1      27 []       1      27 []       1      27 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 81.4 bits;  conditional E-value: 3.5e-27
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_018451764.1-i1  1 MLVFQiRNVDKTSTVLKQTKNSDYADK 27
+                       MLVFQ+RNVDKTSTVLKQTKNSDYADK
+     WP_001814874.1  1 MLVFQMRNVDKTSTVLKQTKNSDYADK 27
+                       **************************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (27 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        21  (0.0229008); expected 18.3 (0.02)
+Passed bias filter:                       17  (0.0185387); expected 18.3 (0.02)
+Passed Vit filter:                         2  (0.00218103); expected 0.9 (0.001)
+Passed Fwd filter:                         2  (0.00218103); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.06u 0.03s 00:00:00.09 Elapsed: 00:00:00.23
+# Mc/sec: 11.26
+
+@@ New targets included:   0
+@@ New alignment includes: 3 subseqs (was 3), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 3 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster144.stk
+//
+[ok]

@@ -1,0 +1,42 @@
+# STOCKHOLM 1.0
+#=GF ID WP_023611649.1-i2
+
+#=GS WP_023611649.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168388561.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011018135.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168393008.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054814.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_164977039.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136113256.1/1-56 DE [subseq from] VWA domain-containing protein [Streptococcus pyogenes]
+#=GS WP_002995952.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168388873.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023611649.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136107771.1/1-60 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_085577345.1/1-46 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_023611649.1              MKKYIEFYD----EWKSATDHLNDFIEKNKYAKVTVVGYQVIKNSLCEKALTYILAEVEE
+WP_168388561.1/1-56         MRKYIEFKD----EWKSATDHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVEE
+#=GR WP_168388561.1/1-56 PP 9********....**********************************************8
+WP_011018135.1/1-56         MRKYIEFKD----EWKSAADHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVEE
+#=GR WP_011018135.1/1-56 PP 9********....**********************************************8
+WP_168393008.1/1-56         MRKYIEFKD----EWKSATDHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVNE
+#=GR WP_168393008.1/1-56 PP 9********....*********************************************98
+WP_011054814.1/1-55         MRKYIEFKD----EWKSAVDHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVE-
+#=GR WP_011054814.1/1-55 PP 9********....*********************************************9.
+WP_164977039.1/1-55         MRKYIEFKD----EWKSAADHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVE-
+#=GR WP_164977039.1/1-55 PP 9********....*********************************************9.
+WP_136113256.1/1-56         MRKYIEFKD----EWKSAADHLNDFIDKNKHAKVTVVGYQVVQLSPYGRDLTYILAEVEE
+#=GR WP_136113256.1/1-56 PP 9********....**********************************************8
+WP_002995952.1/1-56         MKRYIEVKD----EWKSATDHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVEE
+#=GR WP_002995952.1/1-56 PP 9********....**********************************************8
+WP_168388873.1/1-55         MKRYIEVKD----EWKSATDHLNDFIDKNKYAKVTVVGYQVVQLSPYGRDLTYILAEVE-
+#=GR WP_168388873.1/1-55 PP 9********....*********************************************9.
+WP_023611649.1/1-56         MKKYIEFYD----EWKSATDHLNDFIEKNKYAKVTVVGYQVIKNSLCEKALTYILAEVEE
+#=GR WP_023611649.1/1-56 PP 9********....**********************************************8
+WP_136107771.1/1-60         MRKYIEFYDGKEGPYRRAIDDLNKFISENENLKIKVVSYQVVRYEQLNRERVYVLAEVEE
+#=GR WP_136107771.1/1-60 PP 9**********************************************************8
+WP_085577345.1/1-46         MRKYIEFKD----EWKSAADHLNDFIDKNKYAKVTVVGYQVVQLSPYGRE----------
+#=GR WP_085577345.1/1-46 PP 9********....************************************8..........
+#=GC PP_cons                9********....**********************************************8
+#=GC RF                     xxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

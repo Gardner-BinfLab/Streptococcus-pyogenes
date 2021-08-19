@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136290047.1-i3
+
+#=GS WP_136290047.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136290047.1/1-60 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153279679.1/1-55 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153277406.1/3-29 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168419916.1/3-29 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276769.1/3-29 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136290047.1              METIQNSIALKHPVPDVEMSSGFGTIQNSIALKPFWDTSIYRTGFGTIQNSIALKLIGKR
+WP_136290047.1/1-60         METIQNSIALKHPVPDVEMSSGFGTIQNSIALKPFWDTSIYRTGFGTIQNSIALKLIGKR
+#=GR WP_136290047.1/1-60 PP 9**********************************************************9
+WP_153279679.1/1-55         METIQNSIALKQTQEEYQAGVGFETIQNSIALKPTVVNGVVRLCFGTIQNSIALK-----
+#=GR WP_153279679.1/1-55 PP 9*****************************************************9.....
+WP_153277406.1/3-29         ----------------------------SLLPTPFWDTSIYRTGTVGIEPTHLLL-----
+#=GR WP_153277406.1/3-29 PP ............................9***********************995.....
+WP_168419916.1/3-29         ----------------------------SLLPTPFWDTSIYRTGTVGIEPTHLLL-----
+#=GR WP_168419916.1/3-29 PP ............................9***********************995.....
+WP_153276769.1/3-29         ----------------------------SLLPTPFWDTSIYRTGTVGIEPTHLLL-----
+#=GR WP_153276769.1/3-29 PP ............................9***********************995.....
+#=GC PP_cons                9***************************9***********************997****9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

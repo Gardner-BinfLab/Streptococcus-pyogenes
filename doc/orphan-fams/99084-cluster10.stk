@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_001814923.1-i2
+
+#=GS WP_001814923.1      DE MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+#=GS WP_001791010.1/1-38 DE [subseq from] MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+#=GS WP_001814923.1/1-38 DE [subseq from] MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+#=GS WP_194132547.1/1-38 DE [subseq from] tetracycline resistance determinant leader peptide [Streptococcus pyogenes]
+
+WP_001814923.1              MILKYPENICMLCMPMVMHKNPSDKSIYHWDFYALLGF
+WP_001791010.1/1-38         MILKYPENICMLCIPMVMHKNPSDKSIYHWDFYALLGF
+#=GR WP_001791010.1/1-38 PP 9************************************9
+WP_001814923.1/1-38         MILKYPENICMLCMPMVMHKNPSDKSIYHWDFYALLGF
+#=GR WP_001814923.1/1-38 PP 9************************************9
+WP_194132547.1/1-38         MILKYPENICMLCIPMVMHKNPSDKSIYHWVFYALLGF
+#=GR WP_194132547.1/1-38 PP 9************************************9
+#=GC PP_cons                9************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+#=GF ID WP_023078400.1-i2
+
+#=GS WP_023078400.1      DE MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_023078400.1/1-76 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_011527536.1/1-76 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+
+WP_023078400.1              METFSYPENAKELYEKHKKAIEQACEPIATMLALNNPELTDLANEALELYARTIYNACVDASIIIRNREYQHYRDQ
+WP_023078400.1/1-76         METFSYPENAKELYEKHKKAIEQACEPIATMLALNNPELTDLANEALELYARTIYNACVDASIIIRNREYQHYRDQ
+#=GR WP_023078400.1/1-76 PP 9**************************************************************************9
+WP_011527536.1/1-76         MEIFSYPENAKELYEKHKKAIEQACEPIATMLALNNPELTDLANEALELYARTIYNACVDASIIIRNREYQHYRDQ
+#=GR WP_011527536.1/1-76 PP 9**************************************************************************9
+#=GC PP_cons                9**************************************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

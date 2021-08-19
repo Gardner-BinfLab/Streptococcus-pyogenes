@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+#=GF ID GCF_900991505.1|WP_194117811.1-i2
+
+#=GS GCF_900991505.1|WP_194117811.1/1-102 DE [subseq from] GCF_900991505.1|WP_194117811.1
+#=GS GCF_900983145.1|WP_030126085.1/1-106 DE [subseq from] GCF_900983145.1|WP_030126085.1
+#=GS GCF_900990105.1|WP_136268260.1/1-96  DE [subseq from] GCF_900990105.1|WP_136268260.1
+
+GCF_900991505.1|WP_194117811.1               MPRLISQQILSEYVKSLEVEADKVVIPGQNTPVFSWD----GNGNLSIDTPLLKVRGESLATQADLTTISLTPGPKGELWQTSVERLDIKVDKHISLTFKNGVRID
+GCF_900991505.1|WP_194117811.1/1-102         MPRLISQQILSEYVKSLEVEADKVVIPGQNTPVFSWD----GNGNLSIDTPLLKVRGESLATQADLTTISLTPGPKGELWQTSVERLDIKVDKHISLTFKNGVRID
+#=GR GCF_900991505.1|WP_194117811.1/1-102 PP 89***********************************....****************************************************************8
+GCF_900983145.1|WP_030126085.1/1-106         MTRLISQQILSEYVKSLEVEADKVVIPGQNTPVFSWDRDGNGNGNLSIDTPLLKVRGESLATQADLTTISLTPGPKGELWQTSVERLDIKVDKHISLTFKNGVRID
+#=GR GCF_900983145.1|WP_030126085.1/1-106 PP 89*************************************9999**************************************************************8
+GCF_900990105.1|WP_136268260.1/1-96          --------MLSEYVKSLEVEADKVVIPGQNTPVFSWDR--DGNGNLSIDTPLLKVRGESLATQADLTTISLTPGPKGELWQTSVKRLDIKVDKHISLTFKNGVRID
+#=GR GCF_900990105.1|WP_136268260.1/1-96  PP ........59**************************99..9****************************************************************8
+#=GC PP_cons                                 89******8****************************....****************************************************************8
+#=GC RF                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

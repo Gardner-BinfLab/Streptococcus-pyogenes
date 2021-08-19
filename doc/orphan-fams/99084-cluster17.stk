@@ -1,0 +1,123 @@
+# STOCKHOLM 1.0
+#=GF ID WP_111692990.1-i3
+
+#=GS WP_111692990.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136289027.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136106780.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136265999.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_020904858.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_010921834.1/1-55  DE [subseq from] MULTISPECIES: hypothetical protein [Bacteria]
+#=GS WP_136109549.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263305.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111692990.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136271832.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136275587.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136283623.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_014407254.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136268176.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136018241.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136046618.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011017285.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111689210.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_038433873.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023611525.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263304.1/1-60  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136301861.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136290749.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136022585.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002986383.1/1-51  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_032464784.1/1-63  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136293525.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_010921833.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136264406.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136027484.1/1-55  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136273313.1/1-46  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_076639377.1/1-42  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_032460351.1/1-42  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_053308165.1/1-36  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136291403.1/1-42  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011017286.1/1-36  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011888560.1/1-36  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_101248269.1/1-36  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_093974505.1/18-51 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_111692990.1               MKKKLSLFMIATVAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGHNGPDSWLLYTVW
+WP_136289027.1/1-55          MKKKLSLFMIATAAVVGLSLATLGEHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_136289027.1/1-55  PP *************************************..........*....*.....****************
+WP_136106780.1/1-55          MKKKLSLFMIATAAVVGLSLATLGDHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_136106780.1/1-55  PP *************************************..........*....*.....****************
+WP_136265999.1/1-55          MKKKLSLFMIATAAVVGLSLATLGDHQTVSANDASYS----------N----G-----FYGHNGPDSWLLYTVW
+#=GR WP_136265999.1/1-55  PP *************************************..........*....*.....****************
+WP_020904858.1/1-55          MKKKLSLFMIATAAVAGLSLATLGEHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_020904858.1/1-55  PP *************************************..........*....*.....****************
+WP_010921834.1/1-55          MKKKLSLFMIATAAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_010921834.1/1-55  PP *************************************..........*....*.....****************
+WP_136109549.1/1-55          MKKKLSLFMIATAAVAGLSLATLGEHQTVSANDASYS----------N----G-----FYGHNGPESWLLYTVW
+#=GR WP_136109549.1/1-55  PP *************************************..........*....*.....****************
+WP_136263305.1/1-55          MKKKLSLFMIATAAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGQTGPDSWLLYTVW
+#=GR WP_136263305.1/1-55  PP *************************************..........*....*.....****************
+WP_111692990.1/1-55          MKKKLSLFMIATVAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGHNGPDSWLLYTVW
+#=GR WP_111692990.1/1-55  PP *************************************..........*....*.....****************
+WP_136271832.1/1-55          MKKKLSLFMIATAAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGHNGPESWLLYTVW
+#=GR WP_136271832.1/1-55  PP *************************************..........*....*.....****************
+WP_136275587.1/1-55          MKKKLSLFMIVTAAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGHNGPDSWLLYTVW
+#=GR WP_136275587.1/1-55  PP *************************************..........*....*.....****************
+WP_136283623.1/1-55          MKKKLSLFMIATAAVAGLSLASLGEHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_136283623.1/1-55  PP *************************************..........*....*.....****************
+WP_014407254.1/1-55          MKKKLSLFMIAAAAVAGLSLATLGEHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_014407254.1/1-55  PP *************************************..........*....*.....****************
+WP_136268176.1/1-55          MKKKLSLFVIATAAVAGLSLATLGEHQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_136268176.1/1-55  PP *************************************..........*....*.....****************
+WP_136018241.1/1-55          MKKKLSLFMIATAAVAGLSLATLGDYQTVSANDASYS----------N----G-----FYGHTGPDSWLLYTVW
+#=GR WP_136018241.1/1-55  PP *************************************..........*....*.....****************
+WP_136046618.1/1-55          MKKKLSLFMIATAAVAGLSLATLGDHQTVSANDASYS----------N----G-----FYGQNAPDNWLLYTVW
+#=GR WP_136046618.1/1-55  PP *************************************..........*....*.....****************
+WP_011017285.1/1-55          MKKKLSLFMIATAAVAGLSLATLGNHQTVSANDASYS----------N----G-----FYGQNAPDNWLLYTVW
+#=GR WP_011017285.1/1-55  PP *************************************..........*....*.....****************
+WP_111689210.1/1-55          MKKKLSLFMIATAAVAGLSLATLGSHQTVSANDASYS----------N----G-----FYGPTSSDSWVLYTVW
+#=GR WP_111689210.1/1-55  PP *************************************..........*....*.....****************
+WP_038433873.1/1-63          MKKKLSLFMIATAAVVSLSLAT-PENQTVSANETAVSTICTDGNGCCN----G----SFFGYCGPISWLFYH--
+#=GR WP_038433873.1/1-63  PP **********************.**************9**99977776....5....7*************8..
+WP_023611525.1/1-63          MKKKLSLFMIATAAVVSLSLAT-PENQTVSANETAVSTICTDGNGCCN----G----PFFGYCGPISWLFYH--
+#=GR WP_023611525.1/1-63  PP **********************.**************9***9977777....7....9*************8..
+WP_136263304.1/1-60          MKKKLSLFMIATAAVVSLSLAT-PENQTVSANAQAVQ----------NC-ENGCCDRPFFGYCGPFSWLYYN--
+#=GR WP_136263304.1/1-60  PP **********************.**************..........65.44466678*************8..
+WP_136301861.1/1-63          MRNKLSLLMIATAAVVGLSFAT-PENQTVSANEAAVSTICTDGNGCCN----G----SFYGYCGPISWLFYK--
+#=GR WP_136301861.1/1-63  PP 9*********************.**************9**99977776....5....7*************8..
+WP_136290749.1/1-63          MRNKLSLLMIATAAVVGLSFAT-PENQTVSANEAAVSTICTDGNGCYN----G----SFYGYCGPISWLFYK--
+#=GR WP_136290749.1/1-63  PP 9*********************.**************9**99977776....5....7*************8..
+WP_136022585.1/1-63          MKKKSSLFMIVTAAVVGLSLAT-PENQTVSANEAVATQAC---VDRTNCCGYN-----FYGYCRPISWLFYK--
+#=GR WP_136022585.1/1-63  PP **********************.*************9899...9888455447.....*************8..
+WP_002986383.1/1-51          MKKKLSLFMIATAAVAGLSLATLGNHQTVSANDAS-----------------------FYGQNAPDSWLLYTVW
+#=GR WP_002986383.1/1-51  PP *********************************98.......................****************
+WP_032464784.1/1-63          MKKKSSLFMIVTAAVVGLSLAT-PENQTVSVNEAVATQAC---VDRTNCCGYN-----FYGYCRPISWLFYK--
+#=GR WP_032464784.1/1-63  PP **********************.*************9899...9888455447.....*************8..
+WP_136293525.1/1-55          MKKKLSLFMIATAAVVSLSLAT-PENQTVSAYEVTATR--------DA----S-----VCWTCCPLTCLKYNV-
+#=GR WP_136293525.1/1-55  PP **********************.*************96........66....8.....*************98.
+WP_010921833.1/1-55          MKKKLSLFMIATAAVVSLSLAT-PENQTVSAYEVTATR--------DA----S-----VCWTCCPLTCLKYNV-
+#=GR WP_010921833.1/1-55  PP **********************.*************96........66....8.....*************98.
+WP_136264406.1/1-55          MKKKLSFFMIATAAVVSLSLAT-PENQTVSAYQITEGR--------DS----S-----VCWTCCPLTCLKYNV-
+#=GR WP_136264406.1/1-55  PP **********************.************986........56....8.....*************98.
+WP_136027484.1/1-55          MKKKLSLFMIATAAVVSLSLAT-PENQTVSANDTQVTCVG----CPDC----S-----PKWSCCPLTCM-----
+#=GR WP_136027484.1/1-55  PP **********************.**************776....6644....7.....99*****9997.....
+WP_136273313.1/1-46          MKNKLFLVALATVTVLGPSLAT-PHHQTVHAIEYCIHG-------SDN----S-----RVGLC-----------
+#=GR WP_136273313.1/1-46  PP **********************.*************98.......776....6.....66655...........
+WP_076639377.1/1-42          MKNKLFLVALATVTVLGPSLAT-PHHQTVHAAERCTHVS-----DNLN--------------------------
+#=GR WP_076639377.1/1-42  PP **********************.************9976.....6442..........................
+WP_032460351.1/1-42          MKNKLFLVALATVTVLGPSLAT-PHHQTVHAAERCTHVS-----DNPN--------------------------
+#=GR WP_032460351.1/1-42  PP **********************.************9977.....6442..........................
+WP_053308165.1/1-36          MKNKLFLVALATVTVLGPSLAT-PHHQTVHATEYCTY-------------------------------------
+#=GR WP_053308165.1/1-36  PP **********************.***********975.....................................
+WP_136291403.1/1-42          MKNKLFLVALATVTVLGPSLAN-PHHQTVHAAERCTHVS-----DNPN--------------------------
+#=GR WP_136291403.1/1-42  PP **********************.************9977.....6442..........................
+WP_011017286.1/1-36          MKNKLFLVALATVTVLGPSLAN-PHHGTVHTTEYCTY-------------------------------------
+#=GR WP_011017286.1/1-36  PP **********************.***********975.....................................
+WP_011888560.1/1-36          MKNKLFLVTLATVTVLGPSLAN-PHHGTVHTTEYCTY-------------------------------------
+#=GR WP_011888560.1/1-36  PP **********************.***********975.....................................
+WP_101248269.1/1-36          MKNKLFLVALATVTVLRPSLAN-PHHGTVHTTEYCTY-------------------------------------
+#=GR WP_101248269.1/1-36  PP **********************.***********975.....................................
+WP_093974505.1/18-51         --YYLFLVALATVTVLRPSLAN-PHHGTVHTTEYCTY-------------------------------------
+#=GR WP_093974505.1/18-51 PP ..569*****************.***********975.....................................
+#=GC PP_cons                 ***********************************99..........8....9.....*************9**
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........x....x.....xxxxxxxxxxxxxxxx
+//

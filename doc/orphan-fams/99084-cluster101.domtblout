@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_136273117.1       -             64 WP_136273117.1       -             64   1.6e-47  155.5   9.7   1   1   7.7e-50   1.8e-47  155.4   9.7     1    64     1    64     1    64 1.00 bacteriocin [Streptococcus pyogenes]
+WP_128888800.1       -             64 WP_136273117.1       -             64   2.8e-47  154.8   9.1   1   1   1.3e-49     3e-47  154.6   9.1     1    64     1    64     1    64 1.00 MULTISPECIES: bacteriocin [Streptococcus]
+WP_032460776.1       -             55 WP_136273117.1       -             64   3.4e-40  132.1   9.4   1   1   1.6e-42   3.7e-40  131.9   9.4    10    64     1    55     1    55 0.99 hypothetical protein, partial [Streptococcus pyogenes]
+WP_032460989.1       -             51 WP_136273117.1       -             64     5e-36  118.7   7.5   1   1   2.4e-38   5.4e-36  118.6   7.5    11    64     1    51     1    51 0.99 hypothetical protein [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster101.jackhmmer -A orphan-fams/99084-cluster101.stk --domtblout orphan-fams/99084-cluster101.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:25:05 2021
+# [ok]

@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136114618.1-i2
+
+#=GS WP_136114618.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011284882.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136296055.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136112167.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136114618.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136106614.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136265804.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136264128.1/1-199 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136308286.1/1-198 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136114618.1               MDLLKNTNFLIPLISATVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+WP_011284882.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNAQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+#=GR WP_011284882.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136296055.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTKDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+#=GR WP_136296055.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136112167.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLILEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+#=GR WP_136112167.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136114618.1/1-199         MDLLKNTNFLIPLISATVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+#=GR WP_136114618.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136106614.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRLERPLPF
+#=GR WP_136106614.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136265804.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETLNKPLRPERPLPF
+#=GR WP_136265804.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136264128.1/1-199         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNAQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTKYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLLNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPERPLPF
+#=GR WP_136264128.1/1-199 PP 9*****************************************************************************************************************************************************************************************************9
+WP_136308286.1/1-198         MDLLKNTNFLIPLISAIVSVSSIFISNWLGYRSQIRKLKFDEEKEIYLTLYVPLIKWMNSQSFNNKSYYWLVAFPRYTTNTQDFLTGLLLKNFEKLPVSVAMRYSEYTLNSATSLHFYRNTEYDYDYETFAKKASELFDLIIEQLLTEGTILSQKLSLPNLSKSTLENFLADKKNYIGPRFLSLETHNKPLRPENHCH-
+#=GR WP_136308286.1/1-198 PP 9*************************************************************************************************************************************************************************************************9876.
+#=GC PP_cons                 9****************************************************************************************************************************************************************************************************99
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

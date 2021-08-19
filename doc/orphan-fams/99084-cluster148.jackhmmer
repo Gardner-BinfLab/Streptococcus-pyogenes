@@ -1,0 +1,108 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster148.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster148.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster148.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_004825731.1  [L=74]
+Description: MULTISPECIES: hypothetical protein [Firmicutes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   3.4e-45  146.2  12.6    3.7e-45  146.1  12.6    1.0  1  WP_004825731.1  MULTISPECIES: hypothetical protein [Firmicute
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_004825731.1  MULTISPECIES: hypothetical protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  146.1  12.6   4.1e-48   3.7e-45       1      74 []       1      74 []       1      74 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 146.1 bits;  conditional E-value: 4.1e-48
+  WP_004825731.1  1 mtkrqtkyivkrnydnrrtdtdaflrlikkssklnktneieynkynidsnkkecynknsfrescvisensnkee 74
+                    mtkrqtkyivkrnydnrrtdtdaflrlikkssklnktneieynkynidsnkkecynknsfrescvisensnkee
+  WP_004825731.1  1 MTKRQTKYIVKRNYDNRRTDTDAFLRLIKKSSKLNKTNEIEYNKYNIDSNKKECYNKNSFRESCVISENSNKEE 74
+                    8***********************************************************************98 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (74 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        18  (0.0196292); expected 18.3 (0.02)
+Passed bias filter:                        7  (0.00763359); expected 18.3 (0.02)
+Passed Vit filter:                         1  (0.00109051); expected 0.9 (0.001)
+Passed Fwd filter:                         1  (0.00109051); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.38
+# Mc/sec: 18.68
+
+@@ New targets included:   1
+@@ New alignment includes: 2 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        2 subsequences (query + 1 subseqs from 1 targets)
+@@ Model size:             74 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    9.4e-53  172.2  17.3      1e-52  172.1  17.3    1.0  1  WP_004825731.1  MULTISPECIES: hypothetical protein [Firmicute
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_004825731.1  MULTISPECIES: hypothetical protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  172.1  17.3   1.1e-55     1e-52       1      74 []       1      74 []       1      74 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 172.1 bits;  conditional E-value: 1.1e-55
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_004825731.1-i1  1 mtkrqtkyivkrnydnrrtdtdaflrlikkssklnktneieynkynidsnkkecynknsfrescvisensnkee 74
+                       mtkrqtkyivkrnydnrrtdtdaflrlikkssklnktneieynkynidsnkkecynknsfrescvisensnkee
+     WP_004825731.1  1 MTKRQTKYIVKRNYDNRRTDTDAFLRLIKKSSKLNKTNEIEYNKYNIDSNKKECYNKNSFRESCVISENSNKEE 74
+                       9************************************************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (74 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        14  (0.0152672); expected 18.3 (0.02)
+Passed bias filter:                        6  (0.00654308); expected 18.3 (0.02)
+Passed Vit filter:                         1  (0.00109051); expected 0.9 (0.001)
+Passed Fwd filter:                         1  (0.00109051); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.11u 0.03s 00:00:00.14 Elapsed: 00:00:00.30
+# Mc/sec: 23.66
+
+@@ New targets included:   0
+@@ New alignment includes: 2 subseqs (was 2), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 2 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster148.stk
+//
+[ok]

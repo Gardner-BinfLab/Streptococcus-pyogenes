@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_010922205.1       -             77 WP_046176838.1       -             77   4.9e-54  176.6   1.9   1   1   2.4e-56   5.4e-54  176.4   1.9     1    77     1    77     1    77 0.99 MULTISPECIES: hypothetical protein [Streptococcus]
+WP_136112169.1       -             77 WP_046176838.1       -             77   5.8e-54  176.3   2.0   1   1   2.8e-56   6.4e-54  176.2   2.0     1    77     1    77     1    77 0.99 hypothetical protein [Streptococcus pyogenes]
+WP_011054762.1       -             77 WP_046176838.1       -             77   1.1e-53  175.5   1.7   1   1   5.2e-56   1.2e-53  175.3   1.7     1    77     1    77     1    77 0.99 hypothetical protein [Streptococcus pyogenes]
+WP_046176838.1       -             77 WP_046176838.1       -             77   2.7e-52  171.0   0.3   1   1   1.3e-54   2.9e-52  170.9   0.3     1    77     1    77     1    77 0.99 MULTISPECIES: hypothetical protein [Streptococcus]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster104.jackhmmer -A orphan-fams/99084-cluster104.stk --domtblout orphan-fams/99084-cluster104.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:25:09 2021
+# [ok]

@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136282638.1-i2
+
+#=GS WP_136282638.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002985511.1/1-77  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136277492.1/1-77  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136282638.1/1-77  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168410786.1/6-82  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_030126071.1/1-77  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_041174334.1/1-77  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_164976436.1/10-75 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136282638.1               MEFYALFLSLGSQKFRVTSLPVLTPLLPQQKAAVLAHVTRRNKKSVVKSAEQFMLFEHQTGVVSILRLKKEYFLQSF
+WP_002985511.1/1-77          MEFYALFLSLGSQKFRVTSLPVLTPLLPQQKAAVLAHVTRRNKKSVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_002985511.1/1-77  PP 9***************************************************************************9
+WP_136277492.1/1-77          MEFYALFLSLGSQKFRVTSLPVLTPLLPQQKAAVMAHVTRRNKKSVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_136277492.1/1-77  PP 9***************************************************************************9
+WP_136282638.1/1-77          MEFYALFLSLGSQKFRVTSLPVLTPLLPQQKAAVLAHVTRRNKKSVVKSAEQFMLFEHQTGVVSILRLKKEYFLQSF
+#=GR WP_136282638.1/1-77  PP 9***************************************************************************9
+WP_168410786.1/6-82          LEFYALFLSLGSQKFRVTSLPVLTPLLPQQKAAVLAHVTRRNKKSVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_168410786.1/6-82  PP 69**************************************************************************9
+WP_030126071.1/1-77          MELYALFLSLGSQKSRVTSLPVLTPLLPQQKAAVLAHVTRRNKKSVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_030126071.1/1-77  PP 9***************************************************************************9
+WP_041174334.1/1-77          MEFYALFLSLGSQKSRVTSLPVLTPLLPQQKAAVLAYVTRRNKKSVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_041174334.1/1-77  PP 9***************************************************************************9
+WP_164976436.1/10-75         -----------GSDFLWNSMPVLTPLLPQQKAAVLAHVTRRNKKLVVKSAEQFMLFEHQTGFVSILRLKKEYFLQSF
+#=GR WP_164976436.1/10-75 PP ...........468**************************************************************9
+#=GC PP_cons                 8**********99***************************************************************9
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

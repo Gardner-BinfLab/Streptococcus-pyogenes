@@ -1,0 +1,432 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster7.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster7.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster7.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_023079587.1  [L=56]
+Description: hypothetical protein [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.4e-36  117.9   3.5    1.5e-36  117.8   3.5    1.0  1  WP_023079587.1  hypothetical protein [Streptococcus pyogenes]
++   7.6e-36  115.5   2.7    8.2e-36  115.4   2.7    1.0  1  WP_194112913.1  hypothetical protein [Streptococcus pyogenes]
++   2.1e-35  114.2   3.6    2.3e-35  114.0   3.6    1.0  1  WP_011054883.1  hypothetical protein [Streptococcus pyogenes]
++   6.4e-35  112.7   3.9    7.8e-35  112.4   3.9    1.0  1  WP_015898613.1  MULTISPECIES: hypothetical protein [Streptoco
++   6.4e-35  112.7   3.9    7.8e-35  112.4   3.9    1.0  1  WP_136290256.1  hypothetical protein [Streptococcus pyogenes]
++   9.8e-35  112.1   3.4    1.1e-34  112.0   3.4    1.0  1  WP_164972002.1  hypothetical protein [Streptococcus pyogenes]
++   3.1e-33  107.4   2.5    3.4e-33  107.3   2.5    1.0  1  WP_168634692.1  hypothetical protein [Streptococcus pyogenes]
++   1.1e-32  105.7   3.2    1.2e-32  105.6   3.2    1.0  1  WP_023079219.1  hypothetical protein [Streptococcus pyogenes]
++   1.6e-32  105.2   4.0    1.7e-32  105.1   4.0    1.0  1  WP_002988735.1  MULTISPECIES: hypothetical protein [Streptoco
++   1.7e-32  105.1   3.4    1.8e-32  105.0   3.4    1.0  1  WP_168393672.1  hypothetical protein [Streptococcus pyogenes]
++   3.6e-32  104.1   3.1    3.8e-32  104.0   3.1    1.0  1  WP_168625484.1  hypothetical protein [Streptococcus pyogenes]
++   7.9e-32  103.0   4.3    8.3e-32  103.0   4.3    1.0  1  WP_194131202.1  hypothetical protein [Streptococcus pyogenes]
++   2.7e-31  101.4   2.9    2.8e-31  101.3   2.9    1.0  1  WP_194075300.1  hypothetical protein [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_023079587.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  117.8   3.5   2.1e-38   1.5e-36       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 117.8 bits;  conditional E-value: 2.1e-38
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend 56
+                    mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend
+  WP_023079587.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTREREND 56
+                    8******************************************************8 PP
+
+>> WP_194112913.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  115.4   2.7   1.2e-37   8.2e-36       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 115.4 bits;  conditional E-value: 1.2e-37
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend 56
+                    mkkeyvvriytgreknfeakpqfeektftrkadml fwdsceatvkekytrerend
+  WP_194112913.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLGFWDSCEATVKEKYTREREND 56
+                    8******************************************************8 PP
+
+>> WP_011054883.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  114.0   3.6   3.3e-37   2.3e-35       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 114.0 bits;  conditional E-value: 3.3e-37
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend 56
+                    mkkeyvvriytgreknfeakpqfeektftrkadml+fw+sceatvkekytrerend
+  WP_011054883.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREREND 56
+                    8******************************************************8 PP
+
+>> WP_015898613.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.4   3.9   1.1e-36   7.8e-35       1      54 [.       1      54 [.       1      56 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 112.4 bits;  conditional E-value: 1.1e-36
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrere 54
+                    mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrere
+  WP_015898613.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE 54
+                    8****************************************************9 PP
+
+>> WP_136290256.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.4   3.9   1.1e-36   7.8e-35       1      54 [.       1      54 [.       1      56 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 112.4 bits;  conditional E-value: 1.1e-36
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrere 54
+                    mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrere
+  WP_136290256.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE 54
+                    8****************************************************9 PP
+
+>> WP_164972002.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.0   3.4   1.5e-36   1.1e-34       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 112.0 bits;  conditional E-value: 1.5e-36
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend 56
+                    mkkeyvvriytgreknfeakpqfeektftrk dml+fw+sceatvkekytrerend
+  WP_164972002.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYTREREND 56
+                    8******************************************************8 PP
+
+>> WP_168634692.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  107.3   2.5   4.8e-35   3.4e-33       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 107.3 bits;  conditional E-value: 4.8e-35
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrerend 56
+                    mkkeyvvriytgreknfeakpqfeektf  k dml+fw+sceatvkekytrerend
+  WP_168634692.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFNPKPDMLKFWNSCEATVKEKYTREREND 56
+                    8******************************************************8 PP
+
+>> WP_023079219.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.6   3.2   1.7e-34   1.2e-32       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 105.6 bits;  conditional E-value: 1.7e-34
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    mkkeyvvriytgreknfeakpqfeektftrkadml+fwdsceatvkeky re 
+  WP_023079219.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREW 53
+                    8**************************************************95 PP
+
+>> WP_002988735.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.1   4.0   2.5e-34   1.7e-32       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 105.1 bits;  conditional E-value: 2.5e-34
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    mkkeyvvriytgreknfeakpqfeektftrkadml+fw+sceatvkekytre 
+  WP_002988735.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREW 53
+                    8**************************************************95 PP
+
+>> WP_168393672.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.0   3.4   2.6e-34   1.8e-32       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 105.0 bits;  conditional E-value: 2.6e-34
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    mkkeyvvr+ytgreknfeakpqfeektftrkadml+fwdsceatvkeky re 
+  WP_168393672.1  1 MKKEYVVRVYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREW 53
+                    8**************************************************95 PP
+
+>> WP_168625484.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.0   3.1   5.4e-34   3.8e-32       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 104.0 bits;  conditional E-value: 5.4e-34
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    m+keyvvriytgreknfeakpqfeektftrkadml+fwdsceatvkeky re 
+  WP_168625484.1  1 MEKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREW 53
+                    79*************************************************95 PP
+
+>> WP_194131202.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  103.0   4.3   1.2e-33   8.3e-32       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 103.0 bits;  conditional E-value: 1.2e-33
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    mkkeyvvriytgreknfeakpqfeektftrkadml+fw+sce tvkekytre 
+  WP_194131202.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCETTVKEKYTREW 53
+                    8**************************************************95 PP
+
+>> WP_194075300.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  101.3   2.9     4e-33   2.8e-31       1      53 [.       1      53 [.       1      55 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 101.3 bits;  conditional E-value: 4e-33
+  WP_023079587.1  1 mkkeyvvriytgreknfeakpqfeektftrkadmlrfwdsceatvkekytrer 53
+                    mkkeyvvriytgreknfeakpqfeektftrk dml+fw+sceatvkeky re 
+  WP_194075300.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYIREW 53
+                    8**************************************************95 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (56 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        65  (0.0708833); expected 18.3 (0.02)
+Passed bias filter:                       60  (0.0654308); expected 18.3 (0.02)
+Passed Vit filter:                        17  (0.0185387); expected 0.9 (0.001)
+Passed Fwd filter:                        13  (0.0141767); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              13  [number of targets reported over threshold]
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.46
+# Mc/sec: 11.68
+
+@@ New targets included:   13
+@@ New alignment includes: 14 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        14 subsequences (query + 13 subseqs from 13 targets)
+@@ Model size:             56 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    1.4e-43  142.6   7.6    1.5e-43  142.4   7.6    1.0  1  WP_023079587.1  hypothetical protein [Streptococcus pyogenes]
+    1.5e-43  142.4   8.1    1.7e-43  142.3   8.1    1.0  1  WP_011054883.1  hypothetical protein [Streptococcus pyogenes]
+    2.4e-43  141.8   7.6    2.6e-43  141.7   7.6    1.0  1  WP_164972002.1  hypothetical protein [Streptococcus pyogenes]
+    3.1e-43  141.4   6.4    3.4e-43  141.3   6.4    1.0  1  WP_194112913.1  hypothetical protein [Streptococcus pyogenes]
+    2.3e-42  138.6   7.7    2.5e-42  138.5   7.7    1.0  1  WP_023079219.1  hypothetical protein [Streptococcus pyogenes]
+    2.7e-42  138.4   6.3      3e-42  138.3   6.3    1.0  1  WP_168634692.1  hypothetical protein [Streptococcus pyogenes]
+    4.7e-42  137.7   7.3      5e-42  137.6   7.3    1.0  1  WP_194075300.1  hypothetical protein [Streptococcus pyogenes]
+    5.3e-42  137.5   8.4    6.4e-42  137.2   8.4    1.0  1  WP_015898613.1  MULTISPECIES: hypothetical protein [Streptoco
+    5.3e-42  137.5   8.4    6.4e-42  137.2   8.4    1.0  1  WP_136290256.1  hypothetical protein [Streptococcus pyogenes]
+    6.4e-42  137.2   8.0    6.8e-42  137.1   8.0    1.0  1  WP_168393672.1  hypothetical protein [Streptococcus pyogenes]
+    6.5e-42  137.2   9.3    6.9e-42  137.1   9.3    1.0  1  WP_002988735.1  MULTISPECIES: hypothetical protein [Streptoco
+    8.2e-42  136.9   7.5    8.8e-42  136.8   7.5    1.0  1  WP_168625484.1  hypothetical protein [Streptococcus pyogenes]
+    2.8e-41  135.2   9.8      3e-41  135.1   9.8    1.0  1  WP_194131202.1  hypothetical protein [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_023079587.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.4   7.6   2.1e-45   1.5e-43       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 142.4 bits;  conditional E-value: 2.1e-45
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrerend 56
+                       mkkeyvvriytGreknfeakPqfeektftrkadml+fWdsCeatvkekytrerend
+     WP_023079587.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTREREND 56
+                       9******************************************************8 PP
+
+>> WP_011054883.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.3   8.1   2.4e-45   1.7e-43       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 142.3 bits;  conditional E-value: 2.4e-45
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrerend 56
+                       mkkeyvvriytGreknfeakPqfeektftrkadmlkfW+sCeatvkekytrerend
+     WP_011054883.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREREND 56
+                       9******************************************************8 PP
+
+>> WP_164972002.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  141.7   7.6   3.6e-45   2.6e-43       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 141.7 bits;  conditional E-value: 3.6e-45
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrerend 56
+                       mkkeyvvriytGreknfeakPqfeektftrk+dmlkfW+sCeatvkekytrerend
+     WP_164972002.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYTREREND 56
+                       9******************************************************8 PP
+
+>> WP_194112913.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  141.3   6.4   4.8e-45   3.4e-43       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 141.3 bits;  conditional E-value: 4.8e-45
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrerend 56
+                       mkkeyvvriytGreknfeakPqfeektftrkadml fWdsCeatvkekytrerend
+     WP_194112913.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLGFWDSCEATVKEKYTREREND 56
+                       9******************************************************8 PP
+
+>> WP_023079219.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.5   7.7   3.5e-44   2.5e-42       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 138.5 bits;  conditional E-value: 3.5e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkeky+re++
+     WP_023079219.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ 54
+                       9****************************************************5 PP
+
+>> WP_168634692.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.3   6.3   4.2e-44     3e-42       1      56 []       1      56 []       1      56 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 138.3 bits;  conditional E-value: 4.2e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrerend 56
+                       mkkeyvvriytGreknfeakPqfeektf+ k+dmlkfW+sCeatvkekytrerend
+     WP_168634692.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFNPKPDMLKFWNSCEATVKEKYTREREND 56
+                       9******************************************************8 PP
+
+>> WP_194075300.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.6   7.3   7.1e-44     5e-42       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 137.6 bits;  conditional E-value: 7.1e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrk+dmlkfW+sCeatvkeky+re++
+     WP_194075300.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKPDMLKFWNSCEATVKEKYIREWQ 54
+                       9****************************************************5 PP
+
+>> WP_015898613.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.2   8.4     9e-44   6.4e-42       1      54 [.       1      54 [.       1      56 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 137.2 bits;  conditional E-value: 9e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrkadml+fWdsCeatvkekytrere
+     WP_015898613.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE 54
+                       9****************************************************8 PP
+
+>> WP_136290256.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.2   8.4     9e-44   6.4e-42       1      54 [.       1      54 [.       1      56 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 137.2 bits;  conditional E-value: 9e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrkadml+fWdsCeatvkekytrere
+     WP_136290256.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLRFWDSCEATVKEKYTRERE 54
+                       9****************************************************8 PP
+
+>> WP_168393672.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.1   8.0   9.7e-44   6.8e-42       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 137.1 bits;  conditional E-value: 9.7e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvr+ytGreknfeakPqfeektftrkadmlkfWdsCeatvkeky+re++
+     WP_168393672.1  1 MKKEYVVRVYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ 54
+                       9****************************************************5 PP
+
+>> WP_002988735.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.1   9.3   9.8e-44   6.9e-42       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 137.1 bits;  conditional E-value: 9.8e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrkadmlkfW+sCeatvkekytre++
+     WP_002988735.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATVKEKYTREWK 54
+                       9****************************************************5 PP
+
+>> WP_168625484.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  136.8   7.5   1.2e-43   8.8e-42       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 136.8 bits;  conditional E-value: 1.2e-43
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       m+keyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkeky+re++
+     WP_168625484.1  1 MEKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWDSCEATVKEKYIREWQ 54
+                       99***************************************************5 PP
+
+>> WP_194131202.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  135.1   9.8   4.3e-43     3e-41       1      54 [.       1      54 [.       1      55 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 135.1 bits;  conditional E-value: 4.3e-43
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_023079587.1-i1  1 mkkeyvvriytGreknfeakPqfeektftrkadmlkfWdsCeatvkekytrere 54
+                       mkkeyvvriytGreknfeakPqfeektftrkadmlkfW+sCe+tvkekytre++
+     WP_194131202.1  1 MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCETTVKEKYTREWK 54
+                       9****************************************************5 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (56 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        47  (0.0512541); expected 18.3 (0.02)
+Passed bias filter:                       45  (0.0490731); expected 18.3 (0.02)
+Passed Vit filter:                        13  (0.0141767); expected 0.9 (0.001)
+Passed Fwd filter:                        13  (0.0141767); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              13  [number of targets reported over threshold]
+# CPU time: 0.12u 0.02s 00:00:00.13 Elapsed: 00:00:00.62
+# Mc/sec: 8.66
+
+@@ New targets included:   0
+@@ New alignment includes: 14 subseqs (was 14), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 14 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster7.stk
+//
+[ok]

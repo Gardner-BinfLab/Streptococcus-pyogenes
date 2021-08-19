@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+#=GF ID WP_046176838.1-i2
+
+#=GS WP_046176838.1      DE MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_010922205.1/1-77 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136112169.1/1-77 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054762.1/1-77 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_046176838.1/1-77 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+
+WP_046176838.1              MDQEIFSGFNTLLKKMYGKQASIETFNQFVEYCQKGKEANGVKPVLNPINLYAFGLGITTAEADRLRIERYKQENVL
+WP_010922205.1/1-77         MDQEIFNFFNKQIKKDFGKTASKETFAKFASYCAEGIEKNGVKPIFNWINLYAFGTGMTTAEADRLRIERYKQENAL
+#=GR WP_010922205.1/1-77 PP 9**************************************************************************97
+WP_136112169.1/1-77         MDQEIFNFFNKQIKKDFGKTASKETFAKFASYCAEGIEKNGVKPIFNWINLYAFGTGMTTAEADRLRIEQYKQENVL
+#=GR WP_136112169.1/1-77 PP 9**************************************************************************98
+WP_011054762.1/1-77         MDQEIFNFFNKQIKKDFGKTASKETFAKFASYCAEGIEKKGVKPIFNWINLYAFGLGITTAEADRLRIERYKQENAL
+#=GR WP_011054762.1/1-77 PP 9**************************************************************************97
+WP_046176838.1/1-77         MDQEIFSGFNTLLKKMYGKQASIETFNQFVEYCQKGKEANGVKPVLNPINLYAFGLGITTAEADRLRIERYKQENVL
+#=GR WP_046176838.1/1-77 PP 9**************************************************************************98
+#=GC PP_cons                9**************************************************************************98
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

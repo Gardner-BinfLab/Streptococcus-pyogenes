@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+#=GF ID WP_011054601.1-i2
+
+#=GS WP_011054601.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054601.1/1-59  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136076041.1/15-59 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_011054601.1               MTVNTLFSISRKTTDMLSQVVKSSATSSSITRVPEVKLFGIAQTGMLRIAIEEVVLGAH
+WP_011054601.1/1-59          MTVNTLFSISRKTTDMLSQVVKSSATSSSITRVPEVKLFGIAQTGMLRIAIEEVVLGAH
+#=GR WP_011054601.1/1-59  PP 9*********************************************************9
+WP_136076041.1/15-59         --------------FFKPQVVKSSATSSSITRVPEVKLFGIAQTGMLRIAIEEVVLGAH
+#=GR WP_136076041.1/15-59 PP ..............589*****************************************9
+#=GC PP_cons                 9*************899*****************************************9
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

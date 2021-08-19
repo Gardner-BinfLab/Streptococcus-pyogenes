@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136128515.1-i2
+
+#=GS WP_136128515.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136128515.1/1-91 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_014407964.1/1-91 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+
+WP_136128515.1              MNSNLKKRVDKLRRLHSLDNTSGIVFVEYADGKYQIKKQDHVPKFIETRLIAEFESEEEAENFLSTIPSGYIIFWDIFPEEVEHVKKNKYL
+WP_136128515.1/1-91         MNSNLKKRVDKLRRLHSLDNTSGIVFVEYADGKYQIKKQDHVPKFIETRLIAEFESEEEAENFLSTIPSGYIIFWDIFPEEVEHVKKNKYL
+#=GR WP_136128515.1/1-91 PP 9*****************************************************************************************8
+WP_014407964.1/1-91         MNSNLKKRVDKLRRLHSLDNASGIVFVEYADGKYQIKKQDHVPKFIETRLIAEFESEEEAENFLSTIPSGYIIFWDIFPEEVEHVKKNKYL
+#=GR WP_014407964.1/1-91 PP 9*****************************************************************************************8
+#=GC PP_cons                9*****************************************************************************************8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

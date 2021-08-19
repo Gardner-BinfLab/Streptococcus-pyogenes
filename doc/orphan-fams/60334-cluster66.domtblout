@@ -1,0 +1,14 @@
+#                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- -----           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_900995505.1|WP_063812070.1 -            312 GCF_900995505.1|WP_063812070.1 -            312  6.8e-224  735.9  16.2   1   1  2.6e-226  7.6e-224  735.8  16.2     1   312     1   312     1   312 1.00 -
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/60334.fa
+# Target file:     orphan-spyogenes-protein-ids.2.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/60334-cluster66.jackhmmer -A orphan-fams/60334-cluster66.stk --domtblout orphan-fams/60334-cluster66.domtblout -E 0.00001 --incE 0.00001 orphan-fams/60334.fa orphan-spyogenes-protein-ids.2.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Fri Jul 23 10:03:32 2021
+# [ok]

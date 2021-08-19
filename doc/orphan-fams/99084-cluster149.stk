@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+#=GF ID WP_111704756.1-i2
+
+#=GS WP_111704756.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111704756.1/1-80  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136270134.1/19-72 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136069629.1/19-69 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136299627.1/21-70 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263501.1/21-70 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_111704756.1               MANQQIKLCILCDCKSKYISYRYTKKLGILNDNKATFSIFGWHKVRETSFQISVQPLKEMLQEDENKSKRLA---EEYDLNGP
+WP_111704756.1/1-80          MANQQIKLCILCDCKSKYISYRYTKKLGILNDNKATFSIFGWHKVRETSFQISVQPLKEMLQEDENKSKRLA---EEYDLNGP
+#=GR WP_111704756.1/1-80  PP 8***********************************************************************...*******9
+WP_136270134.1/19-72         --------------------------VAVLASNPVKAEENGFEKERGTSFQTPAQPLKEILQGDESETKRFP---EGYDPDDP
+#=GR WP_136270134.1/19-72 PP ..........................579*******************************************...*******9
+WP_136069629.1/19-69         ------------------------------MVQPIKAEENGFEKVGETSFQTSVQPLKEILQEDESETKRFA--AEEYDPNDP
+#=GR WP_136069629.1/19-69 PP ..............................456899***********************************5..5*******9
+WP_136299627.1/21-70         --------------------------------QPIKAEENGFEKVGETSFQTSVQPLKEILQEDESKTKRFAAEEEEYDPND-
+#=GR WP_136299627.1/21-70 PP ................................6899***********************************98999*****8.
+WP_136263501.1/21-70         --------------------------------QPTKAEENGFEKVGETSFQTSVQPLKEILQEDESKTKRFAAEEEEYDPND-
+#=GR WP_136263501.1/21-70 PP ................................67899**********************************98999*****8.
+#=GC PP_cons                 8*************************899*888999***********************************9...******99
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx
+//

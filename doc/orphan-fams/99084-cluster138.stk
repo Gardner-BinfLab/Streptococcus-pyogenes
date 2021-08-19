@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136047030.1-i2
+
+#=GS WP_136047030.1      DE type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_136021211.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_136047030.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_023612118.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_085634202.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_136296199.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_136093858.1/1-50 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+
+WP_136047030.1              MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNRLQAIFTCC
+WP_136021211.1/1-51         MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC
+#=GR WP_136021211.1/1-51 PP 9**************************************************
+WP_136047030.1/1-51         MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNRLQAIFTCC
+#=GR WP_136047030.1/1-51 PP 9**************************************************
+WP_023612118.1/1-51         MEEKMCLGALNALQEFQIEELDNLLGGRGHGVNTISAECRWNSLQAIFTCC
+#=GR WP_023612118.1/1-51 PP 9**************************************************
+WP_085634202.1/1-51         MEEKMCLGALNALQEFQIEELDNLLGRGGHGVNTISAECRWNSLQAIFTCC
+#=GR WP_085634202.1/1-51 PP 9**************************************************
+WP_136296199.1/1-51         MEEKMCLGALNVLQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC
+#=GR WP_136296199.1/1-51 PP 9**************************************************
+WP_136093858.1/1-50         MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTC-
+#=GR WP_136093858.1/1-50 PP 9*************************************************.
+#=GC PP_cons                9**************************************************
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

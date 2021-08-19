@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID WP_002497446.1-i2
+
+#=GS WP_002497446.1      DE MULTISPECIES: 23S rRNA methylase leader peptide ErmCL [Bacteria]
+#=GS WP_002497446.1/1-19 DE [subseq from] MULTISPECIES: 23S rRNA methylase leader peptide ErmCL [Bacteria]
+
+WP_002497446.1              MGIFSIFVISTVHYQPNKK
+WP_002497446.1/1-19         MGIFSIFVISTVHYQPNKK
+#=GR WP_002497446.1/1-19 PP ******************9
+#=GC PP_cons                ******************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxx
+//

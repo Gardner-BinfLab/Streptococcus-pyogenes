@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136307848.1-i2
+
+#=GS WP_136307848.1       DE histidine kinase [Streptococcus pyogenes]
+#=GS WP_194114236.1/1-132 DE [subseq from] histidine kinase [Streptococcus pyogenes]
+#=GS WP_136307848.1/1-132 DE [subseq from] histidine kinase [Streptococcus pyogenes]
+#=GS WP_194118481.1/1-132 DE [subseq from] histidine kinase [Streptococcus pyogenes]
+
+WP_136307848.1               MHRLLNRLIPEEDNNKLSRAAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESSDFHQKQHQTGITYGDDTLADLTHHLLHSDGILLSLNDKSA
+WP_194114236.1/1-132         MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDCNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESSDFHQKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA
+#=GR WP_194114236.1/1-132 PP 9*********************************************************************************************************************************98
+WP_136307848.1/1-132         MHRLLNRLIPEEDNNKLSRAAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESSDFHQKQHQTGITYGDDTLADLTHHLLHSDGILLSLNDKSA
+#=GR WP_136307848.1/1-132 PP 9*********************************************************************************************************************************98
+WP_194118481.1/1-132         MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLSLEPVAAEAKREINFHPSDQQVTAKVKESSDFHQKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA
+#=GR WP_194118481.1/1-132 PP 9*********************************************************************************************************************************98
+#=GC PP_cons                 9*********************************************************************************************************************************98
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

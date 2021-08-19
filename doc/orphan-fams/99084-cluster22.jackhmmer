@@ -1,0 +1,499 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster22.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster22.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster22.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136277014.1  [L=101]
+Description: Spi family protease inhibitor [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++     9e-68  220.0   0.2    9.9e-68  219.9   0.2    1.0  1  WP_136277014.1  Spi family protease inhibitor [Streptococcus 
++   3.4e-66  215.0   0.2    3.7e-66  214.8   0.2    1.0  1  WP_111681378.1  Spi family protease inhibitor [Streptococcus 
++   3.5e-66  214.9   0.2    3.9e-66  214.8   0.2    1.0  1  WP_030126212.1  Spi family protease inhibitor [Streptococcus 
++   5.2e-66  214.4   0.1    5.7e-66  214.2   0.1    1.0  1  WP_093974932.1  Spi family protease inhibitor [Streptococcus 
++   8.8e-66  213.6   0.1    9.7e-66  213.5   0.1    1.0  1  WP_136106252.1  Spi family protease inhibitor [Streptococcus 
++   1.2e-65  213.2   0.1    1.4e-65  213.0   0.1    1.0  1  WP_136281503.1  Spi family protease inhibitor [Streptococcus 
++   1.2e-65  213.2   0.1    1.4e-65  213.0   0.1    1.0  1  WP_038434316.1  Spi family protease inhibitor [Streptococcus 
++   1.7e-65  212.7   0.1    1.9e-65  212.6   0.1    1.0  1  WP_014407895.1  Spi family protease inhibitor [Streptococcus 
++   2.4e-65  212.2   0.1    2.6e-65  212.1   0.1    1.0  1  WP_009881075.1  Spi family protease inhibitor [Streptococcus 
++     3e-12   42.3   0.0      6e-12   41.3   0.0    1.5  1  WP_136038086.1  cysteine proteinase exotoxin SpeB [Streptococ
++   9.9e-12   40.7   0.0    1.8e-11   39.8   0.0    1.5  1  WP_136304017.1  cysteine proteinase exotoxin SpeB [Streptococ
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136277014.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  219.9   0.2   1.2e-69   9.9e-68       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 219.9 bits;  conditional E-value: 1.2e-69
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt
+  WP_136277014.1   1 MEMHFVRTEPEARRIAEIFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQT 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_136277014.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_111681378.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  214.8   0.2   4.5e-68   3.7e-66       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 214.8 bits;  conditional E-value: 4.5e-68
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayq 
+  WP_111681378.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQI 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_111681378.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_030126212.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  214.8   0.2   4.6e-68   3.9e-66       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 214.8 bits;  conditional E-value: 4.6e-68
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtktpmrvqqlsypsdtdhssgelyiy lspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt
+  WP_030126212.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYDLSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQT 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_030126212.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_093974932.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  214.2   0.1   6.8e-68   5.7e-66       1     100 [.       1     100 [.       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 214.2 bits;  conditional E-value: 6.8e-68
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtktpmrvqqlsypsdtdhs gelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt
+  WP_093974932.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQT 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsl 100
+                     qinsl
+  WP_093974932.1  96 QINSL 100
+                     ****9 PP
+
+>> WP_136106252.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  213.5   0.1   1.2e-67   9.7e-66       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 213.5 bits;  conditional E-value: 1.2e-67
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtktpmrvqql ypsdtdhs gelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt
+  WP_136106252.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLCYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQT 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_136106252.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_136281503.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  213.0   0.1   1.6e-67   1.4e-65       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 213.0 bits;  conditional E-value: 1.6e-67
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearria+ fcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayq 
+  WP_136281503.1   1 MEMHFVRTEPEARRIAKTFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQK 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_136281503.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_038434316.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  213.0   0.1   1.6e-67   1.4e-65       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 213.0 bits;  conditional E-value: 1.6e-67
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtk pmrvqqlsypsdtdhs gelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt
+  WP_038434316.1   1 MEMHFVRTEPEARRIAETFCAENTQTKIPMRVQQLSYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQT 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_038434316.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_014407895.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  212.6   0.1   2.3e-67   1.9e-65       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 212.6 bits;  conditional E-value: 2.3e-67
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayq 
+  WP_014407895.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQK 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qi+sld
+  WP_014407895.1  96 QISSLD 101
+                     ****98 PP
+
+>> WP_009881075.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  212.1   0.1   3.2e-67   2.6e-65       1     101 []       1     101 []       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 212.1 bits;  conditional E-value: 3.2e-67
+  WP_136277014.1   1 memhfvrtepearriaeifcaentqtktpmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayqt 95 
+                     memhfvrtepearriae fcaentqtk pmrvqqlsypsdtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldlnhdnvrsmieayq 
+  WP_009881075.1   1 MEMHFVRTEPEARRIAETFCAENTQTKPPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQK 95 
+                     8********************************************************************************************** PP
+
+  WP_136277014.1  96 qinsld 101
+                     qinsld
+  WP_009881075.1  96 QINSLD 101
+                     ****98 PP
+
+>> WP_136038086.1  cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.3   0.0   7.2e-14     6e-12       3      98 ..      29     129 ..      27     132 .. 0.79
+
+  Alignments for each domain:
+  == domain 1  score: 41.3 bits;  conditional E-value: 7.2e-14
+  WP_136277014.1   3 mhfvrtepearriaeifcaentqtktpmrvqq.lsyps...dtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldln.hdnvrsmiea 92 
+                     ++f r e ea+  a  f  ++   k   r  + +           s + +y+y +s  gf+ivsgd r+  ilgys   ++d+n  +n+ s++e+
+  WP_136038086.1  29 QNFARNEKEAKDSAITFIQKSAAIKAGARSAEdIKLDKvnlGGKLSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDVNgKENIASFMES 123
+                     67999999999999999999998888877543133322101233456689*********************************9458******** PP
+
+  WP_136277014.1  93 yqtqin 98 
+                     y  qi 
+  WP_136038086.1 124 YVEQIK 129
+                     *99986 PP
+
+>> WP_136304017.1  cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   39.8   0.0   2.2e-13   1.8e-11       3      98 ..      29     129 ..      27     132 .. 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 39.8 bits;  conditional E-value: 2.2e-13
+  WP_136277014.1   3 mhfvrtepearriaeifcaentqtktpmrvqq.lsyps...dtdhssgelyiyalspagfiivsgdtrahtilgysfdnnldln.hdnvrsmiea 92 
+                     ++f r e e +  a  f  ++   k   r  + +         + s + +y+y +s  gf+ivsgd r+  ilgys   ++d n  +n+ s++e+
+  WP_136304017.1  29 QNFARNEKEVKDSAITFIQKSAAIKAGARSAEdIKLDKvnlGGELSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDANgKENIASFMES 123
+                     56778888888888888777777777666433132221101334566689*********************************9458******** PP
+
+  WP_136277014.1  93 yqtqin 98 
+                     y  qi 
+  WP_136304017.1 124 YVEQIK 129
+                     *99986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (101 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        22  (0.0239913); expected 18.3 (0.02)
+Passed bias filter:                       20  (0.0218103); expected 18.3 (0.02)
+Passed Vit filter:                        13  (0.0141767); expected 0.9 (0.001)
+Passed Fwd filter:                        11  (0.0119956); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.05u 0.04s 00:00:00.09 Elapsed: 00:00:00.64
+# Mc/sec: 15.14
+
+@@ New targets included:   11
+@@ New alignment includes: 12 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        12 subsequences (query + 11 subseqs from 11 targets)
+@@ Model size:             101 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    2.2e-63  206.6   0.1    2.5e-63  206.5   0.1    1.0  1  WP_136281503.1  Spi family protease inhibitor [Streptococcus 
+    2.3e-63  206.6   0.1    2.5e-63  206.5   0.1    1.0  1  WP_030126212.1  Spi family protease inhibitor [Streptococcus 
+    2.8e-63  206.3   0.0    3.1e-63  206.2   0.0    1.0  1  WP_136106252.1  Spi family protease inhibitor [Streptococcus 
+    3.8e-63  205.9   0.1    4.2e-63  205.8   0.1    1.0  1  WP_136277014.1  Spi family protease inhibitor [Streptococcus 
+    4.3e-63  205.7   0.0    4.7e-63  205.6   0.0    1.0  1  WP_093974932.1  Spi family protease inhibitor [Streptococcus 
+    4.6e-63  205.6   0.0      5e-63  205.5   0.0    1.0  1  WP_038434316.1  Spi family protease inhibitor [Streptococcus 
+    4.6e-63  205.6   0.1    5.1e-63  205.5   0.1    1.0  1  WP_111681378.1  Spi family protease inhibitor [Streptococcus 
+    4.8e-63  205.6   0.1    5.3e-63  205.4   0.1    1.0  1  WP_014407895.1  Spi family protease inhibitor [Streptococcus 
+    6.1e-63  205.2   0.0    6.7e-63  205.1   0.0    1.0  1  WP_009881075.1  Spi family protease inhibitor [Streptococcus 
+    4.8e-46  151.0   0.6    1.1e-45  149.9   0.6    1.6  1  WP_136038086.1  cysteine proteinase exotoxin SpeB [Streptococ
+    1.4e-45  149.5   0.6    3.1e-45  148.4   0.6    1.6  1  WP_136304017.1  cysteine proteinase exotoxin SpeB [Streptococ
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136281503.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  206.5   0.1     3e-65   2.5e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 206.5 bits;  conditional E-value: 3e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earria+tf+aentq+k+pmrvq+lsy+sdtd+ssgelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_136281503.1   1 MEMHFVRTEPEARRIAKTFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_136281503.1  93 YQKQINSLD 101
+                        *******98 PP
+
+>> WP_030126212.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  206.5   0.1     3e-65   2.5e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 206.5 bits;  conditional E-value: 3e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+lsy+sdtd+ssgelyiy+lspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_030126212.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYDLSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_030126212.1  93 YQTQINSLD 101
+                        *******98 PP
+
+>> WP_136106252.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  206.2   0.0   3.7e-65   3.1e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 206.2 bits;  conditional E-value: 3.7e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+l+y+sdtd+s+gelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_136106252.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLCYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_136106252.1  93 YQTQINSLD 101
+                        *******98 PP
+
+>> WP_136277014.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.8   0.1     5e-65   4.2e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 205.8 bits;  conditional E-value: 5e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriae+f+aentq+k+pmrvq+lsy+sdtd+ssgelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_136277014.1   1 MEMHFVRTEPEARRIAEIFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_136277014.1  93 YQTQINSLD 101
+                        *******98 PP
+
+>> WP_093974932.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.6   0.0   5.7e-65   4.7e-63       1     100 [.       1     100 [.       1     101 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 205.6 bits;  conditional E-value: 5.7e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+lsy+sdtd+s+gelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_093974932.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksl 100
+                        yq+qi+sl
+     WP_093974932.1  93 YQTQINSL 100
+                        *******9 PP
+
+>> WP_038434316.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.5   0.0     6e-65     5e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 205.5 bits;  conditional E-value: 6e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+lsy+sdtd+s+gelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_038434316.1   1 MEMHFVRTEPEARRIAETFCAENTQTKIPMRVQQLSYPSDTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_038434316.1  93 YQTQINSLD 101
+                        *******98 PP
+
+>> WP_111681378.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.5   0.1   6.1e-65   5.1e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 205.5 bits;  conditional E-value: 6.1e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+lsy+sdtd+ssgelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_111681378.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq qi+sld
+     WP_111681378.1  93 YQIQINSLD 101
+                        *******98 PP
+
+>> WP_014407895.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.4   0.1   6.4e-65   5.3e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 205.4 bits;  conditional E-value: 6.4e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k+pmrvq+lsy+sdtd+ssgelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_014407895.1   1 MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_014407895.1  93 YQKQISSLD 101
+                        *******98 PP
+
+>> WP_009881075.1  Spi family protease inhibitor [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  205.1   0.0     8e-65   6.7e-63       1     101 []       1     101 []       1     101 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 205.1 bits;  conditional E-value: 8e-65
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136277014.1-i1   1 memhfvrtekearriaetfiaentqikapmrvqelsydsdtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldlnkdnvrsliea 92 
+                        memhfvrte+earriaetf+aentq+k pmrvq+lsy+sdtd+ssgelyiyalspaGfiivsGd+rahtilGysfdnnldln+dnvrs+iea
+     WP_009881075.1   1 MEMHFVRTEPEARRIAETFCAENTQTKPPMRVQQLSYPSDTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEA 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxx RF
+  WP_136277014.1-i1  93 yqeqiksld 101
+                        yq+qi+sld
+     WP_009881075.1  93 YQKQINSLD 101
+                        *******98 PP
+
+>> WP_136038086.1  cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.9   0.6   1.3e-47   1.1e-45       2      98 ..      28     129 ..      27     132 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 149.9 bits;  conditional E-value: 1.3e-47
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx RF
+  WP_136277014.1-i1   2 emhfvrtekearriaetfiaentqikapmrvqe.lsyds...dtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldln.kdnvrs 88 
+                        +++f+r+ekea+++a+tfi+++++ika++r++e +++d+   +++ls++++y+y++s++Gf+ivsGdkr+++ilGys+++++d+n k+n++s
+     WP_136038086.1  28 DQNFARNEKEAKDSAITFIQKSAAIKAGARSAEdIKLDKvnlGGKLSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDVNgKENIAS 119
+                        69******************************99*****999************************************************** PP
+
+                        xxxxxxxxxx RF
+  WP_136277014.1-i1  89 lieayqeqik 98 
+                        ++e+y+eqik
+     WP_136038086.1 120 FMESYVEQIK 129
+                        *********8 PP
+
+>> WP_136304017.1  cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.4   0.6   3.8e-47   3.1e-45       2      98 ..      28     129 ..      27     132 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 148.4 bits;  conditional E-value: 3.8e-47
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx RF
+  WP_136277014.1-i1   2 emhfvrtekearriaetfiaentqikapmrvqe.lsyds...dtdlssgelyiyalspaGfiivsGdkrahtilGysfdnnldln.kdnvrs 88 
+                        +++f+r+eke++++a+tfi+++++ika++r++e +++d+   +++ls++++y+y++s++Gf+ivsGdkr+++ilGys+++++d+n k+n++s
+     WP_136304017.1  28 DQNFARNEKEVKDSAITFIQKSAAIKAGARSAEdIKLDKvnlGGELSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDANgKENIAS 119
+                        69******************************99*****999************************************************** PP
+
+                        xxxxxxxxxx RF
+  WP_136277014.1-i1  89 lieayqeqik 98 
+                        ++e+y+eqik
+     WP_136304017.1 120 FMESYVEQIK 129
+                        *********8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (101 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        14  (0.0152672); expected 18.3 (0.02)
+Passed bias filter:                       14  (0.0152672); expected 18.3 (0.02)
+Passed Vit filter:                        12  (0.0130862); expected 0.9 (0.001)
+Passed Fwd filter:                        11  (0.0119956); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.18u 0.02s 00:00:00.20 Elapsed: 00:00:00.78
+# Mc/sec: 12.42
+
+@@ New targets included:   0
+@@ New alignment includes: 12 subseqs (was 12), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 12 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster22.stk
+//
+[ok]

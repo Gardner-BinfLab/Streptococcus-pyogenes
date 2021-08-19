@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136273117.1-i2
+
+#=GS WP_136273117.1      DE bacteriocin [Streptococcus pyogenes]
+#=GS WP_136273117.1/1-64 DE [subseq from] bacteriocin [Streptococcus pyogenes]
+#=GS WP_128888800.1/1-64 DE [subseq from] MULTISPECIES: bacteriocin [Streptococcus]
+#=GS WP_032460776.1/1-55 DE [subseq from] hypothetical protein, partial [Streptococcus pyogenes]
+#=GS WP_032460989.1/1-51 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136273117.1              MEVLKNGLAIINGGGKDGANIFLTGMAGAAQGVIVCAQTGVFIPWQGYILCGAAGAATNIIWPH
+WP_136273117.1/1-64         MEVLKNGLAIINGGGKDGANIFLTGMAGAAQGVIVCAQTGVFIPWQGYILCGAAGAATNIIWPH
+#=GR WP_136273117.1/1-64 PP 9**************************************************************9
+WP_128888800.1/1-64         MEVLKNGLAIINGGGKDGANIFLTGMAGAAEGVIVCAQTGVFIPWQGYILCGAAGAATNIIWPH
+#=GR WP_128888800.1/1-64 PP 9**************************************************************9
+WP_032460776.1/1-55         ---------IINGGGKDGANIFLTGMAGAAQGVTVCAQTGVFIPWQGYILRGAAGAATNIIWPH
+#=GR WP_032460776.1/1-55 PP .........8*****************************************************9
+WP_032460989.1/1-51         ----------MNGGGKDGANIFLTGMAGAAQGVTVCAQTGVFIPWQGYLLCGA---AANIIWPH
+#=GR WP_032460989.1/1-51 PP ..........8*****************************************9...99*****9
+#=GC PP_cons                9********99****************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

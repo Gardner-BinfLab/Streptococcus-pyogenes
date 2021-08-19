@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_198462994.1       -             31 WP_198462994.1       -             31   1.4e-26   88.0   7.9   1   1   4.7e-29   1.4e-26   87.9   7.9     1    31     1    31     1    31 0.99 quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+WP_206733287.1       -             32 WP_198462994.1       -             31   5.8e-26   86.0   6.8   1   1   2.1e-28   6.6e-26   85.8   6.8     2    31     3    32     2    32 0.98 quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+WP_210726138.1       -             22 WP_198462994.1       -             31   3.4e-18   61.1   4.1   1   1   1.1e-20   3.5e-18   61.1   4.1    10    31     1    22     1    22 0.99 quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster72.jackhmmer -A orphan-fams/99084-cluster72.stk --domtblout orphan-fams/99084-cluster72.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:24:27 2021
+# [ok]

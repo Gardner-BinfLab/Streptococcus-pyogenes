@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_021299391.1       -             47 WP_021299391.1       -             47   1.5e-40  132.4   0.4   1   1     2e-42   1.6e-40  132.3   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153276794.1       -             47 WP_021299391.1       -             47   3.1e-40  131.4   0.4   1   1     4e-42   3.3e-40  131.3   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153277324.1       -             47 WP_021299391.1       -             47   4.5e-40  130.9   0.4   1   1   5.8e-42   4.9e-40  130.8   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153277046.1       -             47 WP_021299391.1       -             47   4.5e-40  130.9   0.5   1   1   5.9e-42   4.9e-40  130.8   0.5     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153277434.1       -             47 WP_021299391.1       -             47   4.7e-40  130.9   0.4   1   1     6e-42     5e-40  130.7   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153277477.1       -             47 WP_021299391.1       -             47   6.6e-40  130.4   0.4   1   1   8.6e-42   7.2e-40  130.3   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153276865.1       -             47 WP_021299391.1       -             47   7.9e-40  130.1   0.3   1   1     1e-41   8.6e-40  130.0   0.3     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_168435468.1       -             47 WP_021299391.1       -             47   8.1e-40  130.1   0.4   1   1     1e-41   8.7e-40  130.0   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_153277395.1       -             47 WP_021299391.1       -             47   8.7e-40  130.0   0.3   1   1   1.1e-41   9.4e-40  129.9   0.3     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_168625024.1       -             47 WP_021299391.1       -             47   1.3e-39  129.4   0.4   1   1   1.7e-41   1.5e-39  129.3   0.4     1    47     1    47     1    47 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_168436222.1       -             47 WP_021299391.1       -             47   1.5e-39  129.2   0.3   1   1   1.9e-41   1.6e-39  129.1   0.3     1    46     1    46     1    47 0.99 hypothetical protein [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster47.jackhmmer -A orphan-fams/99084-cluster47.stk --domtblout orphan-fams/99084-cluster47.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:23:52 2021
+# [ok]

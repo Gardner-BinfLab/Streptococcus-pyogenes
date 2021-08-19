@@ -1,0 +1,108 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster165.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster165.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster165.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_002986864.1  [L=54]
+Description: hypothetical protein [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.9e-34  110.8   1.6    2.1e-34  110.7   1.6    1.0  1  WP_002986864.1  hypothetical protein [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_002986864.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.7   1.6   2.3e-37   2.1e-34       1      54 []       1      54 []       1      54 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 110.7 bits;  conditional E-value: 2.3e-37
+  WP_002986864.1  1 mtkeeviaflteqrdlrlfgyeqgkddlsdfekwqlaqadmylkviewiesvke 54
+                    mtkeeviaflteqrdlrlfgyeqgkddlsdfekwqlaqadmylkviewiesvke
+  WP_002986864.1  1 MTKEEVIAFLTEQRDLRLFGYEQGKDDLSDFEKWQLAQADMYLKVIEWIESVKE 54
+                    8***************************************************98 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (54 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        34  (0.0370774); expected 18.3 (0.02)
+Passed bias filter:                       27  (0.0294438); expected 18.3 (0.02)
+Passed Vit filter:                         3  (0.00327154); expected 0.9 (0.001)
+Passed Fwd filter:                         1  (0.00109051); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.32
+# Mc/sec: 16.19
+
+@@ New targets included:   1
+@@ New alignment includes: 2 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        2 subsequences (query + 1 subseqs from 1 targets)
+@@ Model size:             54 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+      5e-44  143.8   3.4    5.5e-44  143.7   3.4    1.0  1  WP_002986864.1  hypothetical protein [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_002986864.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  143.7   3.4     6e-47   5.5e-44       1      54 []       1      54 []       1      54 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 143.7 bits;  conditional E-value: 6e-47
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_002986864.1-i1  1 mtkeeviaflteqrdlrlfGyeqGkddlsdfekWqlaqadmylkvieWiesvke 54
+                       mtkeeviaflteqrdlrlfGyeqGkddlsdfekWqlaqadmylkvieWiesvke
+     WP_002986864.1  1 MTKEEVIAFLTEQRDLRLFGYEQGKDDLSDFEKWQLAQADMYLKVIEWIESVKE 54
+                       9****************************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (54 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        13  (0.0141767); expected 18.3 (0.02)
+Passed bias filter:                       10  (0.0109051); expected 18.3 (0.02)
+Passed Vit filter:                         1  (0.00109051); expected 0.9 (0.001)
+Passed Fwd filter:                         1  (0.00109051); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.10u 0.03s 00:00:00.13 Elapsed: 00:00:00.31
+# Mc/sec: 16.71
+
+@@ New targets included:   0
+@@ New alignment includes: 2 subseqs (was 2), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 2 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster165.stk
+//
+[ok]

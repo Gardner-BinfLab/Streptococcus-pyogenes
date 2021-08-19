@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_021734053.1       -             81 WP_136260672.1       -             81   5.1e-60  195.8   8.5   1   1   1.8e-62   5.6e-60  195.7   8.5     1    81     1    81     1    81 0.99 hypothetical protein [Streptococcus pyogenes]
+WP_136260672.1       -             81 WP_136260672.1       -             81   7.4e-60  195.3   8.6   1   1   2.7e-62   8.1e-60  195.2   8.6     1    81     1    81     1    81 0.99 hypothetical protein [Streptococcus pyogenes]
+WP_063662001.1       -             76 WP_136260672.1       -             81   1.3e-54  178.5   4.6   1   1   4.7e-57   1.4e-54  178.4   4.6     1    74     1    74     1    76 0.99 hypothetical protein [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster141.jackhmmer -A orphan-fams/99084-cluster141.stk --domtblout orphan-fams/99084-cluster141.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:26:00 2021
+# [ok]

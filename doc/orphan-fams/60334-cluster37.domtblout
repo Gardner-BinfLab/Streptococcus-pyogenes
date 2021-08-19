@@ -1,0 +1,23 @@
+#                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- -----           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_900983155.1|WP_021299391.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   7.4e-41  131.8   0.4   1   1   2.8e-42     8e-41  131.7   0.4     1    47     1    47     1    47 1.00 -
+GCF_900982855.1|WP_153277324.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   1.9e-40  130.5   0.4   1   1   7.2e-42   2.1e-40  130.4   0.4     1    47     1    47     1    47 1.00 -
+GCF_900983035.1|WP_153277434.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   2.1e-40  130.4   0.4   1   1   7.7e-42   2.2e-40  130.3   0.4     1    47     1    47     1    47 1.00 -
+GCF_900995605.1|WP_168435468.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   2.1e-40  130.4   0.4   1   1   7.7e-42   2.2e-40  130.3   0.4     1    47     1    47     1    47 1.00 -
+GCF_900983175.1|WP_153277046.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   2.2e-40  130.3   0.5   1   1   8.2e-42   2.4e-40  130.2   0.5     1    47     1    47     1    47 1.00 -
+GCF_900996085.1|WP_153277477.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   3.4e-40  129.7   0.4   1   1   1.3e-41   3.7e-40  129.6   0.4     1    47     1    47     1    47 1.00 -
+GCF_900995345.1|WP_153276865.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   3.5e-40  129.7   0.3   1   1   1.3e-41   3.8e-40  129.6   0.3     1    47     1    47     1    47 1.00 -
+GCF_900992305.1|WP_168625024.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   6.8e-40  128.7   0.4   1   1   2.5e-41   7.4e-40  128.6   0.4     1    47     1    47     1    47 1.00 -
+GCF_900992565.1|WP_168436222.1 -             47 GCF_900995605.1|WP_168435468.1 -             47   6.9e-40  128.7   0.3   1   1   2.6e-41   7.4e-40  128.6   0.3     1    46     1    46     1    47 0.99 -
+GCF_900992155.1|WP_153276752.1 -             52 GCF_900995605.1|WP_168435468.1 -             47   1.8e-16   53.8   1.9   1   1   7.8e-18   2.3e-16   53.4   1.9     1    25     1    25     1    51 0.95 -
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/60334.fa
+# Target file:     orphan-spyogenes-protein-ids.2.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/60334-cluster37.jackhmmer -A orphan-fams/60334-cluster37.stk --domtblout orphan-fams/60334-cluster37.domtblout -E 0.00001 --incE 0.00001 orphan-fams/60334.fa orphan-spyogenes-protein-ids.2.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Fri Jul 23 10:02:54 2021
+# [ok]

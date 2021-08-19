@@ -1,0 +1,350 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/60334.fa
+# target sequence database:        orphan-spyogenes-protein-ids.2.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/60334-cluster14.jackhmmer
+# MSA of hits saved to file:       orphan-fams/60334-cluster14.stk
+# per-dom hits tabular output:     orphan-fams/60334-cluster14.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       GCF_900984975.1|WP_181394113.1  [L=53]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
++   3.7e-36  114.6   0.5      4e-36  114.5   0.5    1.0  1  GCF_900984975.1|WP_181394113.1  
++   2.6e-34  108.9   0.5    3.1e-34  108.7   0.5    1.1  1  GCF_900988865.1|WP_194103677.1  
++   2.4e-32  102.7   1.0    2.7e-32  102.6   1.0    1.0  1  GCF_900986655.1|WP_194088483.1  
++   4.6e-32  101.9   3.3    7.5e-32  101.2   3.3    1.3  1  GCF_900992825.1|WP_168627783.1  
++   1.4e-31  100.4   1.2    1.7e-31  100.2   1.2    1.1  1  GCF_900992595.1|WP_194119699.1  
++   2.1e-31   99.8   3.6    3.2e-31   99.3   3.6    1.3  1  GCF_900986005.1|WP_194099342.1  
++   1.5e-24   78.5   0.3    1.6e-24   78.4   0.3    1.1  1  GCF_900995565.1|WP_168433711.1  
++   1.6e-24   78.4   0.5    1.8e-24   78.2   0.5    1.1  1  GCF_900985575.1|WP_194091883.1  
++   3.8e-24   77.2   0.4    5.4e-24   76.7   0.4    1.2  1  GCF_900991745.1|WP_168625139.1  
++   1.9e-22   71.9   1.1    2.3e-22   71.7   0.8    1.4  1  GCF_900984845.1|WP_194103987.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900984975.1|WP_181394113.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  114.5   0.5   1.4e-37     4e-36       1      53 []       1      53 []       1      53 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 114.5 bits;  conditional E-value: 1.4e-37
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvffgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyfvffgrwyacqldqtsk
+  GCF_900984975.1|WP_181394113.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFFGRWYACQLDQTSK 53
+                                    8**************************************************98 PP
+
+>> GCF_900988865.1|WP_194103677.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  108.7   0.5   1.1e-35   3.1e-34       1      53 []       1      55 []       1      55 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 108.7 bits;  conditional E-value: 1.1e-35
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvf..fgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyfvf  fgrwyacqldqtsk
+  GCF_900988865.1|WP_194103677.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFffFGRWYACQLDQTSK 55
+                                    8***********************************996337***********98 PP
+
+>> GCF_900986655.1|WP_194088483.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  102.6   1.0   9.2e-34   2.7e-32       1      53 []       1      54 []       1      54 [] 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 102.6 bits;  conditional E-value: 9.2e-34
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfv.ffgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwg+f  ff rwyacqldqtsk
+  GCF_900986655.1|WP_194088483.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGFFFfFFWRWYACQLDQTSK 54
+                                    8**********************************8751679**********98 PP
+
+>> GCF_900992825.1|WP_168627783.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  101.2   3.3   2.6e-33   7.5e-32       1      53 []       1      56 []       1      56 [] 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 101.2 bits;  conditional E-value: 2.6e-33
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvf...fgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyfvf   f rwyacqldqtsk
+  GCF_900992825.1|WP_168627783.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFfffFWRWYACQLDQTSK 56
+                                    8***********************************99622258**********98 PP
+
+>> GCF_900992595.1|WP_194119699.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  100.2   1.2   5.7e-33   1.7e-31       1      53 []       1      55 []       1      55 [] 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 100.2 bits;  conditional E-value: 5.7e-33
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfv..ffgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnw+yf   ff rwyacqldqtsk
+  GCF_900992595.1|WP_194119699.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWSYFFffFFWRWYACQLDQTSK 55
+                                    8**********************************98622579**********98 PP
+
+>> GCF_900986005.1|WP_194099342.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   99.3   3.6   1.1e-32   3.2e-31       1      53 []       1      56 []       1      56 [] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 99.3 bits;  conditional E-value: 1.1e-32
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfv...ffgrwyacqldqtsk 53
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyf    ff rwyacqldqtsk
+  GCF_900986005.1|WP_194099342.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFfffFFWRWYACQLDQTSK 56
+                                    8**********************************986222578**********98 PP
+
+>> GCF_900995565.1|WP_168433711.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   78.4   0.3   5.6e-26   1.6e-24       1      40 [.       1      40 [.       1      48 [. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 78.4 bits;  conditional E-value: 5.6e-26
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvff 40
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyfvf+
+  GCF_900995565.1|WP_168433711.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFL 40
+                                    8*************************************97 PP
+
+>> GCF_900985575.1|WP_194091883.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   78.2   0.5   6.2e-26   1.8e-24       1      40 [.       1      40 [.       1      49 [. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 78.2 bits;  conditional E-value: 6.2e-26
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvff 40
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyf ff
+  GCF_900985575.1|WP_194091883.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFFF 40
+                                    8***********************************9876 PP
+
+>> GCF_900991745.1|WP_168625139.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   76.7   0.4   1.9e-25   5.4e-24       1      40 [.       1      40 [.       1      49 [. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 76.7 bits;  conditional E-value: 1.9e-25
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvff 40
+                                    mtnerekeeakvtleellhqiqvihlelkivrnwgyf ff
+  GCF_900991745.1|WP_168625139.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFFF 40
+                                    8***********************************9876 PP
+
+>> GCF_900984845.1|WP_194103987.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   71.7   0.8   7.8e-24   2.3e-22       1      41 [.       1      41 [.       1      54 [. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 71.7 bits;  conditional E-value: 7.8e-24
+  GCF_900984975.1|WP_181394113.1  1 mtnerekeeakvtleellhqiqvihlelkivrnwgyfvffg 41
+                                    mtnerekeeakv leellhqiqv hlelkivrnwgyfvf+ 
+  GCF_900984845.1|WP_194103987.1  1 MTNEREKEEAKVALEELLHQIQVNHLELKIVRNWGYFVFLE 41
+                                    8**************************************75 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (53 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                        12  (0.0413793); expected 5.8 (0.02)
+Passed bias filter:                       12  (0.0413793); expected 5.8 (0.02)
+Passed Vit filter:                        10  (0.0344828); expected 0.3 (0.001)
+Passed Fwd filter:                        10  (0.0344828); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):              10  [number of targets reported over threshold]
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.17
+# Mc/sec: 6.13
+
+@@ New targets included:   10
+@@ New alignment includes: 11 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        11 subsequences (query + 10 subseqs from 10 targets)
+@@ Model size:             53 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
+    3.4e-44  142.6   1.9    3.7e-44  142.5   1.9    1.0  1  GCF_900984975.1|WP_181394113.1  
+    4.3e-43  139.1   2.3    4.8e-43  138.9   2.3    1.0  1  GCF_900988865.1|WP_194103677.1  
+    5.1e-43  138.8   4.3    5.6e-43  138.7   4.3    1.0  1  GCF_900986655.1|WP_194088483.1  
+    1.2e-42  137.6   4.8    1.4e-42  137.4   4.8    1.1  1  GCF_900992595.1|WP_194119699.1  
+    1.1e-41  134.5   9.1    1.8e-41  133.9   9.1    1.3  1  GCF_900992825.1|WP_168627783.1  
+    1.4e-41  134.2   9.5    2.2e-41  133.6   9.5    1.3  1  GCF_900986005.1|WP_194099342.1  
+    8.9e-33  106.0   2.0      1e-32  105.8   2.0    1.1  1  GCF_900985575.1|WP_194091883.1  
+    1.9e-32  104.9   2.2    2.2e-32  104.8   2.2    1.0  1  GCF_900995565.1|WP_168433711.1  
+    2.2e-32  104.8   1.9    2.9e-32  104.4   1.9    1.1  1  GCF_900991745.1|WP_168625139.1  
+    8.1e-31   99.7   3.0    8.1e-31   99.7   3.0    1.4  1  GCF_900984845.1|WP_194103987.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> GCF_900984975.1|WP_181394113.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.5   1.9   1.3e-45   3.7e-44       1      53 []       1      53 []       1      53 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 142.5 bits;  conditional E-value: 1.3e-45
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvff+rwyacqldqtsk
+     GCF_900984975.1|WP_181394113.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFFGRWYACQLDQTSK 53
+                                       9***************************************************8 PP
+
+>> GCF_900988865.1|WP_194103677.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.9   2.3   1.7e-44   4.8e-43       1      53 []       1      55 []       1      55 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 138.9 bits;  conditional E-value: 1.7e-44
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv..ffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv  ff+rwyacqldqtsk
+     GCF_900988865.1|WP_194103677.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVffFFGRWYACQLDQTSK 55
+                                       9************************************95559************8 PP
+
+>> GCF_900986655.1|WP_194088483.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.7   4.3   1.9e-44   5.6e-43       1      53 []       1      54 []       1      54 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 138.7 bits;  conditional E-value: 1.9e-44
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv.ffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWg+f+ ffwrwyacqldqtsk
+     GCF_900986655.1|WP_194088483.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGFFFfFFWRWYACQLDQTSK 54
+                                       9***********************************99569************8 PP
+
+>> GCF_900992595.1|WP_194119699.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.4   4.8   4.7e-44   1.4e-42       1      53 []       1      55 []       1      55 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 137.4 bits;  conditional E-value: 4.7e-44
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv..ffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnW+yf+  ffwrwyacqldqtsk
+     GCF_900992595.1|WP_194119699.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWSYFFffFFWRWYACQLDQTSK 55
+                                       9***********************************995569************8 PP
+
+>> GCF_900992825.1|WP_168627783.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  133.9   9.1   6.2e-43   1.8e-41       1      53 []       1      56 []       1      56 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 133.9 bits;  conditional E-value: 6.2e-43
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv...ffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv   ffwrwyacqldqtsk
+     GCF_900992825.1|WP_168627783.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVfffFFWRWYACQLDQTSK 56
+                                       9***********************************9955459************8 PP
+
+>> GCF_900986005.1|WP_194099342.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  133.6   9.5   7.7e-43   2.2e-41       1      53 []       1      56 []       1      56 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 133.6 bits;  conditional E-value: 7.7e-43
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfv...ffwrwyacqldqtsk 53
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyf+   ffwrwyacqldqtsk
+     GCF_900986005.1|WP_194099342.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFfffFFWRWYACQLDQTSK 56
+                                       9***********************************9955459************8 PP
+
+>> GCF_900985575.1|WP_194091883.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.8   2.0   3.5e-34     1e-32       1      40 [.       1      40 [.       1      47 [. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 105.8 bits;  conditional E-value: 3.5e-34
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvff 40
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyf+ff
+     GCF_900985575.1|WP_194091883.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFFF 40
+                                       9*************************************87 PP
+
+>> GCF_900995565.1|WP_168433711.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.8   2.2   7.6e-34   2.2e-32       1      41 [.       1      41 [.       1      47 [. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 104.8 bits;  conditional E-value: 7.6e-34
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvffw 41
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvf++
+     GCF_900995565.1|WP_168433711.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFVFLE 41
+                                       9**************************************96 PP
+
+>> GCF_900991745.1|WP_168625139.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.4   1.9   9.8e-34   2.9e-32       1      40 [.       1      40 [.       1      46 [. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 104.4 bits;  conditional E-value: 9.8e-34
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvff 40
+                                       mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyf+ff
+     GCF_900991745.1|WP_168625139.1  1 MTNEREKEEAKVTLEELLHQIQVIHLELKIVRNWGYFFFF 40
+                                       9*************************************97 PP
+
+>> GCF_900984845.1|WP_194103987.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   99.7   3.0   2.8e-32   8.1e-31       1      41 [.       1      41 [.       1      54 [. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 99.7 bits;  conditional E-value: 2.8e-32
+                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  GCF_900984975.1|WP_181394113.1-i1  1 mtnerekeeakvtLeeLLhqiqvihLeLkivrnWgyfvffw 41
+                                       mtnerekeeakv+LeeLLhqiqv+hLeLkivrnWgyfvf++
+     GCF_900984845.1|WP_194103987.1  1 MTNEREKEEAKVALEELLHQIQVNHLELKIVRNWGYFVFLE 41
+                                       9**************************************75 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (53 nodes)
+Target sequences:                          290  (19663 residues searched)
+Passed MSV filter:                        12  (0.0413793); expected 5.8 (0.02)
+Passed bias filter:                       12  (0.0413793); expected 5.8 (0.02)
+Passed Vit filter:                        10  (0.0344828); expected 0.3 (0.001)
+Passed Fwd filter:                        10  (0.0344828); expected 0.0 (1e-05)
+Initial search space (Z):                290  [actual number of targets]
+Domain search space  (domZ):              10  [number of targets reported over threshold]
+# CPU time: 0.11u 0.02s 00:00:00.13 Elapsed: 00:00:00.25
+# Mc/sec: 4.17
+
+@@ New targets included:   0
+@@ New alignment includes: 11 subseqs (was 11), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 11 hits satisfying inclusion thresholds saved to: orphan-fams/60334-cluster14.stk
+//
+[ok]

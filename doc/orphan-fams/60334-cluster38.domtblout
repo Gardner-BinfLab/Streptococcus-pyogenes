@@ -1,0 +1,17 @@
+#                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- -----           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_900992265.1|WP_136076085.1 -             44 GCF_900992265.1|WP_136076085.1 -             44   2.5e-39  127.0   1.2   1   1   3.7e-41   2.7e-39  126.9   1.2     1    44     1    44     1    44 1.00 -
+GCF_900989655.1|WP_136263567.1 -             44 GCF_900992265.1|WP_136076085.1 -             44   2.7e-39  126.9   1.3   1   1     4e-41   2.9e-39  126.8   1.3     1    44     1    44     1    44 1.00 -
+GCF_900989585.1|WP_136263773.1 -             44 GCF_900992265.1|WP_136076085.1 -             44   3.6e-39  126.5   1.0   1   1   5.4e-41   3.9e-39  126.4   1.0     1    44     1    44     1    44 1.00 -
+GCF_900991895.1|WP_136278082.1 -             44 GCF_900992265.1|WP_136076085.1 -             44     5e-39  126.1   0.5   1   1   7.5e-41   5.4e-39  126.0   0.5     1    44     1    44     1    44 1.00 -
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/60334.fa
+# Target file:     orphan-spyogenes-protein-ids.2.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/60334-cluster38.jackhmmer -A orphan-fams/60334-cluster38.stk --domtblout orphan-fams/60334-cluster38.domtblout -E 0.00001 --incE 0.00001 orphan-fams/60334.fa orphan-spyogenes-protein-ids.2.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Fri Jul 23 10:02:55 2021
+# [ok]

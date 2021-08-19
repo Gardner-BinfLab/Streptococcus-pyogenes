@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+#=GF ID WP_011054812.1-i2
+
+#=GS WP_011054812.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011184603.1/1-61 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054812.1/1-61 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_015898611.1/1-61 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136289454.1/1-61 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194132458.1/1-40 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276856.1/1-41 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_011054812.1              MAENKTGMMALPIDYANRALAKEEILDELVEREIVDVDLLIELAEDNPFWMSALNFKRGTK
+WP_011184603.1/1-61         MAENKTGMMTLPIDYANRALAKEEILDELVEREIVDVDLLIELAEDNPFWMSALNFKRGTK
+#=GR WP_011184603.1/1-61 PP 9***********************************************************8
+WP_011054812.1/1-61         MAENKTGMMALPIDYANRALAKEEILDELVEREIVDVDLLIELAEDNPFWMSALNFKRGTK
+#=GR WP_011054812.1/1-61 PP 9***********************************************************8
+WP_015898611.1/1-61         MAENKTGMMTLPIDYANRALAKEEILDELVEREIVDVDLLIELAEDNPFWMSALNFNRGTK
+#=GR WP_015898611.1/1-61 PP 9***********************************************************8
+WP_136289454.1/1-61         MAENKTGMMALPIDYANRALAKEEILDELVEREIVDVDLLIELAEDNLFWMSALNFKRGTK
+#=GR WP_136289454.1/1-61 PP 9***********************************************************8
+WP_194132458.1/1-40         MAENKTGMMALPIDYANRALAKEEILDELVEREIVDVDLL---------------------
+#=GR WP_194132458.1/1-40 PP 9**************************************9.....................
+WP_153276856.1/1-41         --------MTLPIKYGNLMMAKADALDALIENDIVNKETIINIGNDDWY------------
+#=GR WP_153276856.1/1-41 PP ........9***************************************6............
+#=GC PP_cons                9***********************************************9***********8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

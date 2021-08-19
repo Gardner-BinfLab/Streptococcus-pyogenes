@@ -1,0 +1,108 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster195.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster195.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster195.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136281820.1  [L=23]
+Description: peptide pheromone SHP3 [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.3e-11   37.2   1.6    1.3e-11   37.1   1.6    1.0  1  WP_136281820.1  peptide pheromone SHP3 [Streptococcus pyogene
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136281820.1  peptide pheromone SHP3 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.1   1.6   1.5e-14   1.3e-11       1      23 []       1      23 []       1      23 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 37.1 bits;  conditional E-value: 1.5e-14
+  WP_136281820.1  1 mkkiskfltililamdiiiivgg 23
+                    mkkiskfltililamdiiiivgg
+  WP_136281820.1  1 MKKISKFLTILILAMDIIIIVGG 23
+                    8*********************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (23 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        46  (0.0501636); expected 18.3 (0.02)
+Passed bias filter:                       45  (0.0490731); expected 18.3 (0.02)
+Passed Vit filter:                         5  (0.00545256); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.03u 0.03s 00:00:00.06 Elapsed: 00:00:00.16
+# Mc/sec: 13.79
+
+@@ New targets included:   1
+@@ New alignment includes: 2 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        2 subsequences (query + 1 subseqs from 1 targets)
+@@ Model size:             23 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    3.4e-18   61.1  11.3    3.6e-18   61.0  11.3    1.0  1  WP_136281820.1  peptide pheromone SHP3 [Streptococcus pyogene
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136281820.1  peptide pheromone SHP3 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   61.0  11.3   3.9e-21   3.6e-18       1      23 []       1      23 []       1      23 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 61.0 bits;  conditional E-value: 3.9e-21
+                       xxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136281820.1-i1  1 MKKISKFLTILILAMDIIIIVGG 23
+                       MKKISKFLTILILAMDIIIIVGG
+     WP_136281820.1  1 MKKISKFLTILILAMDIIIIVGG 23
+                       **********************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (23 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        10  (0.0109051); expected 18.3 (0.02)
+Passed bias filter:                        8  (0.0087241); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.03u 0.03s 00:00:00.06 Elapsed: 00:00:00.26
+# Mc/sec: 8.49
+
+@@ New targets included:   0
+@@ New alignment includes: 2 subseqs (was 2), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 2 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster195.stk
+//
+[ok]

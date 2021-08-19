@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136263551.1-i2
+
+#=GS WP_136263551.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080464961.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136294690.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002985395.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_076639549.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263551.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_010922056.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136037867.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080465177.1/1-44 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+
+WP_136263551.1              MKNKKEQWTPKVRCFRKDGSQCEPKNITVPISFAGYYQILLELGV
+WP_080464961.1/1-45         MKRQKEQWTPKVRCFRKDGSQCEPENITVPISFTGYYQILLELGV
+#=GR WP_080464961.1/1-45 PP 9*******************************************8
+WP_136294690.1/1-44         MKRQKEQWTPKVRCFRKDGSQCEPENITVPISFTGYYQILLEVG-
+#=GR WP_136294690.1/1-44 PP 9******************************************9.
+WP_002985395.1/1-44         MKRQKEQWTPKVRCFRKDGSQCEPENITVPISFAGYYQILLEVG-
+#=GR WP_002985395.1/1-44 PP 9******************************************9.
+WP_076639549.1/1-45         MKRQKEQWTPKVRCFRKGGSQCEPENITVPISFTGYYQILLEVGV
+#=GR WP_076639549.1/1-45 PP 9*******************************************8
+WP_136263551.1/1-45         MKNKKEQWTPKVRCFRKDGSQCEPKNITVPISFAGYYQILLELGV
+#=GR WP_136263551.1/1-45 PP 9*******************************************8
+WP_010922056.1/1-45         MKNKKEQWTPKVHCFRKDGSQCEPENITVPISFAGYYQILLELGV
+#=GR WP_010922056.1/1-45 PP 9*******************************************8
+WP_136037867.1/1-44         MKRQKEQWTPKVRCFRKGGSQCEPENITVPISFTGYYQILLEVG-
+#=GR WP_136037867.1/1-44 PP 9******************************************9.
+WP_080465177.1/1-44         MKNKKEQWTPKVRCFRKGGSQCEPENITVPISFTGYYQILLEVG-
+#=GR WP_080465177.1/1-44 PP 9******************************************9.
+#=GC PP_cons                9******************************************98
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

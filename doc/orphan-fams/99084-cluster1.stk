@@ -1,0 +1,51 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136106993.1-i2
+
+#=GS WP_136106993.1      DE dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_002990686.1/1-49 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_002994198.1/1-49 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_047235923.1/1-49 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136106993.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_136273614.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_038433655.1/1-49 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136261872.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_136287047.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_136046984.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_030126777.1/1-49 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_076639576.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_011285429.1/1-49 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136262022.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+#=GS WP_136286059.1/1-49 DE [subseq from] dihydroxyacetone kinase [Streptococcus pyogenes]
+
+WP_136106993.1              MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTNMAFILVRGINYQ
+WP_002990686.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ
+#=GR WP_002990686.1/1-49 PP 9***********************************************9
+WP_002994198.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ
+#=GR WP_002994198.1/1-49 PP 9***********************************************9
+WP_047235923.1/1-49         MQLLDNIYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ
+#=GR WP_047235923.1/1-49 PP 9***********************************************9
+WP_136106993.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTNMAFILVRGINYQ
+#=GR WP_136106993.1/1-49 PP 9***********************************************9
+WP_136273614.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALKADTDMAFILVRGINYQ
+#=GR WP_136273614.1/1-49 PP 9***********************************************9
+WP_038433655.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQASTDMAFILVRGINYQ
+#=GR WP_038433655.1/1-49 PP 9***********************************************9
+WP_136261872.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADVLQADTDMAFILVRGINYQ
+#=GR WP_136261872.1/1-49 PP 9***********************************************9
+WP_136287047.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQTGTDMAFILVRGINYQ
+#=GR WP_136287047.1/1-49 PP 9***********************************************9
+WP_136046984.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLVDALQAGTDMAFILVRGINYQ
+#=GR WP_136046984.1/1-49 PP 9***********************************************9
+WP_030126777.1/1-49         MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRDINYQ
+#=GR WP_030126777.1/1-49 PP 9***********************************************9
+WP_076639576.1/1-49         MQLLDNVYETLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ
+#=GR WP_076639576.1/1-49 PP 9***********************************************9
+WP_011285429.1/1-49         MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGINYQ
+#=GR WP_011285429.1/1-49 PP 9***********************************************9
+WP_136262022.1/1-49         MQLLDNVYGTLRSFAFMGPVKSSNDTSLADALQADTDMAFILVRGINYQ
+#=GR WP_136262022.1/1-49 PP 9***********************************************9
+WP_136286059.1/1-49         MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGIDYQ
+#=GR WP_136286059.1/1-49 PP 9***********************************************9
+#=GC PP_cons                9***********************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

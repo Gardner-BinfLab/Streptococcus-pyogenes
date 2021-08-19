@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136265263.1-i2
+
+#=GS WP_136265263.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136038693.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136292064.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136296026.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_047235523.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136265263.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136261175.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_047236013.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136094239.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136262790.1/1-154 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136265263.1               MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMQNWWEPSSLWVPYPNPLYSENDLHQPPYGGSLLGLSSDNERERGPRPTPWPQSPLTPESNTNNSRNQGPVNSPWSQDSLFGGLTSGTTSSWGSVIK
+WP_136038693.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMKNWWEPSSLWAPYPNPHYSENDLHQPPYGGSLLGLSSDNERERGPRPTPWPQSPLTPESNPNNSRNQGPVNSPWSQDSLFGGLTSGTTSSWGSVIK
+#=GR WP_136038693.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136292064.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMKNWWEPSSLWAPYPNPHYSENDLHQPPYGGSLLGLSSDNERECGPRPTPWPQSPLTPESNTNNSRNQGPVNSPWSQDSLFGGLTSGTTSSWGSVIK
+#=GR WP_136292064.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136296026.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMQNWWEPSSLWVPYPNPHYSENDLHQPPYGGSLLGLSSDNEREHGPRPTPWPQSPLTPESNTNNSRNQGPVNSPWSQDSLFGGLTSGTTSSWGSVIK
+#=GR WP_136296026.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_047235523.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMENWWEPSSLWAPYPNPHYSENDLHQPPYGGSLLGLSSDNERERGPRPTPWPQSPLTPESNPNNSRNQGPVNSPWPQGPLFGGLTSGTTSSWGSVIK
+#=GR WP_047235523.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136265263.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMQNWWEPSSLWVPYPNPLYSENDLHQPPYGGSLLGLSSDNERERGPRPTPWPQSPLTPESNTNNSRNQGPVNSPWSQDSLFGGLTSGTTSSWGSVIK
+#=GR WP_136265263.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136261175.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMKNWWEPSSLWAPYPNPHYSENDLHQPPYGGSLLGLSSDNERERGPRPTPSPQSPLTPESNPNNSRNQGPVNSPWPQGPLFGGLTSGTTSSWGSVIK
+#=GR WP_136261175.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_047236013.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGDYWYEEDGGMLNGNHWGMENWWEPSSLWAPYPNPHYSENDPHQPPYGGSLLGLSSDNERERGPRPTPSPQSPLTPESNPNNSRNQGPVNSPWPQGPLFGGLTSGTTSSWGSVIK
+#=GR WP_047236013.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136094239.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGNYWYEEDGGMLNGNHWGMENWWEPSSLWAPYPNPLYSENDLHQPPYGGSLLGLSSDNERERGPRPTPSPQSPLTPESNPNNSRNQGPVNSPWPQGPLFGGLTSGTTSSWGSVIK
+#=GR WP_136094239.1/1-154 PP 9********************************************************************************************************************************************************8
+WP_136262790.1/1-154         MINKFQRPSKKYYFLIALASLVLLGTSKTVFGESMTLYTGNYWYEEDGGMLNGNHWGMGNWWEPSSLWAPYPNPLYSENDLHQPPYGGSLLGLSSDNERERGPRPTPSPQSPLTPESNPNNSRNQGPVNSPWPHGPLFGGLTSGTTSSWGSVIK
+#=GR WP_136262790.1/1-154 PP 9********************************************************************************************************************************************************8
+#=GC PP_cons                 9********************************************************************************************************************************************************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

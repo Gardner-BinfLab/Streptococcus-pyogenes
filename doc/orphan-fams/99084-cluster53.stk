@@ -1,0 +1,45 @@
+# STOCKHOLM 1.0
+#=GF ID WP_168474775.1-i2
+
+#=GS WP_168474775.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276776.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_161230233.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276988.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153279680.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276781.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276714.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153276858.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168474775.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153277190.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153279969.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_021299296.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023078310.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_168474775.1              MIDRSACFGSCDRPVFTWFSCFMGLYDLISPAIVQVAQRSLVALSLF
+WP_153276776.1/1-47         MIDRSACFGSCDRPVFTWFSWFMGPYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_153276776.1/1-47 PP 9*********************************************9
+WP_161230233.1/1-47         MIDRSACFGSCDRPVFTWFSCFMGPYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_161230233.1/1-47 PP 9*********************************************9
+WP_153276988.1/1-47         MIDRSACFGSCDRPVFTWFSWFMGLYDWTSPAIVQVAQRSLVALSLF
+#=GR WP_153276988.1/1-47 PP 9*********************************************9
+WP_153279680.1/1-47         MIDRSACFGSCDRPVFTWFSWFMGLYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_153279680.1/1-47 PP 9*********************************************9
+WP_153276781.1/1-47         MIDRSACFGSCDRPVFTWFSCFMGLYDWTSPAIVQVAQRSLVALSLF
+#=GR WP_153276781.1/1-47 PP 9*********************************************9
+WP_153276714.1/1-47         MIDRSACFGSCDRPVFTWFSCFMGLYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_153276714.1/1-47 PP 9*********************************************9
+WP_153276858.1/1-47         MIDRSDCFGSCDRPVFTWFSCFMGPYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_153276858.1/1-47 PP 9*********************************************9
+WP_168474775.1/1-47         MIDRSACFGSCDRPVFTWFSCFMGLYDLISPAIVQVAQRSLVALSLF
+#=GR WP_168474775.1/1-47 PP 9*********************************************9
+WP_153277190.1/1-47         MIDRSACFGSCDRPVFTWFSWFMCLYDWTSPAIVQVAQRSLVALSLF
+#=GR WP_153277190.1/1-47 PP 9*********************************************9
+WP_153279969.1/1-47         MIDRSACFGSCDWPVFTWFSWFMVPYDWTSPAIVQVAQRSLVALSLF
+#=GR WP_153279969.1/1-47 PP 9*********************************************9
+WP_021299296.1/1-47         MIDRSACFGSCDWPVFTWFSWFMVPYDLTSPAIVQVAQRSLVALSLF
+#=GR WP_021299296.1/1-47 PP 9*********************************************9
+WP_023078310.1/1-47         MIDRSACFGSCDRPVFTWFSCFMVPYDLTSLAIVQVAQRSLVALSLF
+#=GR WP_023078310.1/1-47 PP 9*********************************************9
+#=GC PP_cons                9*********************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

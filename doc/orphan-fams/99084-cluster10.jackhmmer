@@ -1,0 +1,162 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster10.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster10.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster10.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_001814923.1  [L=38]
+Description: MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   4.3e-27   86.9   1.4    4.6e-27   86.8   1.4    1.0  1  WP_001814923.1  MULTISPECIES: tetracycline resistance determi
++   1.5e-26   85.3   1.1    1.6e-26   85.2   1.1    1.0  1  WP_001791010.1  MULTISPECIES: tetracycline resistance determi
++   3.4e-25   81.1   1.2    3.7e-25   81.0   1.2    1.0  1  WP_194132547.1  tetracycline resistance determinant leader pe
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_001814923.1  MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   86.8   1.4   1.5e-29   4.6e-27       1      38 []       1      38 []       1      38 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 86.8 bits;  conditional E-value: 1.5e-29
+  WP_001814923.1  1 milkypenicmlcmpmvmhknpsdksiyhwdfyallgf 38
+                    milkypenicmlcmpmvmhknpsdksiyhwdfyallgf
+  WP_001814923.1  1 MILKYPENICMLCMPMVMHKNPSDKSIYHWDFYALLGF 38
+                    89***********************************9 PP
+
+>> WP_001791010.1  MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   85.2   1.1   5.1e-29   1.6e-26       1      38 []       1      38 []       1      38 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 85.2 bits;  conditional E-value: 5.1e-29
+  WP_001814923.1  1 milkypenicmlcmpmvmhknpsdksiyhwdfyallgf 38
+                    milkypenicmlc+pmvmhknpsdksiyhwdfyallgf
+  WP_001791010.1  1 MILKYPENICMLCIPMVMHKNPSDKSIYHWDFYALLGF 38
+                    89***********************************9 PP
+
+>> WP_194132547.1  tetracycline resistance determinant leader peptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   81.0   1.2   1.2e-27   3.7e-25       1      38 []       1      38 []       1      38 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 81.0 bits;  conditional E-value: 1.2e-27
+  WP_001814923.1  1 milkypenicmlcmpmvmhknpsdksiyhwdfyallgf 38
+                    milkypenicmlc+pmvmhknpsdksiyhw fyallgf
+  WP_194132547.1  1 MILKYPENICMLCIPMVMHKNPSDKSIYHWVFYALLGF 38
+                    89***********************************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (38 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        30  (0.0327154); expected 18.3 (0.02)
+Passed bias filter:                       29  (0.0316249); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         3  (0.00327154); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.03u 0.03s 00:00:00.06 Elapsed: 00:00:00.35
+# Mc/sec: 10.42
+
+@@ New targets included:   3
+@@ New alignment includes: 4 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        4 subsequences (query + 3 subseqs from 3 targets)
+@@ Model size:             38 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    2.3e-34  112.7   6.5    2.5e-34  112.6   6.5    1.0  1  WP_001791010.1  MULTISPECIES: tetracycline resistance determi
+    2.7e-34  112.5   7.4    2.9e-34  112.4   7.4    1.0  1  WP_001814923.1  MULTISPECIES: tetracycline resistance determi
+    8.7e-34  110.9   6.8    9.3e-34  110.8   6.8    1.0  1  WP_194132547.1  tetracycline resistance determinant leader pe
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_001791010.1  MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.6   6.5   8.2e-37   2.5e-34       1      38 []       1      38 []       1      38 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 112.6 bits;  conditional E-value: 8.2e-37
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_001814923.1-i1  1 miLkYPeniCmLCiPmvmhknPsDksiYhWdFYaLLGF 38
+                       miLkYPeniCmLCiPmvmhknPsDksiYhWdFYaLLGF
+     WP_001791010.1  1 MILKYPENICMLCIPMVMHKNPSDKSIYHWDFYALLGF 38
+                       9************************************9 PP
+
+>> WP_001814923.1  MULTISPECIES: tetracycline resistance determinant leader peptide [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.4   7.4   9.5e-37   2.9e-34       1      38 []       1      38 []       1      38 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 112.4 bits;  conditional E-value: 9.5e-37
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_001814923.1-i1  1 miLkYPeniCmLCiPmvmhknPsDksiYhWdFYaLLGF 38
+                       miLkYPeniCmLC+PmvmhknPsDksiYhWdFYaLLGF
+     WP_001814923.1  1 MILKYPENICMLCMPMVMHKNPSDKSIYHWDFYALLGF 38
+                       9************************************9 PP
+
+>> WP_194132547.1  tetracycline resistance determinant leader peptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.8   6.8   3.1e-36   9.3e-34       1      38 []       1      38 []       1      38 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 110.8 bits;  conditional E-value: 3.1e-36
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_001814923.1-i1  1 miLkYPeniCmLCiPmvmhknPsDksiYhWdFYaLLGF 38
+                       miLkYPeniCmLCiPmvmhknPsDksiYhW+FYaLLGF
+     WP_194132547.1  1 MILKYPENICMLCIPMVMHKNPSDKSIYHWVFYALLGF 38
+                       9************************************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (38 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        14  (0.0152672); expected 18.3 (0.02)
+Passed bias filter:                       12  (0.0130862); expected 18.3 (0.02)
+Passed Vit filter:                         3  (0.00327154); expected 0.9 (0.001)
+Passed Fwd filter:                         3  (0.00327154); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.08u 0.02s 00:00:00.10 Elapsed: 00:00:00.61
+# Mc/sec: 5.98
+
+@@ New targets included:   0
+@@ New alignment includes: 4 subseqs (was 4), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 4 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster10.stk
+//
+[ok]

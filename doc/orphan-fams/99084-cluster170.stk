@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136309252.1-i2
+
+#=GS WP_136309252.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136309252.1/1-283 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136309252.1               MVNSITLIDGPRTLVLPAITSHGWYFYSLEGWYGQTGNKLRSEERPQAHGAFRRTRSLRTSRAFTFKTGYRDGTPEEVEDAAAELASFGADGEISVIVEDARGRTQRIVNVDIIDDQDTNRRYTGDMLVGLTSDDPRRYSVASEVPWLQTGPPSPGLGRTWPSVRPLIWPGGGSTGRIALTNTGKAASAPQLRVFGGFGT
+WP_136309252.1/1-283         MVNSITLIDGPRTLVLPAITSHGWYFYSLEGWYGQTGNKLRSEERPQAHGAFRRTRSLRTSRAFTFKTGYRDGTPEEVEDAAAELASFGADGEISVIVEDARGRTQRIVNVDIIDDQDTNRRYTGDMLVGLTSDDPRRYSVASEVPWLQTGPPSPGLGRTWPSVRPLIWPGGGSTGRIALTNTGKAASAPQLRVFGGFGT
+#=GR WP_136309252.1/1-283 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+WP_136309252.1               ALITCVETGARIGLDRLVPVGSVVEFDTQAHTAIIDGQSDVSRWIRWREWETVPAGETRTFQFDVTDPVGSPILEGRVLSAWS
+WP_136309252.1/1-283         ALITCVETGARIGLDRLVPVGSVVEFDTQAHTAIIDGQSDVSRWIRWREWETVPAGETRTFQFDVTDPVGSPILEGRVLSAWS
+#=GR WP_136309252.1/1-283 PP **********************************************************************************8
+#=GC PP_cons                 **********************************************************************************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

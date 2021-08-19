@@ -1,0 +1,78 @@
+# STOCKHOLM 1.0
+#=GF ID WP_080464919.1-i3
+
+#=GS WP_080464919.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080464919.1/1-46 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111676457.1/1-46 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011017881.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080464590.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136289179.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002984309.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011184604.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136266847.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136302453.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080465173.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168432477.1/1-43 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168390507.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194088814.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_021340647.1/1-44 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_172601565.1/1-44 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_011527539.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_165357622.1/1-44 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_003056191.1/1-44 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_164492191.1/1-45 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_168720989.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194118326.1/1-42 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168391500.1/1-44 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_168639809.1/1-45 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_080464919.1              MK-LLDFIFAKPKKQEPI-KHDTKRL---SSEKQYDAFHAYMRKQYETTTN
+WP_080464919.1/1-46         MK-LLDFIFAKPKKQEPI-KHDTKRL---SSEKQYDAFHAYMRKQYETTTN
+#=GR WP_080464919.1/1-46 PP **.***************.*******...********************98
+WP_111676457.1/1-46         MK-LLDFIFAKPKKQELI-KHDTKRL---SSEKQYDAFHAYMRKQYETTTN
+#=GR WP_111676457.1/1-46 PP **.***************.*******...********************98
+WP_011017881.1/1-42         MK-LLDFIFAKPKKQEPI-KHDTLRA---SSEKQWAEFDAYMRKQYG----
+#=GR WP_011017881.1/1-42 PP **.***************.*******...*****************9....
+WP_080464590.1/1-42         MK-LLDFIFAKPKKQEPI-KHDTKRL---SSEKQWAEFDAYMRKQYG----
+#=GR WP_080464590.1/1-42 PP **.***************.*******...*****************9....
+WP_136289179.1/1-42         MK-LLDFIFAKPKKQEPI-KHDTLRA---SSEKQWAEFDAYMRRQYG----
+#=GR WP_136289179.1/1-42 PP **.***************.*******...*****************9....
+WP_002984309.1/1-42         MK-LLDFIFAKPKKQELI-KHDTLRA---SSEKQWAEFDAYMRKQYG----
+#=GR WP_002984309.1/1-42 PP **.***************.*******...*****************9....
+WP_011184604.1/1-42         MK-LLDFIFAKPKKQEPI-KHNTKRL---SSEKQWAEFDAYMRKQYG----
+#=GR WP_011184604.1/1-42 PP **.***************.*******...*****************9....
+WP_136266847.1/1-42         MK-LLDFIFEKPKKQEPI-KHDTLRA---SSEKQWAEFDAYMRKQYG----
+#=GR WP_136266847.1/1-42 PP **.***************.*******...*****************9....
+WP_136302453.1/1-42         MK-LLDFIFTKPKKQEPI-KHDTLRA---SSEKQWAEFDAYMRRQYG----
+#=GR WP_136302453.1/1-42 PP **.***************.*******...*****************9....
+WP_080465173.1/1-42         MK-LLDFIFAKPKKQELI-KHDTLRA---SSEKQWAEFDAYMKKQYG----
+#=GR WP_080465173.1/1-42 PP **.***************.*******...*****************9....
+WP_168432477.1/1-43         MK-LLDFIFAKPKKQEKS-KWTIENNGWEANARRYNQLHGLPGKQ------
+#=GR WP_168432477.1/1-43 PP **.***************.**************************......
+WP_168390507.1/1-44         MK-LLDFIFAKPKKQEEKSKWTIENNGWEANARRYNQKHGLPAKQ------
+#=GR WP_168390507.1/1-44 PP **.**************99**************************......
+WP_194088814.1/1-44         MK-LLDFIFVKPKKQEEKPKWTIENNGWEANARRYNQLHGLPGKQ------
+#=GR WP_194088814.1/1-44 PP **.**************99**************************......
+WP_021340647.1/1-44         MK-LLDFIFAKPKKQEEKPKWTIENNGWEANARRYNQKHGLPAKQ------
+#=GR WP_021340647.1/1-44 PP **.**************99**************************......
+WP_172601565.1/1-44         MK-LLDFIFAKPKKQEEKPKWTIENNGWEAGTRRYNQLHGLPGKQ------
+#=GR WP_172601565.1/1-44 PP **.**************99**************************......
+WP_011527539.1/1-44         MK-LLDFIFAKPKKQEEKPKWTIENNGWEANTRRYNQKHGLPAKQ------
+#=GR WP_011527539.1/1-44 PP **.**************99**************************......
+WP_165357622.1/1-44         MK-LLDFIFAKPKKQEEKSKWTIENNGWEANARRFNQLHGLPAKQ------
+#=GR WP_165357622.1/1-44 PP **.**************99**************************......
+WP_003056191.1/1-44         MK-LFNFIFAKPKKQEEKPKWTIENNGWEANARRYNQKHGLPAKQ------
+#=GR WP_003056191.1/1-44 PP **.**************99**************************......
+WP_164492191.1/1-45         MKSLFNFIFAKPKKQEEKPKWTIENNGWEANARRYNQLHGLPGKQ------
+#=GR WP_164492191.1/1-45 PP 9****************99**************************......
+WP_168720989.1/1-45         MKSLFNFIFAKPKKQEEKPKWTIENNGWEANTRRYNQKHGLPAKQ------
+#=GR WP_168720989.1/1-45 PP 9****************99**************************......
+WP_194118326.1/1-42         MK-LLDFIFAKPKKQELI-KHDTLRA---SSEKQWAEFNAYRGNSMD----
+#=GR WP_194118326.1/1-42 PP **.***************.*******...**************9976....
+WP_168391500.1/1-44         MKSLFNFIFAKPKKEEKP-KWTIETHGWEANARRYNQLHGLPGKQ------
+#=GR WP_168391500.1/1-44 PP 9*****************.**************************......
+WP_168639809.1/1-45         MKSLFNFIFAKPRKQEEKPKWTIETHGWEAGARRYNQLHGSPGKQ------
+#=GR WP_168639809.1/1-45 PP 9****************99**************************......
+#=GC PP_cons                **.***************.*******...*****************9**98
+#=GC RF                     xx.xxxxxxxxxxxxxxx.xxxxxxx...xxxxxxxxxxxxxxxxxxxxxx
+//

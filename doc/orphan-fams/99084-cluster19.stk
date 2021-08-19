@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136268011.1-i2
+
+#=GS WP_136268011.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136268011.1/1-89 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023610894.1/1-89 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_020833537.1/1-89 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136268011.1              MKKPNRYPYSKSKFNGCIYQLCAAGFKDEQYVKDLKSCGIHYQITKIGYFPDIFIKIDNLEQLQILIDKTGHDLILSKDQIWIYDDYME
+WP_136268011.1/1-89         MKKPNRYPYSKSKFNGCIYQLCAAGFKDEQYVKDLKSCGIHYQITKIGYFPDIFIKIDNLEQLQILIDKTGHDLILSKDQIWIYDDYME
+#=GR WP_136268011.1/1-89 PP 9***************************************************************************************8
+WP_023610894.1/1-89         MKKPNRYPYSKSKFNGCIYQLCAASFKDEQYVKDLKSCGIHYQITKVGHFPDVFIKIDNLEQLQALIDKTGHDLILSKNEIWIYDDYME
+#=GR WP_023610894.1/1-89 PP 9***************************************************************************************8
+WP_020833537.1/1-89         MKKPNRYPYSKSKFYGRIYQLHSASFKGKYYVKDLKSCGIHYQITRSGPFPDIFIKIDNLEQLQALIDKTGHDLILSKDQIWIYDDYME
+#=GR WP_020833537.1/1-89 PP 9***************************************************************************************8
+#=GC PP_cons                9***************************************************************************************8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

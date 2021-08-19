@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_085634619.1-i2
+
+#=GS WP_085634619.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_085634619.1/1-236 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_085634619.1               MIIDFNKTNNLATLVKKQLARGRYVIDGVQCKLNILVSGEIREIILDDCFDIKKIKNYATGSNEASRTFFDKFLHKKTYEYSNNLSLIRILSEYKEYYVKPGYKLKCKRLFKLFSKDELLLNKNIRDEYGVVWIDYVSQLRTSGNIIYDENNINGLWAMTPKALSDIGDKSIENYGNNIFILEPISDCNYLETDMEIIGD
+WP_085634619.1/1-236         MIIDFNKTNNLATLVKKQLARGRYVIDGVQCKLNILVSGEIREIILDDCFDIKKIKNYATGSNEASRTFFDKFLHKKTYEYSNNLSLIRILSEYKEYYVKPGYKLKCKRLFKLFSKDELLLNKNIRDEYGVVWIDYVSQLRTSGNIIYDENNINGLWAMTPKALSDIGDKSIENYGNNIFILEPISDCNYLETDMEIIGD
+#=GR WP_085634619.1/1-236 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+WP_085634619.1               RFKVLRTINISPNRTIRNLQLRLIKKLYAKKLTDEK
+WP_085634619.1/1-236         RFKVLRTINISPNRTIRNLQLRLIKKLYAKKLTDEK
+#=GR WP_085634619.1/1-236 PP ***********************************8
+#=GC PP_cons                 ***********************************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

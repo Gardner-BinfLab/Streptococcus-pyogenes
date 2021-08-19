@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+#=GF ID WP_063629048.1-i2
+
+#=GS WP_063629048.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136096904.1/1-118 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_063629048.1/1-118 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002986907.1/1-118 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_003055891.1/1-118 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_011054446.1/1-118 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_063629048.1               MTKTTAQRKKSIYINGALEKVYDECSNGMRNRTFSGRVMDIAERYDALMGLTEIPELTPQQQMILGEAVLGAFMDRNKIRYLHDAIADTEIDGCLDLAKMVRDLDYAQRLKLIESINI
+WP_136096904.1/1-118         MTKTTAQRKKSIYINGALEKVYDECCNGMRNRTFSGRVMDIAERYDVLMGLTEIPELTPQQQMILGEAVLGAFMDRNKIRYLHDAIADTEIDGCLDLAKMVRDLDYAQRLKLIESINI
+#=GR WP_136096904.1/1-118 PP 9********************************************************************************************************************8
+WP_063629048.1/1-118         MTKTTAQRKKSIYINGALEKVYDECSNGMRNRTFSGRVMDIAERYDALMGLTEIPELTPQQQMILGEAVLGAFMDRNKIRYLHDAIADTEIDGCLDLAKMVRDLDYAQRLKLIESINI
+#=GR WP_063629048.1/1-118 PP 9********************************************************************************************************************8
+WP_002986907.1/1-118         MTKTTAQRKKSIYINGALEKVYDECCNGMRNRTFSGRVMDIAERYDVLMGLTEIPELTPQQQMILGEAVLGAFMDRNKIRYLHDAIADTEIDGCLDLAKIVRDLDYTQRLKLIESINI
+#=GR WP_002986907.1/1-118 PP 9********************************************************************************************************************8
+WP_003055891.1/1-118         MTKTTAQRKKSIYINGALEKVYDECSNGMRNRTFSGRVMDIAERYDVLMGLTEIPELTPQQQMILGEAVLGTFMDRNKIRYLHDAIADTEIDGCLDLAKIVRDLDYTQRLKLIESINI
+#=GR WP_003055891.1/1-118 PP 9********************************************************************************************************************8
+WP_011054446.1/1-118         MTKTTAQRKKSIYINGALEKIYDECSNALRNRTFSGRVMDIAERYDALMGLTEIPELTPQQQMILGEAVLGAFMDRNKIRYLHDAIADTEIDGCLDLAKMVRDLDYAQRLKLIESINI
+#=GR WP_011054446.1/1-118 PP 9********************************************************************************************************************8
+#=GC PP_cons                 9********************************************************************************************************************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

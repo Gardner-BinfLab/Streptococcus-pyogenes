@@ -1,0 +1,84 @@
+# STOCKHOLM 1.0
+#=GF ID WP_021340638.1-i2
+
+#=GS WP_021340638.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_008087431.1/1-52 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_111711563.1/1-52 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_094398257.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080470583.1/1-52 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136104806.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136019690.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_014635529.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080465047.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_010922200.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080286776.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_021340638.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_085613682.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002988291.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011017888.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136058727.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011184610.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011285583.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136022037.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011284883.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_076636802.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136266288.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111705101.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136118407.1/1-51 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054593.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136286096.1/1-47 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_021340638.1              MSWKKLMLGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLIAWFITK
+WP_008087431.1/1-52         MNWKKLMLGDLEHTFTSRDGKEKTSIEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_008087431.1/1-52 PP 9**************************************************9
+WP_111711563.1/1-52         MNWKKLMLGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_111711563.1/1-52 PP 9**************************************************9
+WP_094398257.1/1-52         MNWKKLMLGDLEHTFTSRDGKDKTSIEFEGGVLPALLVLGGIAWMIAWFITK
+#=GR WP_094398257.1/1-52 PP 9**************************************************9
+WP_080470583.1/1-52         MNWKKLMLGNLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_080470583.1/1-52 PP 9**************************************************9
+WP_136104806.1/1-52         MNWKKLMLGDLEHTFTSRDGKEKTSIEFEGDVLPALLVLGGITWLIAWFITK
+#=GR WP_136104806.1/1-52 PP 9**************************************************9
+WP_136019690.1/1-52         MNWKKLMLGNLEHTFTSHDGKEKTSIEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_136019690.1/1-52 PP 9**************************************************9
+WP_014635529.1/1-52         MNWKKLMFGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLITWFITK
+#=GR WP_014635529.1/1-52 PP 9**************************************************9
+WP_080465047.1/1-52         MNWKKLMIGDLEHTFTSRNGKEKTSIEFEGGVLPALLVLGGIAWMIAWFITK
+#=GR WP_080465047.1/1-52 PP 9**************************************************9
+WP_010922200.1/1-52         MNWKKLMFGDLEHTFTNHDGKEKTSIEFEGGVLPALLVLGGIAWMIAWFITK
+#=GR WP_010922200.1/1-52 PP 9**************************************************9
+WP_080286776.1/1-52         MNWKKLMFGDLEYTFASRDGKEKTSIEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_080286776.1/1-52 PP 9**************************************************9
+WP_021340638.1/1-52         MSWKKLMLGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLIAWFITK
+#=GR WP_021340638.1/1-52 PP 9**************************************************9
+WP_085613682.1/1-52         MNWKKLMLGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLIVWLITK
+#=GR WP_085613682.1/1-52 PP 9**************************************************9
+WP_002988291.1/1-52         MNWKKLMLGDLEHTFTSRDGKEKTSIEFEGGVLSALLVLGGVTWLIAWFITK
+#=GR WP_002988291.1/1-52 PP 9**************************************************9
+WP_011017888.1/1-52         MNWKKLMLGNLEHTFTSHDGKEKTSIEFEGGLLPALLVLGGIAWIIAWFITK
+#=GR WP_011017888.1/1-52 PP 9**************************************************9
+WP_136058727.1/1-52         MNWKKLMFSDLEHTFTNHDGKEKTSIEFEGGVLPALLVLGGIAWMIAWFITK
+#=GR WP_136058727.1/1-52 PP 9**************************************************9
+WP_011184610.1/1-52         MNWKKLMLGDLEHTFTSCNGKEKTSIEFEGGVLPALLVLGGIAWIIAWFITK
+#=GR WP_011184610.1/1-52 PP 9**************************************************9
+WP_011285583.1/1-52         MNWKKLMLGNLEHTFTSHDGKEKTSIEFEGGLLPALLVLGGITWLAAWFITK
+#=GR WP_011285583.1/1-52 PP 9**************************************************9
+WP_136022037.1/1-52         MNWKKLIIGDLEHTFTSRNGKEKTSIEFEGGVLPALLVLGGIAWMIAWFITK
+#=GR WP_136022037.1/1-52 PP 9**************************************************9
+WP_011284883.1/1-52         MNWKKLMFGDLEYTFASRDGKEKTSIEFEGGLLPALLVLGGITWLAAWFITK
+#=GR WP_011284883.1/1-52 PP 9**************************************************9
+WP_076636802.1/1-52         MNWKKLMLGNLEHTFTSHDGKEKTSIEFEGGLLPALVVLGGITWLAAWFITK
+#=GR WP_076636802.1/1-52 PP 9**************************************************9
+WP_136266288.1/1-52         MNWKKLMLGNLEHTFTSYDGKEKTSIEFEGGLLPALLVLGGITWLAAWFITK
+#=GR WP_136266288.1/1-52 PP 9**************************************************9
+WP_111705101.1/1-52         MNWKKLMFGDLEYTFASRDGKEKTSIEFEGGVLPALLVLCGITWLIVWLITK
+#=GR WP_111705101.1/1-52 PP 9**************************************************9
+WP_136118407.1/1-51         MNWKKLMFGDLEHTFTSRDGKEKTSVEFEGGVLPALLVLGGITWLITWLIT-
+#=GR WP_136118407.1/1-51 PP 9******************************************99999887.
+WP_011054593.1/1-47         MNWKKLMLGNLEHTFTSHDGKEKTSIEFEGGLLPALLVLGGITWFIT-----
+#=GR WP_011054593.1/1-47 PP 9*******************************************995.....
+WP_136286096.1/1-47         MNWRKLMFGDLEHTFTSRNGKEKTSIEFEGGLLPAILVLGGIAWFIT-----
+#=GR WP_136286096.1/1-47 PP 9*****************************************99985.....
+#=GC PP_cons                9**************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

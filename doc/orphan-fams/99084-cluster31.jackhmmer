@@ -1,0 +1,189 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster31.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster31.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster31.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_078730973.1  [L=50]
+Description: MULTISPECIES: conjugal transfer protein [Streptococcus]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.1e-32  105.0   1.2    1.2e-32  104.9   1.2    1.0  1  WP_078730973.1  MULTISPECIES: conjugal transfer protein [Stre
++   6.6e-32  102.6   0.9    7.1e-32  102.5   0.9    1.0  1  WP_000879507.1  MULTISPECIES: hypothetical protein [Bacteria]
++   5.3e-25   81.2   1.7    5.5e-25   81.2   1.7    1.0  1  WP_075218791.1  MULTISPECIES: conjugal transfer protein [Firm
++   1.8e-24   79.6   0.5      2e-24   79.5   0.5    1.0  1  WP_002390709.1  MULTISPECIES: hypothetical protein [Firmicute
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_078730973.1  MULTISPECIES: conjugal transfer protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.9   1.2   5.2e-35   1.2e-32       1      50 []       1      50 []       1      50 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 104.9 bits;  conditional E-value: 5.2e-35
+  WP_078730973.1  1 mlagvgiatpalnppyltggykstgnsqknirksfgykgftkfqrmsngl 50
+                    mlagvgiatpalnppyltggykstgnsqknirksfgykgftkfqrmsngl
+  WP_078730973.1  1 MLAGVGIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 50
+                    89***********************************************7 PP
+
+>> WP_000879507.1  MULTISPECIES: hypothetical protein [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  102.5   0.9   3.1e-34   7.1e-32       1      50 []       1      50 []       1      50 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 102.5 bits;  conditional E-value: 3.1e-34
+  WP_078730973.1  1 mlagvgiatpalnppyltggykstgnsqknirksfgykgftkfqrmsngl 50
+                    mlagv+iatpalnppyltggykstgnsqknirksfgykgftkfqrmsngl
+  WP_000879507.1  1 MLAGVAIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 50
+                    89***********************************************7 PP
+
+>> WP_075218791.1  MULTISPECIES: conjugal transfer protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   81.2   1.7   2.4e-27   5.5e-25      12      50 .]       3      41 .]       1      41 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 81.2 bits;  conditional E-value: 2.4e-27
+  WP_078730973.1 12 lnppyltggykstgnsqknirksfgykgftkfqrmsngl 50
+                    +nppyltggykstgnsqknirksfgykgftkfqrmsngl
+  WP_075218791.1  3 INPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 41
+                    8*************************************8 PP
+
+>> WP_002390709.1  MULTISPECIES: hypothetical protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   79.5   0.5   8.6e-27     2e-24       1      50 []       1      50 [.       1      50 [. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 79.5 bits;  conditional E-value: 8.6e-27
+  WP_078730973.1  1 mlagvgiatpalnppyltggykstgnsqknirksfgykgftkfqrmsngl 50
+                    mlagv+iatpa nppyltggykstgnsqkn rk fgyk f kf+ msn l
+  WP_002390709.1  1 MLAGVAIATPAPNPPYLTGGYKSTGNSQKNSRKFFGYKEFRKFRGMSNEL 50
+                    89*********************************************975 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (50 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        14  (0.0152672); expected 18.3 (0.02)
+Passed bias filter:                       13  (0.0141767); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.03u 0.04s 00:00:00.07 Elapsed: 00:00:00.23
+# Mc/sec: 20.85
+
+@@ New targets included:   4
+@@ New alignment includes: 5 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        5 subsequences (query + 4 subseqs from 4 targets)
+@@ Model size:             50 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    1.8e-40  132.4   3.2    1.9e-40  132.3   3.2    1.0  1  WP_000879507.1  MULTISPECIES: hypothetical protein [Bacteria]
+    3.2e-40  131.6   3.7    3.5e-40  131.5   3.7    1.0  1  WP_078730973.1  MULTISPECIES: conjugal transfer protein [Stre
+    3.9e-38  124.9   2.2    4.2e-38  124.8   2.2    1.0  1  WP_002390709.1  MULTISPECIES: hypothetical protein [Firmicute
+    1.1e-30  101.0   5.7    1.2e-30  101.0   5.7    1.0  1  WP_075218791.1  MULTISPECIES: conjugal transfer protein [Firm
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_000879507.1  MULTISPECIES: hypothetical protein [Bacteria]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.3   3.2   8.5e-43   1.9e-40       1      50 []       1      50 []       1      50 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 132.3 bits;  conditional E-value: 8.5e-43
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_078730973.1-i1  1 mlaGvaiatPalnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL 50
+                       mlaGvaiatPalnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL
+     WP_000879507.1  1 MLAGVAIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 50
+                       9************************************************8 PP
+
+>> WP_078730973.1  MULTISPECIES: conjugal transfer protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.5   3.7   1.5e-42   3.5e-40       1      50 []       1      50 []       1      50 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 131.5 bits;  conditional E-value: 1.5e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_078730973.1-i1  1 mlaGvaiatPalnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL 50
+                       mlaGv+iatPalnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL
+     WP_078730973.1  1 MLAGVGIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 50
+                       9************************************************8 PP
+
+>> WP_002390709.1  MULTISPECIES: hypothetical protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  124.8   2.2   1.8e-40   4.2e-38       1      50 []       1      50 [.       1      50 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 124.8 bits;  conditional E-value: 1.8e-40
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_078730973.1-i1  1 mlaGvaiatPalnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL 50
+                       mlaGvaiatPa+nPPYLtGGYkstGnsqkn+Rk+FGYk+F+kF++msn+L
+     WP_002390709.1  1 MLAGVAIATPAPNPPYLTGGYKSTGNSQKNSRKFFGYKEFRKFRGMSNEL 50
+                       9***********************************************98 PP
+
+>> WP_075218791.1  MULTISPECIES: conjugal transfer protein [Firmicutes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  101.0   5.7   5.1e-33   1.2e-30      12      50 .]       3      41 .]       1      41 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 101.0 bits;  conditional E-value: 5.1e-33
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_078730973.1-i1 12 lnPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL 50
+                       +nPPYLtGGYkstGnsqkniRksFGYkgFtkFqrmsngL
+     WP_075218791.1  3 INPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL 41
+                       8*************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (50 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        16  (0.0174482); expected 18.3 (0.02)
+Passed bias filter:                       12  (0.0130862); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.10u 0.02s 00:00:00.12 Elapsed: 00:00:00.21
+# Mc/sec: 22.84
+
+@@ New targets included:   0
+@@ New alignment includes: 5 subseqs (was 5), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 5 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster31.stk
+//
+[ok]

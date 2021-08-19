@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+#=GF ID WP_078730973.1-i2
+
+#=GS WP_078730973.1      DE MULTISPECIES: conjugal transfer protein [Streptococcus]
+#=GS WP_000879507.1/1-50 DE [subseq from] MULTISPECIES: hypothetical protein [Bacteria]
+#=GS WP_078730973.1/1-50 DE [subseq from] MULTISPECIES: conjugal transfer protein [Streptococcus]
+#=GS WP_002390709.1/1-50 DE [subseq from] MULTISPECIES: hypothetical protein [Firmicutes]
+#=GS WP_075218791.1/3-41 DE [subseq from] MULTISPECIES: conjugal transfer protein [Firmicutes]
+
+WP_078730973.1              MLAGVGIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL
+WP_000879507.1/1-50         MLAGVAIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL
+#=GR WP_000879507.1/1-50 PP 9************************************************8
+WP_078730973.1/1-50         MLAGVGIATPALNPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL
+#=GR WP_078730973.1/1-50 PP 9************************************************8
+WP_002390709.1/1-50         MLAGVAIATPAPNPPYLTGGYKSTGNSQKNSRKFFGYKEFRKFRGMSNEL
+#=GR WP_002390709.1/1-50 PP 9***********************************************98
+WP_075218791.1/3-41         -----------INPPYLTGGYKSTGNSQKNIRKSFGYKGFTKFQRMSNGL
+#=GR WP_075218791.1/3-41 PP ...........8*************************************8
+#=GC PP_cons                9**********9*************************************8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

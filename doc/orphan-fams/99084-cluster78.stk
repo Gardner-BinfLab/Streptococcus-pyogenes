@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136110039.1-i2
+
+#=GS WP_136110039.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002983407.1/1-67 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_023611025.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136107627.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_002988705.1/1-67 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_136110039.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011054890.1/1-67 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_023613207.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_065358800.1/1-67 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_030127426.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136047970.1/1-67 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136110039.1              MNYLEYALVYLERELEIIDHEVIEVELPGGDWEFVPNPYYEKGLHDSPHYRSQFAKDILDIKGLLGR
+WP_002983407.1/1-67         MNYLEYALVYLERELEIIDNEVIEVELPGGDWEFVPNPYYEKGLHDSPHYRSQVAKDILDIKGLLGR
+#=GR WP_002983407.1/1-67 PP 9*****************************************************************9
+WP_023611025.1/1-67         MNYLEYALAYLERELEIIDNEVIEVELPGGDWEFVPNPYYEKGLHDSPHYRSQVAKDILDIKGLLGR
+#=GR WP_023611025.1/1-67 PP 9*****************************************************************9
+WP_136107627.1/1-67         MNYLEYALVYLERELEIIDHEVIEVELPGGDWEFVPNPYYEKGLHDSPHYRSQVAKDILDIKGLLGR
+#=GR WP_136107627.1/1-67 PP 9*****************************************************************9
+WP_002988705.1/1-67         MNYLEYALAYLERELEIIDDEVIEVELPGGDWEFVPNPYYEEGLHDSPHYRSQVAKDILDIKGLLGR
+#=GR WP_002988705.1/1-67 PP 9*****************************************************************9
+WP_136110039.1/1-67         MNYLEYALVYLERELEIIDHEVIEVELPGGDWEFVPNPYYEKGLHDSPHYRSQFAKDILDIKGLLGR
+#=GR WP_136110039.1/1-67 PP 9*****************************************************************9
+WP_011054890.1/1-67         MNYLEYALAYLERELEIIDDEVIEVELPGGDWEFVPNPYYEEGLHDSPYYRSQVAKDILDIKGLLGR
+#=GR WP_011054890.1/1-67 PP 9*****************************************************************9
+WP_023613207.1/1-67         MNYLEYALAYLERELEIIDNDVIEVELPNGGWEFVPNPYYEEGLHDSPYYRSQVAKDILDIKGLLGR
+#=GR WP_023613207.1/1-67 PP 9*****************************************************************9
+WP_065358800.1/1-67         MNYLEYALVYLERELEIIDNEVIEVELPGGGWEFAPNPYYEEGLHDSPYYRSQVAKDILDIKGLLGR
+#=GR WP_065358800.1/1-67 PP 9*****************************************************************9
+WP_030127426.1/1-67         MNYLEYALAYLERELEIIDNDVIEVELPNGGWEFAPNPYYEEGLHDSPYYRSQVAKDILDIKGLLGR
+#=GR WP_030127426.1/1-67 PP 9*****************************************************************9
+WP_136047970.1/1-67         MNYLEYALAYLERELEIIDNDVIEVELPNGGWEFATNPYYEEGLHDSPYYRSQVAKDILDIKGLLGR
+#=GR WP_136047970.1/1-67 PP 9*****************************************************************9
+#=GC PP_cons                9*****************************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

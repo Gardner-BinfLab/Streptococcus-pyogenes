@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136038085.1-i2
+
+#=GS WP_136038085.1      DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136038085.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_101248476.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136114412.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136295391.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023610751.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136128214.1/1-56 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_080290946.1/1-52 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136038085.1              MDNPKKDKGLSLGVVDPIMILITESVINKMRTVPYHLKKLSSTTYCLLADLAYQSA
+WP_136038085.1/1-56         MDNPKKDKGLSLGVVDPIMILITESVINKMRTVPYHLKKLSSTTYCLLADLAYQSA
+#=GR WP_136038085.1/1-56 PP 9******************************************************8
+WP_101248476.1/1-56         MDNPKKDKGLSLGVVDPITILITESVINKMRTVPYHLKKLSSITYCLLADLAYQSA
+#=GR WP_101248476.1/1-56 PP 9******************************************************8
+WP_136114412.1/1-56         MDNPKKDKGLSLGVVDPITILIAESVINKMRTVPYHLKKLSSTTYCLLADLAYQSA
+#=GR WP_136114412.1/1-56 PP 9******************************************************8
+WP_136295391.1/1-56         MDNPKKDKGLSLGVVDPITILITESIINKMRTVPYHLKKLSSTTYCLLADRAYQSA
+#=GR WP_136295391.1/1-56 PP 9******************************************************8
+WP_023610751.1/1-56         MDNPKKDKGLSLGVVDPITILITESVINKMRTVPYYLKKLSSTTYCLLADLAYQSA
+#=GR WP_023610751.1/1-56 PP 9******************************************************8
+WP_136128214.1/1-56         MDNPKKDKGLSLGVVDPITILITESVINKMRTVPHHLKKLSSTTYCLLADLAYQSA
+#=GR WP_136128214.1/1-56 PP 9******************************************************8
+WP_080290946.1/1-52         MDNPKKDKGLSLGVVDPI----TESVINKMRTVPYHLKKLSSTTYCLLADLAYQSA
+#=GR WP_080290946.1/1-52 PP 9****************9....9********************************8
+#=GC PP_cons                9******************************************************8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

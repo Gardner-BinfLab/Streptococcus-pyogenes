@@ -5,7 +5,10 @@
 *.gz
 .ipynb_checkpoints/
 *.txt
-doc/ncbi_dataset/
+doc/ncbi_dataset/data/
 *.clstr
 *.pkl
 ref/
+*.domtblout 
+*.stk 
+*.jackhammer

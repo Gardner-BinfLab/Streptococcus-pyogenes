@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136309251.1-i2
+
+#=GS WP_136309251.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136309251.1/1-375 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136309251.1               MVVKAYLFETRGGRMLGEVEPAAATWAENANQAETVTAVFDLASSEGNRNWRSDGTPWKHSLALDVNGRLLGGPILPHTADGGSTRIVSRGGRVLFSTRSVLPVDAMPPRSLVLPSGDPDTSLDSTWSGLDLGTIAKKIGQQACTFPGTDYPIVWPADRAGTHERTYAAVDKKKVDAAWTDLSRVENGPDIRLRLARNGD
+WP_136309251.1/1-375         MVVKAYLFETRGGRMLGEVEPAAATWAENANQAETVTAVFDLASSEGNRNWRSDGTPWKHSLALDVNGRLLGGPILPHTADGGSTRIVSRGGRVLFSTRSVLPVDAMPPRSLVLPSGDPDTSLDSTWSGLDLGTIAKKIGQQACTFPGTDYPIVWPADRAGTHERTYAAVDKKKVDAAWTDLSRVENGPDIRLRLARNGD
+#=GR WP_136309251.1/1-375 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+WP_136309251.1               DRFQWLFETGTQDQPRLQGTDVIEFDVAQASGLQVTLDPSLMGSMAWSQGGRSLDKVLIRALYDPTLIDRGFPFLELDSDASVNTVEDATLDSWNAETLRTAAKPWEFWSFKVPADRSPFPYEYGPGSLIKVHVSKDTPVRGGYVPPNTYTRRIASLSGDLTDWITITCGESYDE
+WP_136309251.1/1-375         DRFQWLFETGTQDQPRLQGTDVIEFDVAQASGLQVTLDPSLMGSMAWSQGGRSLDKVLIRALYDPTLIDRGFPFLELDSDASVNTVEDATLDSWNAETLRTAAKPWEFWSFKVPADRSPFPYEYGPGSLIKVHVSKDTPVRGGYVPPNTYTRRIASLSGDLTDWITITCGESYDE
+#=GR WP_136309251.1/1-375 PP ******************************************************************************************************************************************************************************8
+#=GC PP_cons                 ******************************************************************************************************************************************************************************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

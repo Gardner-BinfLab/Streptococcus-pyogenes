@@ -1,0 +1,195 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster70.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster70.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster70.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136307848.1  [L=132]
+Description: histidine kinase [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   6.7e-86  280.4   4.5    7.4e-86  280.3   4.5    1.0  1  WP_136307848.1  histidine kinase [Streptococcus pyogenes]
++   3.5e-82  268.4   3.2    3.9e-82  268.3   3.2    1.0  1  WP_194114236.1  histidine kinase [Streptococcus pyogenes]
++   7.8e-82  267.3   4.3    8.6e-82  267.2   4.3    1.0  1  WP_194118481.1  histidine kinase [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136307848.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  280.3   4.5   2.4e-88   7.4e-86       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 280.3 bits;  conditional E-value: 2.4e-88
+  WP_136307848.1   1 mhrllnrlipeednnklsraakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkessdfh 95 
+                     mhrllnrlipeednnklsraakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkessdfh
+  WP_136307848.1   1 MHRLLNRLIPEEDNNKLSRAAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESSDFH 95 
+                     8********************************************************************************************** PP
+
+  WP_136307848.1  96 qkqhqtgitygddtladlthhllhsdgillslndksa 132
+                     qkqhqtgitygddtladlthhllhsdgillslndksa
+  WP_136307848.1  96 QKQHQTGITYGDDTLADLTHHLLHSDGILLSLNDKSA 132
+                     ***********************************97 PP
+
+>> WP_194114236.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  268.3   3.2   1.3e-84   3.9e-82       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 268.3 bits;  conditional E-value: 1.3e-84
+  WP_136307848.1   1 mhrllnrlipeednnklsraakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkessdfh 95 
+                     mhrl nrlipeednnklsr akevvteprlnnpfllpkkvlsleddaailnhleed nvnklflepvaaeakreinfhpsdqqvtakvkessdfh
+  WP_194114236.1   1 MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDCNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESSDFH 95 
+                     8********************************************************************************************** PP
+
+  WP_136307848.1  96 qkqhqtgitygddtladlthhllhsdgillslndksa 132
+                     qkqhqtgitygddtladlthhllhsdg++ slndksa
+  WP_194114236.1  96 QKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA 132
+                     ***********************************97 PP
+
+>> WP_194118481.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  267.2   4.3   2.8e-84   8.6e-82       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 267.2 bits;  conditional E-value: 2.8e-84
+  WP_136307848.1   1 mhrllnrlipeednnklsraakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkessdfh 95 
+                     mhrl nrlipeednnklsr akevvteprlnnpfllpkkvlsleddaailnhleedrnvnkl lepvaaeakreinfhpsdqqvtakvkessdfh
+  WP_194118481.1   1 MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLSLEPVAAEAKREINFHPSDQQVTAKVKESSDFH 95 
+                     8********************************************************************************************** PP
+
+  WP_136307848.1  96 qkqhqtgitygddtladlthhllhsdgillslndksa 132
+                     qkqhqtgitygddtladlthhllhsdg++ slndksa
+  WP_194118481.1  96 QKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA 132
+                     ***********************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (132 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        22  (0.0239913); expected 18.3 (0.02)
+Passed bias filter:                       17  (0.0185387); expected 18.3 (0.02)
+Passed Vit filter:                        10  (0.0109051); expected 0.9 (0.001)
+Passed Fwd filter:                         3  (0.00327154); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.06u 0.05s 00:00:00.11 Elapsed: 00:00:00.34
+# Mc/sec: 37.24
+
+@@ New targets included:   3
+@@ New alignment includes: 4 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        4 subsequences (query + 3 subseqs from 3 targets)
+@@ Model size:             132 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    7.3e-92  300.2   2.6      8e-92  300.0   2.6    1.0  1  WP_194114236.1  histidine kinase [Streptococcus pyogenes]
+    3.4e-91  298.0   3.7    3.8e-91  297.8   3.7    1.0  1  WP_136307848.1  histidine kinase [Streptococcus pyogenes]
+    3.7e-91  297.9   3.3    4.1e-91  297.7   3.3    1.0  1  WP_194118481.1  histidine kinase [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_194114236.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  300.0   2.6   2.6e-94     8e-92       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 300.0 bits;  conditional E-value: 2.6e-94
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1   1 mhrllnrlipeednnklsrvakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkess 92 
+                        mhrl+nrlipeednnklsrvakevvteprlnnpfllpkkvlsleddaailnhleed+nvnklflepvaaeakreinfhpsdqqvtakvkess
+     WP_194114236.1   1 MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDCNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESS 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1  93 dfhqkqhqtgitygddtladlthhllhsdgvllslndksa 132
+                        dfhqkqhqtgitygddtladlthhllhsdgv++slndksa
+     WP_194114236.1  93 DFHQKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA 132
+                        **************************************98 PP
+
+>> WP_136307848.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  297.8   3.7   1.2e-93   3.8e-91       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 297.8 bits;  conditional E-value: 1.2e-93
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1   1 mhrllnrlipeednnklsrvakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkess 92 
+                        mhrllnrlipeednnklsr+akevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkess
+     WP_136307848.1   1 MHRLLNRLIPEEDNNKLSRAAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLFLEPVAAEAKREINFHPSDQQVTAKVKESS 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1  93 dfhqkqhqtgitygddtladlthhllhsdgvllslndksa 132
+                        dfhqkqhqtgitygddtladlthhllhsdg+llslndksa
+     WP_136307848.1  93 DFHQKQHQTGITYGDDTLADLTHHLLHSDGILLSLNDKSA 132
+                        **************************************98 PP
+
+>> WP_194118481.1  histidine kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  297.7   3.3   1.3e-93   4.1e-91       1     132 []       1     132 []       1     132 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 297.7 bits;  conditional E-value: 1.3e-93
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1   1 mhrllnrlipeednnklsrvakevvteprlnnpfllpkkvlsleddaailnhleedrnvnklflepvaaeakreinfhpsdqqvtakvkess 92 
+                        mhrl+nrlipeednnklsrvakevvteprlnnpfllpkkvlsleddaailnhleedrnvnkl+lepvaaeakreinfhpsdqqvtakvkess
+     WP_194118481.1   1 MHRLPNRLIPEEDNNKLSRVAKEVVTEPRLNNPFLLPKKVLSLEDDAAILNHLEEDRNVNKLSLEPVAAEAKREINFHPSDQQVTAKVKESS 92 
+                        9******************************************************************************************* PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136307848.1-i1  93 dfhqkqhqtgitygddtladlthhllhsdgvllslndksa 132
+                        dfhqkqhqtgitygddtladlthhllhsdgv++slndksa
+     WP_194118481.1  93 DFHQKQHQTGITYGDDTLADLTHHLLHSDGVIPSLNDKSA 132
+                        **************************************98 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (132 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        20  (0.0218103); expected 18.3 (0.02)
+Passed bias filter:                       18  (0.0196292); expected 18.3 (0.02)
+Passed Vit filter:                         5  (0.00545256); expected 0.9 (0.001)
+Passed Fwd filter:                         3  (0.00327154); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.21u 0.02s 00:00:00.23 Elapsed: 00:00:00.33
+# Mc/sec: 38.37
+
+@@ New targets included:   0
+@@ New alignment includes: 4 subseqs (was 4), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 4 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster70.stk
+//
+[ok]

@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136281820.1-i2
+
+#=GS WP_136281820.1      DE peptide pheromone SHP3 [Streptococcus pyogenes]
+#=GS WP_136281820.1/1-23 DE [subseq from] peptide pheromone SHP3 [Streptococcus pyogenes]
+
+WP_136281820.1              MKKISKFLTILILAMDIIIIVGG
+WP_136281820.1/1-23         MKKISKFLTILILAMDIIIIVGG
+#=GR WP_136281820.1/1-23 PP **********************9
+#=GC PP_cons                **********************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxx
+//

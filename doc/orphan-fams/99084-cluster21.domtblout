@@ -1,0 +1,38 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_011017565.1       -             68 WP_136285754.1       -             68   1.2e-50  165.2   0.8   1   1   3.5e-52   1.3e-50  165.1   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_002988357.1       -             68 WP_136285754.1       -             68   1.3e-50  165.1   0.7   1   1   3.9e-52   1.5e-50  165.0   0.7     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_063724620.1       -             68 WP_136285754.1       -             68   1.4e-50  165.0   0.7   1   1     4e-52   1.5e-50  164.9   0.7     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136038250.1       -             68 WP_136285754.1       -             68   1.5e-50  164.9   0.8   1   1   4.4e-52   1.7e-50  164.8   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_002990074.1       -             68 WP_136285754.1       -             68   1.8e-50  164.7   0.6   1   1     5e-52   1.9e-50  164.6   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136301990.1       -             68 WP_136285754.1       -             68   3.3e-50  163.8   0.6   1   1   9.5e-52   3.6e-50  163.7   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136037864.1       -             68 WP_136285754.1       -             68   3.6e-50  163.7   0.8   1   1     1e-51     4e-50  163.6   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_010922476.1       -             68 WP_136285754.1       -             68     4e-50  163.6   0.6   1   1   1.1e-51   4.4e-50  163.5   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136285754.1       -             68 WP_136285754.1       -             68   4.3e-50  163.5   0.8   1   1   1.2e-51   4.7e-50  163.4   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136261409.1       -             68 WP_136285754.1       -             68   4.4e-50  163.5   0.6   1   1   1.3e-51   4.8e-50  163.3   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136273417.1       -             68 WP_136285754.1       -             68   4.7e-50  163.4   0.7   1   1   1.4e-51   5.2e-50  163.2   0.7     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136284195.1       -             68 WP_136285754.1       -             68   5.1e-50  163.3   0.6   1   1   1.5e-51   5.6e-50  163.1   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_093974634.1       -             68 WP_136285754.1       -             68   5.1e-50  163.2   0.8   1   1   1.5e-51   5.6e-50  163.1   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_010922206.1       -             68 WP_136285754.1       -             68   5.3e-50  163.2   0.6   1   1   1.5e-51   5.7e-50  163.1   0.6     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136292529.1       -             68 WP_136285754.1       -             68   8.3e-50  162.6   0.9   1   1   2.4e-51   9.1e-50  162.4   0.9     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136117416.1       -             68 WP_136285754.1       -             68   1.2e-49  162.1   1.1   1   1   3.4e-51   1.3e-49  162.0   1.1     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_093976075.1       -             68 WP_136285754.1       -             68   1.5e-49  161.8   0.7   1   1   4.2e-51   1.6e-49  161.7   0.7     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_076634490.1       -             68 WP_136285754.1       -             68   1.6e-49  161.7   0.8   1   1   4.5e-51   1.7e-49  161.6   0.8     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136294692.1       -             68 WP_136285754.1       -             68   4.1e-49  160.3   0.5   1   1   1.2e-50   4.5e-49  160.2   0.5     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_063629413.1       -             70 WP_136285754.1       -             68   4.4e-49  160.3   1.2   1   1   1.3e-50   4.8e-49  160.1   1.2     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_063632587.1       -             70 WP_136285754.1       -             68   4.9e-49  160.1   1.0   1   1   1.4e-50   5.3e-49  160.0   1.0     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136121062.1       -             68 WP_136285754.1       -             68   3.9e-48  157.2   1.5   1   1   1.1e-49   4.3e-48  157.1   1.5     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_136297748.1       -             68 WP_136285754.1       -             68   7.3e-47  153.1   1.2   1   1   2.1e-48     8e-47  153.0   1.2     1    68     1    68     1    68 1.00 hypothetical protein [Streptococcus pyogenes]
+WP_168625014.1       -             45 WP_136285754.1       -             68     1e-25   85.4   4.4   1   2   2.1e-16   8.2e-15   50.5   0.3     1    24     1    24     1    26 0.97 hypothetical protein [Streptococcus pyogenes]
+WP_168625014.1       -             45 WP_136285754.1       -             68     1e-25   85.4   4.4   2   2     2e-12   7.5e-11   37.8   0.4    49    68    26    45    24    45 0.96 hypothetical protein [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster21.jackhmmer -A orphan-fams/99084-cluster21.stk --domtblout orphan-fams/99084-cluster21.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:23:04 2021
+# [ok]

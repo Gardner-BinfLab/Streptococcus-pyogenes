@@ -1,0 +1,66 @@
+# STOCKHOLM 1.0
+#=GF ID WP_194091796.1-i2
+
+#=GS WP_194091796.1        DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194119685.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168429695.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194091796.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194132389.1/11-100 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194091745.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194117591.1/10-100 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194088555.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194117616.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_165618890.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168410042.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168389305.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_172450152.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168392223.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168672393.1/10-100 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194117627.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194075014.1/1-91   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168474142.1/1-85   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194091955.1/1-85   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194092174.1/1-85   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_194091796.1                MSLPEQVSKKEVFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFEILGSKIRHRIPKEVAAVSTT
+WP_194119685.1/1-91           MSLPEQVSKKEAFGFVIQHTELQYFRTETPPVLYSKSMNSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_194119685.1/1-91   PP 8*****************************************************************************************8
+WP_168429695.1/1-91           MSLPEQVSKKEAFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_168429695.1/1-91   PP 8*****************************************************************************************8
+WP_194091796.1/1-91           MSLPEQVSKKEVFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFEILGSKIRHRIPKEVAAVSTT
+#=GR WP_194091796.1/1-91   PP 8*****************************************************************************************8
+WP_194132389.1/11-100         -SLPEQVSKKEAFGFVIQHTELQYFRTETPPVLYSKSMNSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_194132389.1/11-100 PP .9****************************************************************************************8
+WP_194091745.1/1-91           MSLPEQVSKKEAFGFVIQHTKLQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRISKEVAAVSTT
+#=GR WP_194091745.1/1-91   PP 8*****************************************************************************************8
+WP_194117591.1/10-100         LSLPEQVSKKEVFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFEILGSKIRHRIPKEVAAVSTT
+#=GR WP_194117591.1/10-100 PP 69****************************************************************************************8
+WP_194088555.1/1-91           MSLPEQVSKKEAFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIENFEILGSKIRHRIPKEVAAVSTT
+#=GR WP_194088555.1/1-91   PP 8*****************************************************************************************8
+WP_194117616.1/1-91           MSLPEQVSKKEAFGFVIQHTKLQYFRTETPPVLYSKSINSSADVTSDFYVRCEPKQLLFAMEKVAPIEIFETLGSKIRHRISKEVAAVSTT
+#=GR WP_194117616.1/1-91   PP 8*****************************************************************************************8
+WP_165618890.1/1-91           MSLPEQVSKKEAFGFVIQHTELQYFRTETPPVLYSKSMNSSADVTSDFYVCSEPNQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_165618890.1/1-91   PP 8*****************************************************************************************8
+WP_168410042.1/1-91           MSLPEQVSKKEAFGFVIQHTELQSFRTETPPVLYSKSMNSSADVTSDFYVRSEPKQLLFAMVKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_168410042.1/1-91   PP 8*****************************************************************************************8
+WP_168389305.1/1-91           MSLPEQVSKKEAFGFDIQHTELQSFRTETPPVLYSKSMNSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_168389305.1/1-91   PP 8*****************************************************************************************8
+WP_172450152.1/1-91           MSLPEQVSKKEAFGFVIQHTELQYFRTETPPVLHLKSMNSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_172450152.1/1-91   PP 8*****************************************************************************************8
+WP_168392223.1/1-91           MSLPEQVSKKEAFGFVIQHTKAQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIGIFEILGSKIRHRIPKEVAAVSTT
+#=GR WP_168392223.1/1-91   PP 8*****************************************************************************************8
+WP_168672393.1/10-100         LSLPEQVSKKEAFGFVIQHTELQSFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAMSTT
+#=GR WP_168672393.1/10-100 PP 69****************************************************************************************8
+WP_194117627.1/1-91           MSLSEQVSKKEAFGFVIQHTELQSFRTETPPVLYSKSQNSSADVTSDFYVRCEPKQLLFAMEKVAPIGIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_194117627.1/1-91   PP 8*****************************************************************************************8
+WP_194075014.1/1-91           MSLSEQVSKKEAFGFVIQHTELQYFGTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVTPIGIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_194075014.1/1-91   PP 8*****************************************************************************************8
+WP_168474142.1/1-85           ------MSKKEAFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_168474142.1/1-85   PP ......59**********************************************************************************8
+WP_194091955.1/1-85           ------MSKKEVFGFVIQHTELQYFRTETPPVLYSKSINSSADVTSDFYVRSEPKQLLFAMEKVAPIEIFEILGSKIRHRIPKEVAAVSTT
+#=GR WP_194091955.1/1-85   PP ......59**********************************************************************************8
+WP_194092174.1/1-85           ------MSKKEAFGFVIQHTELQSFRTETPPVLYSKSQNSSADVTSDFYVRCEPKQLLFAMEKVAPIGIFETLGSKIRHRIPKEVAAVSTT
+#=GR WP_194092174.1/1-85   PP ......59**********************************************************************************8
+#=GC PP_cons                  8*****9***********************************************************************************8
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

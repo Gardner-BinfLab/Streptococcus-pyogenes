@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+#=GF ID GCF_900995335.1|WP_110410785.1-i2
+
+#=GS GCF_900995335.1|WP_110410785.1/1-29 DE [subseq from] GCF_900995335.1|WP_110410785.1
+
+GCF_900995335.1|WP_110410785.1              MYQMYEISDKNFFRHAIKDYIRFYSHERP
+GCF_900995335.1|WP_110410785.1/1-29         MYQMYEISDKNFFRHAIKDYIRFYSHERP
+#=GR GCF_900995335.1|WP_110410785.1/1-29 PP ****************************9
+#=GC PP_cons                                ****************************9
+#=GC RF                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

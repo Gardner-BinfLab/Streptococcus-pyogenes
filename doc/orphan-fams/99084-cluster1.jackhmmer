@@ -1,0 +1,459 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster1.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster1.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster1.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136106993.1  [L=49]
+Description: dihydroxyacetone kinase [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++     2e-30   97.5   0.1    2.2e-30   97.4   0.1    1.0  1  WP_136106993.1  dihydroxyacetone kinase [Streptococcus pyogen
++   1.1e-29   95.2   0.1    1.2e-29   95.1   0.1    1.0  1  WP_002990686.1  MULTISPECIES: hypothetical protein [Streptoco
++   1.6e-29   94.8   0.1    1.7e-29   94.7   0.1    1.0  1  WP_047235923.1  hypothetical protein [Streptococcus pyogenes]
++   4.4e-29   93.4   0.1    4.8e-29   93.3   0.1    1.0  1  WP_136273614.1  dihydroxyacetone kinase [Streptococcus pyogen
++   4.5e-29   93.4   0.1    4.8e-29   93.3   0.1    1.0  1  WP_136261872.1  dihydroxyacetone kinase [Streptococcus pyogen
++   8.9e-29   92.5   0.1    9.7e-29   92.4   0.1    1.0  1  WP_038433655.1  hypothetical protein [Streptococcus pyogenes]
++   1.2e-28   92.1   0.1    1.3e-28   91.9   0.1    1.0  1  WP_002994198.1  hypothetical protein [Streptococcus pyogenes]
++   1.3e-28   92.0   0.1    1.4e-28   91.9   0.1    1.0  1  WP_136262022.1  dihydroxyacetone kinase [Streptococcus pyogen
++   1.3e-28   92.0   0.2    1.4e-28   91.9   0.2    1.0  1  WP_030126777.1  hypothetical protein [Streptococcus pyogenes]
++   4.9e-28   90.2   0.1    5.3e-28   90.1   0.1    1.0  1  WP_136046984.1  dihydroxyacetone kinase [Streptococcus pyogen
++   4.9e-28   90.2   0.1    5.3e-28   90.1   0.1    1.0  1  WP_136287047.1  dihydroxyacetone kinase [Streptococcus pyogen
++   4.9e-28   90.2   0.1    5.3e-28   90.1   0.1    1.0  1  WP_011285429.1  hypothetical protein [Streptococcus pyogenes]
++   1.9e-27   88.4   0.1    2.1e-27   88.3   0.1    1.0  1  WP_076639576.1  dihydroxyacetone kinase [Streptococcus pyogen
++   2.7e-27   87.9   0.1    2.9e-27   87.8   0.1    1.0  1  WP_136286059.1  dihydroxyacetone kinase [Streptococcus pyogen
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136106993.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   97.4   0.1   3.4e-32   2.2e-30       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 97.4 bits;  conditional E-value: 3.4e-32
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq
+  WP_136106993.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTNMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_002990686.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   95.1   0.1   1.9e-31   1.2e-29       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 95.1 bits;  conditional E-value: 1.9e-31
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalqadt+mafilvrginyq
+  WP_002990686.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_047235923.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.7   0.1   2.6e-31   1.7e-29       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 94.7 bits;  conditional E-value: 2.6e-31
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldn+ygtlrsfafmrpvkssndtsladalqadt+mafilvrginyq
+  WP_047235923.1  1 MQLLDNIYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136273614.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   93.3   0.1   7.3e-31   4.8e-29       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 93.3 bits;  conditional E-value: 7.3e-31
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladal+adt+mafilvrginyq
+  WP_136273614.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALKADTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136261872.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   93.3   0.1   7.4e-31   4.8e-29       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 93.3 bits;  conditional E-value: 7.4e-31
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtslad lqadt+mafilvrginyq
+  WP_136261872.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADVLQADTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_038433655.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   92.4   0.1   1.5e-30   9.7e-29       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 92.4 bits;  conditional E-value: 1.5e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalqa t+mafilvrginyq
+  WP_038433655.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQASTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_002994198.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   91.9   0.1     2e-30   1.3e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 91.9 bits;  conditional E-value: 2e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalqa t+mafilvrginyq
+  WP_002994198.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136262022.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   91.9   0.1   2.1e-30   1.4e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 91.9 bits;  conditional E-value: 2.1e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafm pvkssndtsladalqadt+mafilvrginyq
+  WP_136262022.1  1 MQLLDNVYGTLRSFAFMGPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_030126777.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   91.9   0.2   2.1e-30   1.4e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 91.9 bits;  conditional E-value: 2.1e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalqadt+mafilvr inyq
+  WP_030126777.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRDINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136046984.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   90.1   0.1   8.1e-30   5.3e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 90.1 bits;  conditional E-value: 8.1e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsl dalqa t+mafilvrginyq
+  WP_136046984.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLVDALQAGTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136287047.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   90.1   0.1   8.1e-30   5.3e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 90.1 bits;  conditional E-value: 8.1e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrpvkssndtsladalq  t+mafilvrginyq
+  WP_136287047.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQTGTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_011285429.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   90.1   0.1   8.1e-30   5.3e-28       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 90.1 bits;  conditional E-value: 8.1e-30
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrp kssndtsladalqa t+mafilvrginyq
+  WP_011285429.1  1 MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_076639576.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   88.3   0.1   3.2e-29   2.1e-27       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 88.3 bits;  conditional E-value: 3.2e-29
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvy tlrsfafmrpvkssndtsladalqa t+mafilvrginyq
+  WP_076639576.1  1 MQLLDNVYETLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                    8***********************************************8 PP
+
+>> WP_136286059.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   87.8   0.1   4.5e-29   2.9e-27       1      49 []       1      49 []       1      49 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 87.8 bits;  conditional E-value: 4.5e-29
+  WP_136106993.1  1 mqlldnvygtlrsfafmrpvkssndtsladalqadtnmafilvrginyq 49
+                    mqlldnvygtlrsfafmrp kssndtsladalqa t+mafilvrgi+yq
+  WP_136286059.1  1 MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGIDYQ 49
+                    8***********************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (49 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        17  (0.0185387); expected 18.3 (0.02)
+Passed bias filter:                       17  (0.0185387); expected 18.3 (0.02)
+Passed Vit filter:                        14  (0.0152672); expected 0.9 (0.001)
+Passed Fwd filter:                        14  (0.0152672); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              14  [number of targets reported over threshold]
+# CPU time: 0.04u 0.03s 00:00:00.07 Elapsed: 00:00:00.44
+# Mc/sec: 10.68
+
+@@ New targets included:   14
+@@ New alignment includes: 15 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        15 subsequences (query + 14 subseqs from 14 targets)
+@@ Model size:             49 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    8.4e-41  134.0   1.2    9.1e-41  133.9   1.2    1.0  1  WP_002990686.1  MULTISPECIES: hypothetical protein [Streptoco
+    1.3e-40  133.4   0.7    1.4e-40  133.3   0.7    1.0  1  WP_002994198.1  hypothetical protein [Streptococcus pyogenes]
+    1.7e-40  133.0   1.2    1.9e-40  132.9   1.2    1.0  1  WP_047235923.1  hypothetical protein [Streptococcus pyogenes]
+    2.4e-40  132.5   1.1    2.6e-40  132.4   1.1    1.0  1  WP_136106993.1  dihydroxyacetone kinase [Streptococcus pyogen
+    2.6e-40  132.4   0.9    2.8e-40  132.3   0.9    1.0  1  WP_136273614.1  dihydroxyacetone kinase [Streptococcus pyogen
+      3e-40  132.2   1.1    3.3e-40  132.1   1.1    1.0  1  WP_038433655.1  hypothetical protein [Streptococcus pyogenes]
+    3.2e-40  132.1   1.1    3.5e-40  132.0   1.1    1.0  1  WP_136261872.1  dihydroxyacetone kinase [Streptococcus pyogen
+    4.6e-40  131.6   0.7      5e-40  131.5   0.7    1.0  1  WP_136287047.1  dihydroxyacetone kinase [Streptococcus pyogen
+    4.9e-40  131.5   0.7    5.3e-40  131.4   0.7    1.0  1  WP_136046984.1  dihydroxyacetone kinase [Streptococcus pyogen
+      5e-40  131.5   1.8    5.4e-40  131.4   1.8    1.0  1  WP_030126777.1  hypothetical protein [Streptococcus pyogenes]
+    5.4e-40  131.4   0.6    5.8e-40  131.3   0.6    1.0  1  WP_076639576.1  dihydroxyacetone kinase [Streptococcus pyogen
+    6.1e-40  131.2   0.8    6.6e-40  131.1   0.8    1.0  1  WP_011285429.1  hypothetical protein [Streptococcus pyogenes]
+    7.4e-40  131.0   0.9      8e-40  130.9   0.9    1.0  1  WP_136262022.1  dihydroxyacetone kinase [Streptococcus pyogen
+    2.5e-39  129.3   0.8    2.7e-39  129.2   0.8    1.0  1  WP_136286059.1  dihydroxyacetone kinase [Streptococcus pyogen
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_002990686.1  MULTISPECIES: hypothetical protein [Streptococcus]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  133.9   1.2   1.4e-42   9.1e-41       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 133.9 bits;  conditional E-value: 1.4e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq
+     WP_002990686.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_002994198.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  133.3   0.7   2.1e-42   1.4e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 133.3 bits;  conditional E-value: 2.1e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqa+tdmAFiLvRginYq
+     WP_002994198.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_047235923.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.9   1.2   2.9e-42   1.9e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 132.9 bits;  conditional E-value: 2.9e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDn+YgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq
+     WP_047235923.1  1 MQLLDNIYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136106993.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.4   1.1     4e-42   2.6e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 132.4 bits;  conditional E-value: 4e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadt+mAFiLvRginYq
+     WP_136106993.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTNMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136273614.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.3   0.9   4.3e-42   2.8e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 132.3 bits;  conditional E-value: 4.3e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaL+adtdmAFiLvRginYq
+     WP_136273614.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALKADTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_038433655.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.1   1.1     5e-42   3.3e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 132.1 bits;  conditional E-value: 5e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqa+tdmAFiLvRginYq
+     WP_038433655.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQASTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136261872.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  132.0   1.1   5.3e-42   3.5e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 132.0 bits;  conditional E-value: 5.3e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaD+LqadtdmAFiLvRginYq
+     WP_136261872.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADVLQADTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136287047.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.5   0.7   7.6e-42     5e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 131.5 bits;  conditional E-value: 7.6e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLq++tdmAFiLvRginYq
+     WP_136287047.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQTGTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136046984.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.4   0.7   8.1e-42   5.3e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 131.4 bits;  conditional E-value: 8.1e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsL+DaLqa+tdmAFiLvRginYq
+     WP_136046984.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLVDALQAGTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_030126777.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.4   1.8   8.3e-42   5.4e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 131.4 bits;  conditional E-value: 8.3e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvR+inYq
+     WP_030126777.1  1 MQLLDNVYGTLRSFAFMRPVKSSNDTSLADALQADTDMAFILVRDINYQ 49
+                       9***********************************************9 PP
+
+>> WP_076639576.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.3   0.6   8.9e-42   5.8e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 131.3 bits;  conditional E-value: 8.9e-42
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvY+tLRsFAFmrPvkssnDtsLaDaLqa+tdmAFiLvRginYq
+     WP_076639576.1  1 MQLLDNVYETLRSFAFMRPVKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_011285429.1  hypothetical protein [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.1   0.8     1e-41   6.6e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 131.1 bits;  conditional E-value: 1e-41
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrP+kssnDtsLaDaLqa+tdmAFiLvRginYq
+     WP_011285429.1  1 MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136262022.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  130.9   0.9   1.2e-41     8e-40       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 130.9 bits;  conditional E-value: 1.2e-41
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFm PvkssnDtsLaDaLqadtdmAFiLvRginYq
+     WP_136262022.1  1 MQLLDNVYGTLRSFAFMGPVKSSNDTSLADALQADTDMAFILVRGINYQ 49
+                       9***********************************************9 PP
+
+>> WP_136286059.1  dihydroxyacetone kinase [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  129.2   0.8   4.1e-41   2.7e-39       1      49 []       1      49 []       1      49 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 129.2 bits;  conditional E-value: 4.1e-41
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136106993.1-i1  1 mqLLDnvYgtLRsFAFmrPvkssnDtsLaDaLqadtdmAFiLvRginYq 49
+                       mqLLDnvYgtLRsFAFmrP+kssnDtsLaDaLqa+tdmAFiLvRgi+Yq
+     WP_136286059.1  1 MQLLDNVYGTLRSFAFMRPAKSSNDTSLADALQAGTDMAFILVRGIDYQ 49
+                       9***********************************************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (49 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        30  (0.0327154); expected 18.3 (0.02)
+Passed bias filter:                       27  (0.0294438); expected 18.3 (0.02)
+Passed Vit filter:                        14  (0.0152672); expected 0.9 (0.001)
+Passed Fwd filter:                        14  (0.0152672); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):              14  [number of targets reported over threshold]
+# CPU time: 0.10u 0.02s 00:00:00.12 Elapsed: 00:00:00.57
+# Mc/sec: 8.10
+
+@@ New targets included:   0
+@@ New alignment includes: 15 subseqs (was 15), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 15 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster1.stk
+//
+[ok]

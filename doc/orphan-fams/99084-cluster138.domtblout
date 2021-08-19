@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_136021211.1       -             51 WP_136047030.1       -             51   5.1e-42  137.6   4.9   1   1   3.6e-44   5.5e-42  137.5   4.9     1    51     1    51     1    51 1.00 type A2 lantipeptide [Streptococcus pyogenes]
+WP_136047030.1       -             51 WP_136047030.1       -             51     7e-42  137.2   4.8   1   1     5e-44   7.6e-42  137.0   4.8     1    51     1    51     1    51 1.00 type A2 lantipeptide [Streptococcus pyogenes]
+WP_023612118.1       -             51 WP_136047030.1       -             51   8.3e-42  136.9   4.2   1   1   5.9e-44     9e-42  136.8   4.2     1    51     1    51     1    51 1.00 type A2 lantipeptide [Streptococcus pyogenes]
+WP_085634202.1       -             51 WP_136047030.1       -             51   8.3e-42  136.9   4.2   1   1   5.9e-44     9e-42  136.8   4.2     1    51     1    51     1    51 1.00 type A2 lantipeptide [Streptococcus pyogenes]
+WP_136296199.1       -             51 WP_136047030.1       -             51     1e-41  136.6   4.7   1   1   7.3e-44   1.1e-41  136.5   4.7     1    51     1    51     1    51 1.00 type A2 lantipeptide [Streptococcus pyogenes]
+WP_136093858.1       -             51 WP_136047030.1       -             51   2.1e-41  135.7   2.5   1   1   1.4e-43   2.2e-41  135.6   2.5     1    50     1    50     1    51 0.99 type A2 lantipeptide [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster138.jackhmmer -A orphan-fams/99084-cluster138.stk --domtblout orphan-fams/99084-cluster138.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:25:56 2021
+# [ok]

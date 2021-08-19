@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136133843.1-i2
+
+#=GS WP_136133843.1      DE type A2 lantipeptide [Streptococcus pyogenes]
+#=GS WP_136133843.1/1-51 DE [subseq from] type A2 lantipeptide [Streptococcus pyogenes]
+
+WP_136133843.1              MSFMKNSKDILTNAIEEVSEKELMEVAGDKKGSGWFATITDDCPNSVFVCC
+WP_136133843.1/1-51         MSFMKNSKDILTNAIEEVSEKELMEVAGDKKGSGWFATITDDCPNSVFVCC
+#=GR WP_136133843.1/1-51 PP 9**************************************************
+#=GC PP_cons                9**************************************************
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

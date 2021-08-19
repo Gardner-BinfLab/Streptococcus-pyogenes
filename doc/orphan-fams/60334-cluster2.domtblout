@@ -1,0 +1,17 @@
+#                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- -----           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_900995775.1|WP_210726467.1 -             64 GCF_900995775.1|WP_210726467.1 -             64   6.8e-49  158.2   7.4   1   1     1e-50   7.4e-49  158.0   7.4     1    64     1    64     1    64 0.99 -
+GCF_900991485.1|WP_210726221.1 -             62 GCF_900995775.1|WP_210726467.1 -             64   6.2e-48  155.1   5.6   1   1   9.2e-50   6.7e-48  155.0   5.6     3    64     1    62     1    62 0.99 -
+GCF_900985685.1|WP_210725321.1 -             65 GCF_900995775.1|WP_210726467.1 -             64   1.4e-47  153.9   9.4   1   1   2.2e-49   1.6e-47  153.8   9.4     1    64     2    65     2    65 0.99 -
+GCF_900990955.1|WP_210726119.1 -             61 GCF_900995775.1|WP_210726467.1 -             64   1.9e-46  150.3   5.6   1   1   2.9e-48   2.1e-46  150.2   5.6     4    64     1    61     1    61 0.99 -
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/60334.fa
+# Target file:     orphan-spyogenes-protein-ids.2.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/60334-cluster2.jackhmmer -A orphan-fams/60334-cluster2.stk --domtblout orphan-fams/60334-cluster2.domtblout -E 0.00001 --incE 0.00001 orphan-fams/60334.fa orphan-spyogenes-protein-ids.2.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Fri Jul 23 10:02:10 2021
+# [ok]

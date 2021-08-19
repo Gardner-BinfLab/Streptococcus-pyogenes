@@ -1,0 +1,243 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster138.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster138.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster138.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136047030.1  [L=51]
+Description: type A2 lantipeptide [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.9e-34  111.4   1.5      2e-34  111.3   1.5    1.0  1  WP_136047030.1  type A2 lantipeptide [Streptococcus pyogenes]
++   1.5e-33  108.6   1.5    1.6e-33  108.5   1.5    1.0  1  WP_136021211.1  type A2 lantipeptide [Streptococcus pyogenes]
++   5.5e-33  106.9   1.5    5.9e-33  106.7   1.5    1.0  1  WP_136296199.1  type A2 lantipeptide [Streptococcus pyogenes]
++   1.2e-32  105.8   0.6    1.3e-32  105.7   0.6    1.0  1  WP_136093858.1  type A2 lantipeptide [Streptococcus pyogenes]
++   1.8e-32  105.2   1.2    1.9e-32  105.1   1.2    1.0  1  WP_023612118.1  type A2 lantipeptide [Streptococcus pyogenes]
++   1.8e-32  105.2   1.2    1.9e-32  105.1   1.2    1.0  1  WP_085634202.1  type A2 lantipeptide [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136047030.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  111.3   1.5   1.3e-36     2e-34       1      51 []       1      51 []       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 111.3 bits;  conditional E-value: 1.3e-36
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc 51
+                    meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc
+  WP_136047030.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNRLQAIFTCC 51
+                    8************************************************** PP
+
+>> WP_136021211.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  108.5   1.5   1.1e-35   1.6e-33       1      51 []       1      51 []       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 108.5 bits;  conditional E-value: 1.1e-35
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc 51
+                    meekmclgalnalqefqieeldnllgggghgvntisaecrwn lqaiftcc
+  WP_136021211.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC 51
+                    8************************************************** PP
+
+>> WP_136296199.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  106.7   1.5   3.9e-35   5.9e-33       1      51 []       1      51 []       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 106.7 bits;  conditional E-value: 3.9e-35
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc 51
+                    meekmclgaln lqefqieeldnllgggghgvntisaecrwn lqaiftcc
+  WP_136296199.1  1 MEEKMCLGALNVLQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC 51
+                    8************************************************** PP
+
+>> WP_136093858.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.7   0.6   8.2e-35   1.3e-32       1      50 [.       1      50 [.       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 105.7 bits;  conditional E-value: 8.2e-35
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftc 50
+                    meekmclgalnalqefqieeldnllgggghgvntisaecrwn lqaiftc
+  WP_136093858.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTC 50
+                    8************************************************* PP
+
+>> WP_023612118.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.1   1.2   1.3e-34   1.9e-32       1      51 []       1      51 []       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 105.1 bits;  conditional E-value: 1.3e-34
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc 51
+                    meekmclgalnalqefqieeldnllgg ghgvntisaecrwn lqaiftcc
+  WP_023612118.1  1 MEEKMCLGALNALQEFQIEELDNLLGGRGHGVNTISAECRWNSLQAIFTCC 51
+                    8************************************************** PP
+
+>> WP_085634202.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  105.1   1.2   1.3e-34   1.9e-32       1      51 []       1      51 []       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 105.1 bits;  conditional E-value: 1.3e-34
+  WP_136047030.1  1 meekmclgalnalqefqieeldnllgggghgvntisaecrwnrlqaiftcc 51
+                    meekmclgalnalqefqieeldnllg gghgvntisaecrwn lqaiftcc
+  WP_085634202.1  1 MEEKMCLGALNALQEFQIEELDNLLGRGGHGVNTISAECRWNSLQAIFTCC 51
+                    8************************************************** PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (51 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        17  (0.0185387); expected 18.3 (0.02)
+Passed bias filter:                       15  (0.0163577); expected 18.3 (0.02)
+Passed Vit filter:                         6  (0.00654308); expected 0.9 (0.001)
+Passed Fwd filter:                         6  (0.00654308); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               6  [number of targets reported over threshold]
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.20
+# Mc/sec: 24.46
+
+@@ New targets included:   6
+@@ New alignment includes: 7 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        7 subsequences (query + 6 subseqs from 6 targets)
+@@ Model size:             51 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    5.1e-42  137.6   4.9    5.5e-42  137.5   4.9    1.0  1  WP_136021211.1  type A2 lantipeptide [Streptococcus pyogenes]
+      7e-42  137.2   4.8    7.6e-42  137.0   4.8    1.0  1  WP_136047030.1  type A2 lantipeptide [Streptococcus pyogenes]
+    8.3e-42  136.9   4.2      9e-42  136.8   4.2    1.0  1  WP_023612118.1  type A2 lantipeptide [Streptococcus pyogenes]
+    8.3e-42  136.9   4.2      9e-42  136.8   4.2    1.0  1  WP_085634202.1  type A2 lantipeptide [Streptococcus pyogenes]
+      1e-41  136.6   4.7    1.1e-41  136.5   4.7    1.0  1  WP_136296199.1  type A2 lantipeptide [Streptococcus pyogenes]
+    2.1e-41  135.7   2.5    2.2e-41  135.6   2.5    1.0  1  WP_136093858.1  type A2 lantipeptide [Streptococcus pyogenes]
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136021211.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.5   4.9   3.6e-44   5.5e-42       1      51 []       1      51 []       1      51 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 137.5 bits;  conditional E-value: 3.6e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc 51
+                       meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc
+     WP_136021211.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC 51
+                       9************************************************** PP
+
+>> WP_136047030.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.0   4.8     5e-44   7.6e-42       1      51 []       1      51 []       1      51 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 137.0 bits;  conditional E-value: 5e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc 51
+                       meekmClGalnalqefqieeldnllGggGhGvntisaeCrWn+lqaiftCc
+     WP_136047030.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNRLQAIFTCC 51
+                       9************************************************** PP
+
+>> WP_023612118.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  136.8   4.2   5.9e-44     9e-42       1      51 []       1      51 []       1      51 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 136.8 bits;  conditional E-value: 5.9e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc 51
+                       meekmClGalnalqefqieeldnllGg+GhGvntisaeCrWnslqaiftCc
+     WP_023612118.1  1 MEEKMCLGALNALQEFQIEELDNLLGGRGHGVNTISAECRWNSLQAIFTCC 51
+                       9************************************************** PP
+
+>> WP_085634202.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  136.8   4.2   5.9e-44     9e-42       1      51 []       1      51 []       1      51 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 136.8 bits;  conditional E-value: 5.9e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc 51
+                       meekmClGalnalqefqieeldnllG+gGhGvntisaeCrWnslqaiftCc
+     WP_085634202.1  1 MEEKMCLGALNALQEFQIEELDNLLGRGGHGVNTISAECRWNSLQAIFTCC 51
+                       9************************************************** PP
+
+>> WP_136296199.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  136.5   4.7   7.3e-44   1.1e-41       1      51 []       1      51 []       1      51 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 136.5 bits;  conditional E-value: 7.3e-44
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftCc 51
+                       meekmClGaln+lqefqieeldnllGggGhGvntisaeCrWnslqaiftCc
+     WP_136296199.1  1 MEEKMCLGALNVLQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTCC 51
+                       9************************************************** PP
+
+>> WP_136093858.1  type A2 lantipeptide [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  135.6   2.5   1.4e-43   2.2e-41       1      50 [.       1      50 [.       1      51 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 135.6 bits;  conditional E-value: 1.4e-43
+                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136047030.1-i1  1 meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftC 50
+                       meekmClGalnalqefqieeldnllGggGhGvntisaeCrWnslqaiftC
+     WP_136093858.1  1 MEEKMCLGALNALQEFQIEELDNLLGGGGHGVNTISAECRWNSLQAIFTC 50
+                       9************************************************* PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (51 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                         9  (0.00981461); expected 18.3 (0.02)
+Passed bias filter:                        7  (0.00763359); expected 18.3 (0.02)
+Passed Vit filter:                         6  (0.00654308); expected 0.9 (0.001)
+Passed Fwd filter:                         6  (0.00654308); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               6  [number of targets reported over threshold]
+# CPU time: 0.11u 0.03s 00:00:00.14 Elapsed: 00:00:00.34
+# Mc/sec: 14.39
+
+@@ New targets included:   0
+@@ New alignment includes: 7 subseqs (was 7), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 7 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster138.stk
+//
+[ok]

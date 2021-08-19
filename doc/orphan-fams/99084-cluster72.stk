@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+#=GF ID WP_198462994.1-i2
+
+#=GS WP_198462994.1      DE quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+#=GS WP_198462994.1/1-31 DE [subseq from] quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+#=GS WP_206733287.1/3-32 DE [subseq from] quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+#=GS WP_210726138.1/1-22 DE [subseq from] quorum-sensing system DWW-type pheromone [Streptococcus pyogenes]
+
+WP_198462994.1              MLKKYKYYFIFAALLSFKVVQELSAVDWWRL
+WP_198462994.1/1-31         MLKKYKYYFIFAALLSFKVVQELSAVDWWRL
+#=GR WP_198462994.1/1-31 PP 9*****************************9
+WP_206733287.1/3-32         -VKKYKYYFIFAALLSFKVVQELSAVDWWRL
+#=GR WP_206733287.1/3-32 PP .8****************************9
+WP_210726138.1/1-22         ---------MFAALLSFKVVQELSAVDWWRL
+#=GR WP_210726138.1/1-22 PP .........8********************9
+#=GC PP_cons                99*******9********************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

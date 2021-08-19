@@ -1,0 +1,263 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136283814.1-i3
+
+#=GS WP_136283814.1         DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136283814.1/1-147   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_063629117.1/1-147   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136271481.1/1-149   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136096702.1/1-149   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136048191.1/1-151   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136274453.1/1-139   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136021744.1/1-153   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136097025.1/1-153   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136095689.1/7-136   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136264256.1/1-126   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_181387710.1/1-123   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136076516.1/7-136   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111702805.1/1-123   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168410104.1/1-40    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168410104.1/43-123  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136287368.1/1-123   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194085530.1/1-40    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194085530.1/43-123  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136275683.1/1-35    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136275683.1/41-120  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136291518.1/1-130   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136266432.1/1-117   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136112218.1/1-35    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136112218.1/41-120  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136304260.1/7-128   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263501.1/7-156   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_115225179.1/1-119   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136069629.1/7-154   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136299627.1/7-156   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136270134.1/9-157   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136263507.1/7-128   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136301411.1/7-128   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_042765603.1/1-129   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136293315.1/1-121   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136120986.1/1-101   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_076639599.1/3-125   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111685133.1/1-117   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136277621.1/1-121   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136073970.1/3-131   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_168634693.1/1-111   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136305082.1/1-108   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136307851.1/1-93    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_023611589.1/10-135  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136020771.1/28-123  DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136303958.1/11-78   DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_153279451.1/1-36    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194129877.1/1-74    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_194092048.1/1-74    DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136094677.1/214-269 DE [subseq from] lysis inhibitor protein [Streptococcus pyogenes]
+#=GS WP_136306496.1/283-335 DE [subseq from] lysis inhibitor protein [Streptococcus pyogenes]
+
+WP_136283814.1                 MKT-KSKR-FLNLATLCLALLGTTLLMGQPVKA-EAV-YT--NPQSGERLTSVGGP-SE--DSGSE-K-------TQQ---T-------SD--DDRRD----RNRGYEEGYKRGQES-D----N-RDL-DRDTIE----VPY------N---V--I-DG-----VEYKDGY----EEGFGVG---WHDAHPITSFIEMAL
+WP_136283814.1/1-147           MKT-KSKR-FLNLATLCLALLGTTLLMGQPVKA-EAV-YT--NPQSGERLTSVGGP-SE--DSGSE-K-------TQQ---T-------SD--DDRRD----RNRGYEEGYKRGQES-D----N-RDL-DRDTIE----VPY------N---V--I-DG-----VEYKDGY----EEGFGVG---WHDAHPITSFIEMAL
+#=GR WP_136283814.1/1-147   PP 9**.****.************************.***.**..**************.**..*****.*.......***...*.......**..*****....***************.*....*.***.******....***......*...*..*.**.....*******....*******...***************
+WP_063629117.1/1-147           MKT-RSKR-FLNLAPLCLALLGTTLLMVQPVKA-EAV-QSVGGDHSTDQMVNQSER-ID--NVGLLTD-------SDG---Y-------ST--NEYRD----REYGKQQGIDDGKNG-Y----W-PNV-SREEIP----IPR------G---I--D-FE-----EKYRDGY----EEGYSEG---WHQEHPFQGAIFDVF
+#=GR WP_063629117.1/1-147   PP 9**.****.************************.***.774567888888888888.77..6555525.......666...9.......9*..*****....***************.*....*.***.******....***......*...*..*.**.....*******....*******...***************
+WP_136271481.1/1-149           MKT-KSKR-FLNLATLCLALLGTTLLMAHPIKA-EVE-GN--SDESSLYISNNDEG-GE--GDDLR-ER----YLTERD-LT-------TD--HLKDE----YYQGGLDGYKAGYKDGS----K-SDA-PRQPKD----NPY------E---G--E-KG-----GNYKTGYNDSYGSGYHYG---WEKHHPIQSFFSYIW
+#=GR WP_136271481.1/1-149   PP 9**.****.************************.***.**..**************.**..99999.85....554444.45.......78..88999....************99835....8.99*.******....***......*...9..9.99.....7777777555599*****...***************
+WP_136096702.1/1-149           MKT-KSKR-FLKLATLCLALLGTTLLMAHPIKA-EVE-GN--SDESSLYISNNDEG-GE--GDDLR-ER----YLTERD-LT-------PD--HLKDE----YYQGGLDGYKAGYKDGS----K-SDA-PRQPKD----NPY------E---G--E-KG-----GNYKTGYNDSYGSGYHYG---WEKHHPIQSFFSYIW
+#=GR WP_136096702.1/1-149   PP 9**.****.************************.***.**..**************.**..99999.85....554443.45.......78..899**....************99835....8.99*.******....***......*...9..9.99.....7777777555599*****...***************
+WP_136048191.1/1-151           MKTKKSKR-FLNLATLCLALLGTTLLMAHPVKA-EVE-GN--SDESSLYISNNDGG-GE--GDDDL-RER---YLTERD-LT-------TD--HLKDE----YYQGGLDGYKDGYKDGS----K-SDA-PRQPKD----NPY------E---G--E-KG-----GNYKTGYNDSYGSGYHYG---WEKHHPIQSFFSYIW
+#=GR WP_136048191.1/1-151   PP 9**78***.************************.***.**..**************.99..88777.546...665554.46.......88..8999*....************99835....8.99*.******....***......*...9..9.99.....7777777555599*****...***************
+WP_136274453.1/1-139           MKT-KSKR-FLNLATLCLALLGTTLLMAHPVKA-EIV-MP--QE--HTRNSS--GE-NG--KGSEE-T-------ADQ---E-------LD--PYGHS----RKLGEEDGYNAGKRA-SI--YE-SGV-DREKIV----VPR------DR-DI--K-DD-----VGYKDGY----EYGYGQG---WEEEHPFQAALNWLW
+#=GR WP_136274453.1/1-139   PP 9**.****.************************.***.87..54..333333..44.55..66777.8.......888...9.......99..99***....***************.98..89.99*.******....**9......64.47..9.99.....*******....*******...***********9999
+WP_136021744.1/1-153           MKT-KSKR-FLNLATLCLALLGTTLLMGQPVKA-EGV-SN--PDESSLYTSNNDGG-EG--GADLR-RQ----YLTER---SLTEDQLIGD--EYYQG----GFDGYLAGYKDGSKS-D----A-PR--EPEDKP----YPY------E---G-DN-KG-----EEYKLGYTDCYSSGYRYG---WEKNHPIQSLLSYIW
+#=GR WP_136021744.1/1-153   PP 9**.****.************************.***.*9..98887777776666.66..66666.64....44333...3322223233..44488....999************.9....9.97..99999*....***......9...7.35.66.....888888877779******...***************
+WP_136097025.1/1-153           MKT-KSKR-FLKLAPLCLALLSTTLLTTQPVKA-EGV-LR--DPQPVTQDSGQRGS-RQ--SQQEG-VGSGYSDNDEE---L-------QK--HQEEA----YQAGWDAGLLAGKGA-E----Q-PNV-ERENIP----SSKYDYADYD---------GEK-FDVEYKDGY----QAGHKEG---WGEEHPFQAALNWLW
+#=GR WP_136097025.1/1-153   PP 9**.****.************************.***.**..*******9999999.88..66655.33344433455...6.......88..99999....***************.*....*.***.******....9995444331.........244.55*******....*******...***************
+WP_136095689.1/7-136           MKT-KSKR-FLNLATLCLALLGTTLLMAHPVKA-EAI-PT--TREVQ----QSDES-TE--DSDIR-K-------QYM---TMF--GLTDL--NGHQD----RFKGYLDGYKEGLQG-S----N-R-P-ERGEIK----VPS------G---FTGI-AD-----SDYRDGY----EQGFGEG---QHKRHPLETEA----
+#=GR WP_136095689.1/7-136   PP 9**.****.************************.***.99..87544....44566.77..77888.8.......777...545..55477..999**....***************.8....7.5.7.******....***......9...8446.88.....*******....*******...*******9976....
+WP_136264256.1/1-126           MKT-KSKR-FLNLATLCLALLGTALLMGRPVKA-EVS-GV--SSTS--Q----------------------------------------TS--GFEKA----RERGESDGYKLGLSG--------GDL-VPGKIQ----VPD------D---I--E-PGN---GDDYKDAY----EGGYEQG---RRAADPVGTFLQDVW
+#=GR WP_136264256.1/1-126   PP 9**.****.************************.***.98..6432..2........................................23..46899....***************........679.9*****....***......*...*..7.444...4*******....*******...***************
+WP_181387710.1/1-123           MKT-KSKR-FLNLATLCLALLGTTLLMGRPVKA-EIS-KV--SPTSQ------------------------------------------AS--GFDKA----REKGDSDGYQFGLSG--------GDF-DPEKVE----VPN------D---I--E-TGY---GPDYKDAY----EGGYERG---RRDANPVETLLEDIW
+#=GR WP_181387710.1/1-123   PP 9**.****.************************.***.99..87432..........................................23..4789*....***************........668.9*****....***......*...*..9.888...8*******....*******...***************
+WP_136076516.1/7-136           MKT-KSKR-FLNLATLCLALLGTALLMTRPVKA-EAI-PT--TRE----VQQSDGS-TE--DSDIR-K-------QYM---TIF--GLTDL--NGHQD----RFKGYLDGYKEGLQG-S----N-R-P-ERGEIK----VPS------G---FTGI-AD-----SDYRDGY----EQGFGEG---QHKRHPLETEA----
+#=GR WP_136076516.1/7-136   PP 9**.****.************************.***.99..765....3455788.89..99999.9.......888...656..65577..999**....***************.8....7.5.7.******....***......9...8446.88.....*******....*******...*******9976....
+WP_111702805.1/1-123           MKT-KSKR-FLNLATLCLALLGTTLLMGRPVKA-EIS-KV--SPTSQ------------------------------------------AS--GFDKA----REKGDSDGYQFGLSG--------GDF-DSEKIE----VPD------D---I--E-SEY---GPDYKDAY----EGGYERG---RRAANPVETLLEDIW
+#=GR WP_111702805.1/1-123   PP 9**.****.************************.***.99..87432..........................................23..4789*....***************........668.9*****....***......*...9..7.666...6*******....*******...***************
+WP_168410104.1/1-40            MKT-KSKR-FLKLATLCLALLSTILLMTQPVKA-EIS-RV--SPTS----------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR WP_168410104.1/1-40    PP 9**.****.************************.**9.98..8765..........................................................................................................................................................
+WP_168410104.1/43-123          -----------------------------------------------------------------------------------------------DKA----REKGDSDGYQFGLSG--------GDL-NPDNIK----VPN------D---I--E-SGY---GPDYKDAY----EGGYERG---RRAADPVGTFLQDVW
+#=GR WP_168410104.1/43-123  PP ...............................................................................................789....***************........678.9*****....***......*...*..9.888...8*******....*******...***************
+WP_136287368.1/1-123           MKT-KSKR-FLKLATLCLALLSTILLMTQPVKA-EIS-RV--SPTS-----------------------------------------------GFDEA----RKRGESDGYQFGFNG--------GDL-DLDKIQ----VPD------D---IEFE-NK-----GDYKDAY----EGGYERG---RRDANPVGTFLQDVW
+#=GR WP_136287368.1/1-123   PP 9**.****.************************.***.98..7642...............................................35789....***************........668.899999....999......8...7447.88.....*******....*******...***************
+WP_194085530.1/1-40            MKT-KSKR-FLKLATLCLALLSTILLMTQPVKA-EIS-RV--SPTS----------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR WP_194085530.1/1-40    PP 9**.****.************************.**9.88..7764..........................................................................................................................................................
+WP_194085530.1/43-123          -----------------------------------------------------------------------------------------------DKA----REKGDSDGYQFGLSG--------GDF-NPDNIK----VPN------D---I--E-SGY---GPDYKDAY----EGGYERG---RRAADPVGTFLQDVW
+#=GR WP_194085530.1/43-123  PP ...............................................................................................789....***************........668.9*****....***......*...*..9.888...8*******....*******...***************
+WP_136275683.1/1-35            MKT-KSKR-FLNLATLCLALLGTTLLMGRPVKA-ETS-D-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR WP_136275683.1/1-35    PP 9**.****.************************.*97.4.................................................................................................................................................................
+WP_136275683.1/41-120          ------------------------------------------------------------------------------------------------TA----RDRGDSDGYQSGLNG-G----D-FDPNNPDSIK----VPK------D---I--E-TKY---GSDYKDAY----GEGYERG---RRDANPIATFLEDVW
+#=GR WP_136275683.1/41-120  PP ................................................................................................68....9**************.9....6.544389****....***......*...9..7.766...7*******....*******...***************
+WP_136291518.1/1-130           MKT-KSKR-FLNLATLCLGLLGTALLMTRPVKA-EAI-PT--TREVQ----QSDES-TE--DSDIR-K-------QYM---TIF--GLTDL--NGHQD----RFKGYLDGYKEGLQG-S----N-R-P-ERGEIK----VPS------G---FTGI-AD-----SDYRDGY----EQGFGEG---QHKRHPLETEA----
+#=GR WP_136291518.1/1-130   PP 9**.****.************************.***.99..86544....44567.78..88888.8.......888...555..65477..999**....***************.8....7.5.7.******....***......9...8446.88.....*******....*******...*******9976....
+WP_136266432.1/1-117           MKT-KSKR-FLKLATLCLALLGTTLLTTQPAEA-EVI-LL--PIN--------GHG-SG--GSNSQ-A-------KYQ---A-------ED--DLKAD----WYKGYNDGLKNGEAA-S----RLEDL-VREKIP----VPQ------G---V--S-DK-----TEYWDGY----ETGYSEG---WYKKHGV--------
+#=GR WP_136266432.1/1-117   PP 9**.****.************************.***.98..643........233.45..66778.8.......999...9.......**..*****....***************.9....5489*.******....***......*...*..*.**.....*******....*******...*****97........
+WP_136112218.1/1-35            MKT-KSKR-FLNLVTLCLALLSTTLLMTQPVKA-ETS-D-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR WP_136112218.1/1-35    PP 9**.****.************************.*97.4.................................................................................................................................................................
+WP_136112218.1/41-120          ------------------------------------------------------------------------------------------------TA----RNRGDSDGYQSGLNG-D----D-FDPNNPDSIK----VPK------D---I--E-TKY---GPDYKDAY----GEGYERG---RRDANPITTFLEDVW
+#=GR WP_136112218.1/41-120  PP ................................................................................................68....9**************.9....6.554389****....***......*...9..7.776...7*******....*******...***************
+WP_136304260.1/7-128           MKT-KSKR-FLNLATLCLALLGTTLLMAHPVQA-EVI-SK--RD-----YMTRFGL-GD--LEDDS-A-------NYP---S------------NLEA----RYKGYLEGYKKGLEG-D----D-I-P-ERPKIQ----VPK------D---VQPS-DH-----GDYRDGY----EEGFGEG---QHKRDPLETEAE---
+#=GR WP_136304260.1/7-128   PP 9**.****.************************.***.98..76.....4555788.88..88888.8.......877...5............6799....***************.8....7.6.7.9*****....***......*...9667.88.....*******....*******...********9876...
+WP_136263501.1/7-156           --------------LLYFSIFGTLLIMVQPTKA-EENGFE--KVGETSFQTSVQPL-KEILQEDES-K-------TKR--FA-------AE--EEEYDPNDLQDLGYHEGWQAGSNA-PWWTLG-PTI-DEDRIP----DPK------REDWL--K-DQF--ALKSYKEGY----AAGFHGG---WYSNHEMSAFIQNTF
+#=GR WP_136263501.1/7-156   PP ..............69*****************.***777..999***********.**9999999.9.......999..63.......33..333333455***************.988888.9**.******....***......84444..7.779..99*******....*******...***************
+WP_115225179.1/1-119           MKT-KSKR-FLKLATLCLALLSTTLLMTQPVKA-ETS-ET--S--------------------------------------------------GFYKA----RDRGETDGYRFGLSG--------GDL-DLGKIK----VPS------D---I--E-YEF---GSDYKDAY----EGGYERG---RRAANPVGTFLEDVW
+#=GR WP_115225179.1/1-119   PP 9**.****.************************.*99.65..3..................................................35789....***************........678.99****....***......9...9..6.555...5*******....*******...***************
+WP_136069629.1/7-154           --------------LLYFSTFGTLLIMVQPIKA-EENGFE--KVGETSFQTSVQPL-KEILQEDES-E-------TKRFAAE-------EY--DPNDP----QDLGYHEGRQAGSNA-PWWALG-PTI-DEDRIP----DPK------REDWL--K-DQF--ALKSYKEGY----AAGFHGG---WYSNHEMSAFIQNTF
+#=GR WP_136069629.1/7-154   PP ..............69*****************.***777..999***********.**9999999.*.......9995422.......33..56788....***************.988888.***.******....***......84444..7.779..99*******....*******...***************
+WP_136299627.1/7-156           --------------LLYFSIFGTLLIMVQPIKA-EENGFE--KVGETSFQTSVQPL-KEILQEDES-K-------TKR--FA-------AE--EEEYDPNDLQDLGYHEDWQAGSNA-PWWMLG-PTI-DEDRIP----DPK------REDWL--K-DQF--ALKSYKEGY----AAGFHGG---WYSNHEMSAFIQNTF
+#=GR WP_136299627.1/7-156   PP ..............69*****************.***777..999***********.**9999999.9.......999..63.......33..333333455***************.988888.***.******....***......84444..7.779..99*******....*******...***************
+WP_136270134.1/9-157           ------------LFYLCLALFGVAVLASNPVKA-EEN-GF--EKERGTSFQTPAQPLKEILQGDES-E-------TKR---F-------PEGYDPDDP----QDVGYYEGWEAGSNA-PWWTLS-PTI-DEDRIP----NPK------REDWR--N-DQS--DLTSYKEGY----ATGFYGG---WYSNHDMVGFVQNTF
+#=GR WP_136270134.1/9-157   PP ............899******************.***.88..888877776665543889999***.*.......***...7.......664477899....***************.999889.***.******....***......63321..2.334..45*******....*******...***************
+WP_136263507.1/7-128           MKT-KSKR-FLNLATLCLALLGTTLLMAHPVQA-EVI-SK--RD-----YMTRFGL-GD--LEDDS-A-------NYP---S------------NLEA----RYKGYLEGYKKGLEG-D----D-I-P-ERPKIQ----VPK------D---VQPS-DH-----GDYRDGY----EEGFGEG---QHKRDPLETEAE---
+#=GR WP_136263507.1/7-128   PP 9**.****.************************.***.98..76.....4555788.88..88888.8.......877...5............6799....***************.8....7.6.7.9*****....***......*...9667.88.....*******....*******...********9876...
+WP_136301411.1/7-128           MKT-KSKR-FLNLATLCLALLGTTLLMAHPVQA-EVI-SK--RD-----YMTRFGL-GD--LEDDS-A-------NYP---S------------NLEA----RYKGYLEGYKKGLEG-D----D-I-P-ERPKIQ----VPK------D---VQPS-DH-----GDYRDGY----EEGFGEG---QHKRDPLETEAE---
+#=GR WP_136301411.1/7-128   PP 9**.****.************************.***.98..76.....4555788.88..88888.8.......877...5............6799....***************.8....7.6.7.9*****....***......*...9667.88.....*******....*******...********9876...
+WP_042765603.1/1-129           MKT-KSKR-FLNLATLCLALLGTALLMEQPVNA-EGV-PI-KGVQQAEKNAENITY-KE--YMAQF-G-------LGE---L-------EE--PYYKS----RFQGYLDGYKEGLEG-S---RS-TSP-EPKDIQ----LPN------G---F--SGDP-----VGYTDGY----EEGFGKG---AHKHRPLEA------
+#=GR WP_042765603.1/1-129   PP 9**.****.************************.***.65.267888888899999.99..99999.9.......***...*.......**..*****....***************.9...45.678.9*****....***......*...9..6366.....*******....*******...******997......
+WP_136293315.1/1-121           ------------MAVLFLALFGTVLLISRPVSA-DFK-GQ--VDTVT----------------QSD-E-------VES---E-------SD--RWKKD----RDFGSQRGLEDGKTG-Y----G-PNI-SRDDIL----LPP------G---I--Q-NP-----DDYKDGY----QEGYSQG---WHQEHPLLGVIFDVF
+#=GR WP_136293315.1/1-121   PP ............699******************.***.98..65322................224.5.......677...8.......89..9****....***************.*....*.***.******....***......*...*..*.**.....*******....*******...***************
+WP_136120986.1/1-101           MKT-KSKR-FVNLATLCLALLGTTLLMEQPVRA-EVV-TK--V----------------------------------------------QQ--DEKAD----WYRGYEEGLKKGKAA-S---QR-EDL-VRKEIP----VPE------G---V--S-DK-----GEYWDGF----ETGYSAG---WYQNHDFV-------
+#=GR WP_136120986.1/1-101   PP 9**.****.************************.***.76..3..............................................34..6899*....***************.8...57.8**.******....***......*...*..*.**.....*******....*******...*****986.......
+WP_076639599.1/3-125           --------------SLFLTLFGTVLLISRPVSA-DQM-VN--QSERTDN---VRVL-T---------D-------SDG---Y-------ST--NEGRD----REFGKQKGNDDGKNG-Y----W-PNV-NRQEIT----IPK------G---I--D-YP-----DKYRDGY----EEGYSEG---WHKEHPFQGAIFDVF
+#=GR WP_076639599.1/3-125   PP ..............69*****************.***.99..8765543...3333.3.........3.......356...7.......88..99***....***************.*....*.***.******....***......*...*..*.**.....*******....*******...***************
+WP_111685133.1/1-117           MKT-KSKR-FLNLATLCLALLGTTLLMARPVKA-EVV-KT--DA------STISGS-GE--G---------------------------EE--SDKYW----WNRGHTDGYKEGEKS-E---IR-KDL-DRKTFS---NFPE------G---L--K-DDDYENRGEYMDGY----ETGYSEG---WYSKHGYD-------
+#=GR WP_111685133.1/1-117   PP 9**.****.************************.***.98..64......344455.55..5...........................67..899**....***************.9...89.9**.**9987...3688......7...7..6.5556777*******....*******...*****865.......
+WP_136277621.1/1-121           ------------MAVLFLALFGTVLLISRPVSA-DFK-GQ--VDTVT----------------QSD-E-------VES---E-------SD--RWKKD----RDFGSQRGLEDGKTG-Y----G-PNI-SRDDIL----LPP------G---I--Q-NP-----DDYKDGY----QEDYSQG---WHQEHPLLGVIFDVF
+#=GR WP_136277621.1/1-121   PP ............699******************.***.98..65322................224.5.......677...8.......89..9****....***************.*....*.***.******....***......*...*..*.**.....*******....*******...***************
+WP_136073970.1/3-131           -----NKK-FIVLA-LYISLVSL-CVISQPVSA-ELV-PL--NDSPQSQLMTG------------------------S---E-------EE--KLDQA----HLMGETQGLEDGRNG-K----S-KKN-RMDSRN----NPQ------G---I--D-ETE---LSDYWDSY----ESSYDEGYKQWSDEHPVEATLSWIW
+#=GR WP_136073970.1/3-131   PP .....8**.*****.*****998.99*******.***.**..*9999998874........................3...4.......67..899**....***************.*....*.***.******....***......*...9..7.666...8*******....****96544499*************
+WP_168634693.1/1-111           MKT-KSKR-FVNLATLCLALLGTTLLMEQSAEA-EVI-LI--PRYD---WSS-RG---------SK-S-------QAK---E-------DS--PHQRG----RVDGHKAGLEAAKRN-G----D-PTI-SPDAVP----KLY------G---S-DE-EN-----RSYRSGY----VDMYRHG---YLE------------
+#=GR WP_168634693.1/1-111   PP 9**.****.************************.***.99..7643...333.22.........33.4.......566...7.......78..99***....***************.*....*.***.******....***......9...7.46.77.....9******....8888888...644............
+WP_136305082.1/1-108           MKT-RSKR-FLNLAPLCLALLGTTLLMGQPVKA-QTS-LV--RS--TSEIDRV-------------------------------------R--NYHED----YKEGFEAGEKAGART-D----A-P----ESPVKTDRFDPD------S---T--D-PT-----DGYSDGY----FNGYSEA---WYKHHDHQ-------
+#=GR WP_136305082.1/1-108   PP 9**.****.************************.***.98..64..3333332.....................................2..34455....555555555555555.4....4.3....333330001344......4...4..5.55.....99*****....*******...*****987.......
+WP_136307851.1/1-93            MKT-KNQNVFYNLATLCLALFGAILLMAQPANA-EEV-SP--NIG-VEGTSQYYGE-MQ--GEYDE-E-------AEL---S-------SK--DREFG----RQNGQKDG-KEGKNG-F----G-PTI-NRDDI------------------------------------------------------------------
+#=GR WP_136307851.1/1-93    PP 9**.***99************************.***.99..865.6788889999.99..*****.*.......***...*.......**..*****....********.******.*....*.***.**997..................................................................
+WP_023611589.1/10-135          ------KL-FVALLFLCISL-----SIGNSAKAAEGE-SI--GKDSVSLTVSASND-L------------------D----Q-------GE--DEDEN----RRIGREAGKADFYNG-E----W-KK--DRLSAT----PPS------G---IDRE-GQ-----SEYWDGY----EEGYDSS---REKEYPILTAIEKTF
+#=GR WP_023611589.1/10-135  PP ......88.99999999998.....89****987999.99..99999888775433.2..................2....3.......56..78999....***************.*....9.97..9*****....***......9...9444.55.....*******....*******...***************
+WP_136020771.1/28-123          -------------------------------KA-E--------------------------SESSE-S-------IMS---L-------RQ--NSGSV----QELGFLLGYNDGING-E----Q-RS--SWEQIP----VPE------T---FSGK-DD-----IDYRKGY----NLGYDQG---LWEVYPVQAALGWLW
+#=GR WP_136020771.1/28-123  PP ...............................44.4..........................44455.5.......666...7.......78..89999....***************.9....8.75..9*****....***......9...7557.88.....*******....*******...***************
+WP_136303958.1/11-78           ---------------------------------------------------------------------------TYQ---A-------ED--DLKAD----WYKGYNDGLKNGEAA-S----RLEDL-VREKIP----VPQ------G---V--S-DK-----TEYWDGY----ETGYSEG---WYKKHGVD-------
+#=GR WP_136303958.1/11-78   PP ...........................................................................789...9.......9*..*****....***************.9....5489*.******....***......*...*..*.**.....*******....*******...*****985.......
+WP_153279451.1/1-36            MKT-KSKR-FLKLATLCLALLGTTLLTTQPAEA-EVI-LL----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR WP_153279451.1/1-36    PP 9**.****.************************.*98.65................................................................................................................................................................
+WP_194129877.1/1-74            ----------MKLTTFYLAVFGVVLTIGRPVSA-EMN-FS--EDSRRFQLVAD------------------------G---E-------RE--KLDKA----HQMGEDAGYKDGKSG-K----L-KK--DRLLEK----V------------------------------------------------------------
+#=GR WP_194129877.1/1-74    PP ..........69*********************.***.**..99988777662........................2...4.......56..78899....999999999999999.7....4.43..444444....4............................................................
+WP_194092048.1/1-74            ----------MKLTTFYLAVFGVVLTIGRPVSA-EMN-FS--EDSRRFQLVAD------------------------G---E-------RE--KLDKA----HQMGEDAGYKDGKSG-K----L-KK--DRLLEK----V------------------------------------------------------------
+#=GR WP_194092048.1/1-74    PP ..........69*********************.***.**..99988777662........................2...4.......56..78899....999999999999999.7....4.43..444444....4............................................................
+WP_136094677.1/214-269         ---------------------------------------------------------------------------SPG---Q-------HT--PQNNP----QVSDYDKGFSDGLKA-I----S-LGQ-GPDFVN----LKN------N---D--W-S------EDYKKGY----MAAFG--------------------
+#=GR WP_136094677.1/214-269 PP ...........................................................................444...6.......78..89999....***************.9....9.998.999998....888......7...7..6.6......8******....*9997....................
+WP_136306496.1/283-335         ---------------------------------------------------------------------------------Q-------HT--PQNNP----QVSDYDKGLSDGLKA-K----E-SGS-GIDFVG----FQY------G---G--W-S------EDYKKGY----MAGFG--------------------
+#=GR WP_136306496.1/283-335 PP .................................................................................6.......77..89999....***************.*....9.999.999999....999......9...9..8.7......8******....****7....................
+#=GC PP_cons                   9**.****.************************.***.88..87777887776777.88..88777.7.......777...6.......67..78899....***************.9....8.889.999999....9**......9...8..7.87.....*******....*******...*******9**9****
+#=GC RF                        xxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxx.xx..xxxxxxxxxxxxxx.xx..xxxxx.x.......xxx...x.......xx..xxxxx....xxxxxxxxxxxxxxx.x....x.xxx.xxxxxx....xxx......x...x..x.xx.....xxxxxxx....xxxxxxx...xxxxxxxxxxxxxxx
+
+WP_136283814.1                 QFFTSIFDSWFGVGQ
+WP_136283814.1/1-147           QFFTSIFDSWFGVGQ
+#=GR WP_136283814.1/1-147   PP ************865
+WP_063629117.1/1-147           VSIWSIVSGLFS---
+#=GR WP_063629117.1/1-147   PP ***********8...
+WP_136271481.1/1-149           EVITGFF--------
+#=GR WP_136271481.1/1-149   PP *****99........
+WP_136096702.1/1-149           EVITGFF--------
+#=GR WP_136096702.1/1-149   PP *****99........
+WP_136048191.1/1-151           EVITGFF--------
+#=GR WP_136048191.1/1-151   PP *****99........
+WP_136274453.1/1-139           GIVSGLL--------
+#=GR WP_136274453.1/1-139   PP 9888776........
+WP_136021744.1/1-153           EVITNFF--------
+#=GR WP_136021744.1/1-153   PP *****99........
+WP_136097025.1/1-153           DIVSGLF--------
+#=GR WP_136097025.1/1-153   PP 9999887........
+WP_136095689.1/7-136           ---------------
+#=GR WP_136095689.1/7-136   PP ...............
+WP_136264256.1/1-126           GFLTYAFNSIFGFNQ
+#=GR WP_136264256.1/1-126   PP ************886
+WP_181387710.1/1-123           NFLKFAFNSLFG---
+#=GR WP_181387710.1/1-123   PP ***********9...
+WP_136076516.1/7-136           ---------------
+#=GR WP_136076516.1/7-136   PP ...............
+WP_111702805.1/1-123           NFLKFAFNSLFG---
+#=GR WP_111702805.1/1-123   PP ***********9...
+WP_168410104.1/1-40            ---------------
+#=GR WP_168410104.1/1-40    PP ...............
+WP_168410104.1/43-123          SFLTYTFHSIFGFNQ
+#=GR WP_168410104.1/43-123  PP ************886
+WP_136287368.1/1-123           SFLTYAFHSIFGFNQ
+#=GR WP_136287368.1/1-123   PP ************886
+WP_194085530.1/1-40            ---------------
+#=GR WP_194085530.1/1-40    PP ...............
+WP_194085530.1/43-123          SFLTYTFNSIFGLDQ
+#=GR WP_194085530.1/43-123  PP ************876
+WP_136275683.1/1-35            ---------------
+#=GR WP_136275683.1/1-35    PP ...............
+WP_136275683.1/41-120          NFLKFTFGSWFG---
+#=GR WP_136275683.1/41-120  PP ***********9...
+WP_136291518.1/1-130           ---------------
+#=GR WP_136291518.1/1-130   PP ...............
+WP_136266432.1/1-117           ---------------
+#=GR WP_136266432.1/1-117   PP ...............
+WP_136112218.1/1-35            ---------------
+#=GR WP_136112218.1/1-35    PP ...............
+WP_136112218.1/41-120          NFLKFTFGSWFG---
+#=GR WP_136112218.1/41-120  PP ***********9...
+WP_136304260.1/7-128           ---------------
+#=GR WP_136304260.1/7-128   PP ...............
+WP_136263501.1/7-156           YWLWNRLSNFLG---
+#=GR WP_136263501.1/7-156   PP ***********8...
+WP_115225179.1/1-119           SFLTYAFNSIFGLG-
+#=GR WP_115225179.1/1-119   PP ***********976.
+WP_136069629.1/7-154           YWLWNRLSNFLG---
+#=GR WP_136069629.1/7-154   PP ***********8...
+WP_136299627.1/7-156           YWLWNRLSNFLG---
+#=GR WP_136299627.1/7-156   PP ***********8...
+WP_136270134.1/9-157           YWLWNQLNNFLG---
+#=GR WP_136270134.1/9-157   PP ***********8...
+WP_136263507.1/7-128           ---------------
+#=GR WP_136263507.1/7-128   PP ...............
+WP_136301411.1/7-128           ---------------
+#=GR WP_136301411.1/7-128   PP ...............
+WP_042765603.1/1-129           ---------------
+#=GR WP_042765603.1/1-129   PP ...............
+WP_136293315.1/1-121           DSIWNVMSGLFN---
+#=GR WP_136293315.1/1-121   PP *********995...
+WP_136120986.1/1-101           ---------------
+#=GR WP_136120986.1/1-101   PP ...............
+WP_076639599.1/3-125           VSIWGVVSGLFS---
+#=GR WP_076639599.1/3-125   PP ***********8...
+WP_111685133.1/1-117           ---------------
+#=GR WP_111685133.1/1-117   PP ...............
+WP_136277621.1/1-121           DSIWGVVSGLFS---
+#=GR WP_136277621.1/1-121   PP ***********8...
+WP_136073970.1/3-131           ETITSWVQSIF----
+#=GR WP_136073970.1/3-131   PP *********98....
+WP_168634693.1/1-111           ---------------
+#=GR WP_168634693.1/1-111   PP ...............
+WP_136305082.1/1-108           ---------------
+#=GR WP_136305082.1/1-108   PP ...............
+WP_136307851.1/1-93            ---------------
+#=GR WP_136307851.1/1-93    PP ...............
+WP_023611589.1/10-135          QWFWRVIAEIF----
+#=GR WP_023611589.1/10-135  PP *******9998....
+WP_136020771.1/28-123          DGITSWFANIFS---
+#=GR WP_136020771.1/28-123  PP ***********8...
+WP_136303958.1/11-78           ---------------
+#=GR WP_136303958.1/11-78   PP ...............
+WP_153279451.1/1-36            ---------------
+#=GR WP_153279451.1/1-36    PP ...............
+WP_194129877.1/1-74            ---------------
+#=GR WP_194129877.1/1-74    PP ...............
+WP_194092048.1/1-74            ---------------
+#=GR WP_194092048.1/1-74    PP ...............
+WP_136094677.1/214-269         ---------------
+#=GR WP_136094677.1/214-269 PP ...............
+WP_136306496.1/283-335         ---------------
+#=GR WP_136306496.1/283-335 PP ...............
+#=GC PP_cons                   ***********9876
+#=GC RF                        xxxxxxxxxxxxxxx
+//

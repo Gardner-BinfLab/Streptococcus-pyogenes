@@ -1,0 +1,42 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136277014.1-i2
+
+#=GS WP_136277014.1        DE Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_136281503.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_030126212.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_136106252.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_136277014.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_093974932.1/1-100  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_038434316.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_111681378.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_014407895.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_009881075.1/1-101  DE [subseq from] Spi family protease inhibitor [Streptococcus pyogenes]
+#=GS WP_136038086.1/28-129 DE [subseq from] cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+#=GS WP_136304017.1/28-129 DE [subseq from] cysteine proteinase exotoxin SpeB [Streptococcus pyogenes]
+
+WP_136277014.1                MEMHFVRTEPEARRIAEIFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSLD
+WP_136281503.1/1-101          MEMHFVRTEPEARRIAKTFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQKQINSLD
+#=GR WP_136281503.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_030126212.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYDLSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSLD
+#=GR WP_030126212.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_136106252.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQ-LCYPS---DTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSLD
+#=GR WP_136106252.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_136277014.1/1-101          MEMHFVRTEPEARRIAEIFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSLD
+#=GR WP_136277014.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_093974932.1/1-100          MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQ-LSYPS---DTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSL-
+#=GR WP_093974932.1/1-100  PP 9*********************************.*****...*******************************************.*****************9.
+WP_038434316.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKIPMRVQQ-LSYPS---DTDHSGGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQTQINSLD
+#=GR WP_038434316.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_111681378.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQIQINSLD
+#=GR WP_111681378.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_014407895.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQKQISSLD
+#=GR WP_014407895.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_009881075.1/1-101          MEMHFVRTEPEARRIAETFCAENTQTKPPMRVQQ-LSYPS---DTDHSSGELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLN-HDNVRSMIEAYQKQINSLD
+#=GR WP_009881075.1/1-101  PP 9*********************************.*****...*******************************************.*****************98
+WP_136038086.1/28-129         -DQNFARNEKEAKDSAITFIQKSAAIKAGARSAEDIKLDKVNLGGKLSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDVNGKENIASFMESYVEQIK---
+#=GR WP_136038086.1/28-129 PP .69******************************99*****999***********************************************************8...
+WP_136304017.1/28-129         -DQNFARNEKEVKDSAITFIQKSAAIKAGARSAEDIKLDKVNLGGELSGSNMYVYNISTGGFVIVSGDKRSPEILGYSTSGSFDANGKENIASFMESYVEQIK---
+#=GR WP_136304017.1/28-129 PP .69******************************99*****999***********************************************************8...
+#=GC PP_cons                  99********************************.*****...*******************************************.*****************98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+//

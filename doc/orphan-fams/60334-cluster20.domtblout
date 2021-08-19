@@ -1,0 +1,17 @@
+#                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name                     accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- -----           -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_900989265.1|WP_136260545.1 -             78 GCF_900989265.1|WP_136260545.1 -             78   9.4e-60  193.2   0.8   1   1   1.4e-61     1e-59  193.0   0.8     1    78     1    78     1    78 1.00 -
+GCF_900985495.1|WP_136295393.1 -             78 GCF_900989265.1|WP_136260545.1 -             78   1.9e-59  192.2   0.8   1   1   2.9e-61   2.1e-59  192.1   0.8     1    78     1    78     1    78 1.00 -
+GCF_900991325.1|WP_047236021.1 -             78 GCF_900989265.1|WP_136260545.1 -             78     2e-59  192.1   1.2   1   1   3.1e-61   2.2e-59  192.0   1.2     1    78     1    78     1    78 1.00 -
+GCF_900992835.1|WP_111685259.1 -             78 GCF_900989265.1|WP_136260545.1 -             78   1.4e-58  189.4   0.4   1   1   2.1e-60   1.5e-58  189.3   0.4     1    78     1    78     1    78 1.00 -
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/60334.fa
+# Target file:     orphan-spyogenes-protein-ids.2.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/60334-cluster20.jackhmmer -A orphan-fams/60334-cluster20.stk --domtblout orphan-fams/60334-cluster20.domtblout -E 0.00001 --incE 0.00001 orphan-fams/60334.fa orphan-spyogenes-protein-ids.2.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Fri Jul 23 10:02:32 2021
+# [ok]

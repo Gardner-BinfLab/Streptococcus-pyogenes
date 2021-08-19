@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID WP_002986162.1-i2
+
+#=GS WP_002986162.1      DE MULTISPECIES: hypothetical protein [Streptococcus]
+#=GS WP_002986162.1/1-52 DE [subseq from] MULTISPECIES: hypothetical protein [Streptococcus]
+
+WP_002986162.1              MINWNDVSLNDVICYYAFVFDLDISLVLEFSVHDLDEIALCKLAIENWKKSE
+WP_002986162.1/1-52         MINWNDVSLNDVICYYAFVFDLDISLVLEFSVHDLDEIALCKLAIENWKKSE
+#=GR WP_002986162.1/1-52 PP 9**************************************************8
+#=GC PP_cons                9**************************************************8
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

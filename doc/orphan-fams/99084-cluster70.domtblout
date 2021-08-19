@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_194114236.1       -            132 WP_136307848.1       -            132   7.3e-92  300.2   2.6   1   1   2.6e-94     8e-92  300.0   2.6     1   132     1   132     1   132 1.00 histidine kinase [Streptococcus pyogenes]
+WP_136307848.1       -            132 WP_136307848.1       -            132   3.4e-91  298.0   3.7   1   1   1.2e-93   3.8e-91  297.8   3.7     1   132     1   132     1   132 1.00 histidine kinase [Streptococcus pyogenes]
+WP_194118481.1       -            132 WP_136307848.1       -            132   3.7e-91  297.9   3.3   1   1   1.3e-93   4.1e-91  297.7   3.3     1   132     1   132     1   132 1.00 histidine kinase [Streptococcus pyogenes]
+#
+# Program:         jackhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      orphan-fams/99084.fa
+# Target file:     orphan-spyogenes-protein-ids.faa
+# Option settings: jackhmmer -N 3 -o orphan-fams/99084-cluster70.jackhmmer -A orphan-fams/99084-cluster70.stk --domtblout orphan-fams/99084-cluster70.domtblout -E 0.00001 --incE 0.00001 orphan-fams/99084.fa orphan-spyogenes-protein-ids.faa 
+# Current dir:     /Volumes/scratch/gardnerlab/avoidance1.0/winter_projects/spyogenes/doc
+# Date:            Wed Jul 21 11:24:25 2021
+# [ok]

@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID WP_001035198.1-i2
+
+#=GS WP_001035198.1      DE MULTISPECIES: hypothetical protein [Bacteria]
+#=GS WP_001035198.1/1-51 DE [subseq from] MULTISPECIES: hypothetical protein [Bacteria]
+
+WP_001035198.1              MNKKKEVKKDKDKKQIADDYSKKITYSTSESEKLDLLDIVEMYLCKSCVRI
+WP_001035198.1/1-51         MNKKKEVKKDKDKKQIADDYSKKITYSTSESEKLDLLDIVEMYLCKSCVRI
+#=GR WP_001035198.1/1-51 PP 9*************************************************9
+#=GC PP_cons                9*************************************************9
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

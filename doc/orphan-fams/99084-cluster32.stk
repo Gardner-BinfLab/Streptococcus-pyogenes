@@ -1,0 +1,63 @@
+# STOCKHOLM 1.0
+#=GF ID WP_136267765.1-i2
+
+#=GS WP_136267765.1       DE hypothetical protein [Streptococcus pyogenes]
+#=GS WP_011106580.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136118793.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136267765.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136085521.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_111684505.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136047163.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136278406.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136265334.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_032463129.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+#=GS WP_136262521.1/1-221 DE [subseq from] hypothetical protein [Streptococcus pyogenes]
+
+WP_136267765.1               MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLVDNNNSIEWIVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHYYWDGTVDSKTRSNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEDYKNKWDKLPFIA
+WP_011106580.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLTADKKSIEWTVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHHYWDGTVHSEKRSNTQWHYDWEKQQTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEGYKDKWNKLPFIA
+#=GR WP_011106580.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136118793.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLTADKKSIEWTVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHYYWDGTVDSKTRSNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEDNYKDKWNKLPFIA
+#=GR WP_136118793.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136267765.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLVDNNNSIEWIVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHYYWDGTVDSKTRSNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEDYKNKWDKLPFIA
+#=GR WP_136267765.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136085521.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKNLSQDGKSIEWVVAFNKALENWTYPDFSVFLPKGVKAPKEITYEHHYWDGTVDSKKHNNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEDYKNKWDKLPFIA
+#=GR WP_136085521.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_111684505.1/1-221         MKRYNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKALTADEKSIEWTVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHHYWDGTVRSETRRNTQWHYNWENQQTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEDYKNKWDKLPFIA
+#=GR WP_111684505.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136047163.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLTADKKSIEWTVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHHYWDGTVRSEKRSNTQWHYDWGNQQTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEGNKDKWNKLPFIA
+#=GR WP_136047163.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136278406.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKTLTADKKNIEWTVTFNSAKEQWVYPDFSVFLPKGVKAPTEITYEHHYWDGTVRSEKRSNTQWHYDWKSQQTNFNQEFDKFPGYTGWSRSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEDYKNKWDKLPFIA
+#=GR WP_136278406.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136265334.1/1-221         MKRCNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKNLSQDGKSIEWVVAFNKALENWTYPDFSVFLPKGVKAPKEITYEHHYWDGTVHSEKHNNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEDNYKDKWNKLPFIA
+#=GR WP_136265334.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_032463129.1/1-221         MKRCNKYLFTSLLAASMLFNSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKNLSQDGKSIEWVVAFNKALENWTYPDFSVFLPKGVKAPTQITVQDHWQNGKIDSKTVQNTQWHYDWENQQTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEEGYKNKWDKLPFIA
+#=GR WP_032463129.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+WP_136262521.1/1-221         MKRYNKYLFTSLLAASMLFSSYKSVHAHDNIDEKGKVHLYWQGNYYVDNYVDYTKNLSQDGKSIEWVVAFNKALENWTYPDFSVFLPKGVKAPTQITVQDHWQNGKIDSKTVQNTQWHYDWEKQKTNFNQEFDKFPGYTGWSPSLDKFYKLKNDGKFSHVLVDTYGRQSHTYFSHKMVWKFKTELEDNYKDKWNKLPFIA
+#=GR WP_136262521.1/1-221 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+WP_136267765.1               GIKQNNPLAASFPSYKGEFGE
+WP_011106580.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_011106580.1/1-221 PP ********************8
+WP_136118793.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136118793.1/1-221 PP ********************8
+WP_136267765.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136267765.1/1-221 PP ********************8
+WP_136085521.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136085521.1/1-221 PP ********************8
+WP_111684505.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_111684505.1/1-221 PP ********************8
+WP_136047163.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136047163.1/1-221 PP ********************8
+WP_136278406.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136278406.1/1-221 PP ********************8
+WP_136265334.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_136265334.1/1-221 PP ********************8
+WP_032463129.1/1-221         GIKQNNPLAASFPSYKGEFGE
+#=GR WP_032463129.1/1-221 PP ********************8
+WP_136262521.1/1-221         GIKQNNPLAAAFPSYKGEFGE
+#=GR WP_136262521.1/1-221 PP ********************8
+#=GC PP_cons                 ********************8
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxx
+//

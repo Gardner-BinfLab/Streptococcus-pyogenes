@@ -1,0 +1,162 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             orphan-fams/99084.fa
+# target sequence database:        orphan-spyogenes-protein-ids.faa
+# maximum iterations set to:       3
+# output directed to file:         orphan-fams/99084-cluster41.jackhmmer
+# MSA of hits saved to file:       orphan-fams/99084-cluster41.stk
+# per-dom hits tabular output:     orphan-fams/99084-cluster41.domtblout
+# sequence reporting threshold:    E-value <= 1e-05
+# sequence inclusion threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_136094347.1  [L=22]
+Description: peptide pheromone SHP2 [Streptococcus pyogenes]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
++   1.8e-11   36.7   0.9    1.9e-11   36.7   0.9    1.0  1  WP_136094347.1  peptide pheromone SHP2 [Streptococcus pyogene
++   4.9e-11   35.5   0.7      5e-11   35.5   0.7    1.0  1  WP_128650799.1  peptide pheromone SHP2 [Streptococcus pyogene
++   1.9e-10   33.9   0.5    1.9e-10   33.8   0.5    1.0  1  WP_142353550.1  peptide pheromone SHP2 [Streptococcus pyogene
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_136094347.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.7   0.9   6.2e-14   1.9e-11       1      22 []       1      22 []       1      22 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 36.7 bits;  conditional E-value: 6.2e-14
+  WP_136094347.1  1 mkkvnkallftliidiliivgg 22
+                    mkkvnkallftliidiliivgg
+  WP_136094347.1  1 MKKVNKALLFTLIIDILIIVGG 22
+                    8********************8 PP
+
+>> WP_128650799.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   35.5   0.7   1.7e-13     5e-11       1      22 []       1      22 []       1      22 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 35.5 bits;  conditional E-value: 1.7e-13
+  WP_136094347.1  1 mkkvnkallftliidiliivgg 22
+                    mkkvnkallftli+diliivgg
+  WP_128650799.1  1 MKKVNKALLFTLIMDILIIVGG 22
+                    8********************8 PP
+
+>> WP_142353550.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.8   0.5   6.3e-13   1.9e-10       1      22 []       1      22 []       1      22 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 33.8 bits;  conditional E-value: 6.3e-13
+  WP_136094347.1  1 mkkvnkallftliidiliivgg 22
+                    mkkvnkal+ftli+diliivgg
+  WP_142353550.1  1 MKKVNKALFFTLIMDILIIVGG 22
+                    8********************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (22 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        43  (0.046892); expected 18.3 (0.02)
+Passed bias filter:                       40  (0.0436205); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.03u 0.03s 00:00:00.06 Elapsed: 00:00:00.20
+# Mc/sec: 10.55
+
+@@ New targets included:   3
+@@ New alignment includes: 4 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        4 subsequences (query + 3 subseqs from 3 targets)
+@@ Model size:             22 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    1.1e-18   62.5   7.6    1.2e-18   62.4   7.6    1.0  1  WP_128650799.1  peptide pheromone SHP2 [Streptococcus pyogene
+    1.2e-18   62.4   7.3    1.2e-18   62.3   7.3    1.0  1  WP_142353550.1  peptide pheromone SHP2 [Streptococcus pyogene
+    2.9e-18   61.2   7.8      3e-18   61.1   7.8    1.0  1  WP_136094347.1  peptide pheromone SHP2 [Streptococcus pyogene
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_128650799.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   62.4   7.6   3.9e-21   1.2e-18       1      22 []       1      22 []       1      22 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 62.4 bits;  conditional E-value: 3.9e-21
+                       xxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136094347.1-i1  1 MKKVNKALLFTLIiDILIIVGG 22
+                       MKKVNKALLFTLI+DILIIVGG
+     WP_128650799.1  1 MKKVNKALLFTLIMDILIIVGG 22
+                       *********************9 PP
+
+>> WP_142353550.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   62.3   7.3   4.1e-21   1.2e-18       1      22 []       1      22 []       1      22 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 62.3 bits;  conditional E-value: 4.1e-21
+                       xxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136094347.1-i1  1 MKKVNKALLFTLIiDILIIVGG 22
+                       MKKVNKAL+FTLI+DILIIVGG
+     WP_142353550.1  1 MKKVNKALFFTLIMDILIIVGG 22
+                       *********************9 PP
+
+>> WP_136094347.1  peptide pheromone SHP2 [Streptococcus pyogenes]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   61.1   7.8   9.8e-21     3e-18       1      22 []       1      22 []       1      22 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 61.1 bits;  conditional E-value: 9.8e-21
+                       xxxxxxxxxxxxxxxxxxxxxx RF
+  WP_136094347.1-i1  1 MKKVNKALLFTLIiDILIIVGG 22
+                       MKKVNKALLFTLIiDILIIVGG
+     WP_136094347.1  1 MKKVNKALLFTLIIDILIIVGG 22
+                       *********************9 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (22 nodes)
+Target sequences:                          917  (95928 residues searched)
+Passed MSV filter:                        21  (0.0229008); expected 18.3 (0.02)
+Passed bias filter:                       19  (0.0207197); expected 18.3 (0.02)
+Passed Vit filter:                         4  (0.00436205); expected 0.9 (0.001)
+Passed Fwd filter:                         4  (0.00436205); expected 0.0 (1e-05)
+Initial search space (Z):                917  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.06u 0.03s 00:00:00.09 Elapsed: 00:00:00.24
+# Mc/sec: 8.79
+
+@@ New targets included:   0
+@@ New alignment includes: 4 subseqs (was 4), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 4 hits satisfying inclusion thresholds saved to: orphan-fams/99084-cluster41.stk
+//
+[ok]
