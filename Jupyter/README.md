@@ -1,5 +1,5 @@
 #### Jupyter notebooks
-Supplementary file ```41588_2019_417_MOESM3_ESM.csv```.
+```41588_2019_417_MOESM3_ESM.csv``` is Supplementary Table 2 from [Davies et al., 2019](https://doi.org/10.1038/s41588-019-0417-8).
 `classifiers.ipynb` is the correct file to use. Everything 
 else are temporary WIP scripts. 
 
