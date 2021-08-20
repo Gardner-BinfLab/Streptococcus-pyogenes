@@ -9,7 +9,8 @@ classification follows as 1 vs all scheme. For example: for the case `Superficia
 labelled as 1, everything else is labelled as 0. Based on max AUC scores, we then pick the top 10 eggNOG models for 
 each case:
 
- ``` {'Superficial soft tissue infection': Index(['304Z7.faa.final_tree.fa', 'COG3649.faa.final_tree.fa',
+ ```
+ {'Superficial soft tissue infection': Index(['304Z7.faa.final_tree.fa', 'COG3649.faa.final_tree.fa',
         '33BC7.faa.final_tree.fa', '32R25.faa.final_tree.fa',
         'COG3646.faa.final_tree.fa', 'COG1312.faa.final_tree.fa',
         'COG1674.faa.final_tree.fa', '330BC.faa.final_tree.fa',
