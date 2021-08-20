@@ -11,8 +11,8 @@ find ./2 -name '*.gz' -exec cat {} + | gzip > 2.hmm.gz
 ~~~
 
 ### Download S. pyogenes proteomes from NCBI
-#### Get GCA accession numbers from Table S2 in https://doi.org/10.1038/s41588-019-0417-8
-#### acc.txt contains the accession numbers
+Get GCA accession numbers from [Davies et al., 2019](https://doi.org/10.1038/s41588-019-0417-8), Supplementary Table S2. Also available in ```Jupyter/``` directory.
+```acc.txt``` contains the accession numbers
 ~~~
 mkdir xml
 while read i <&3; do \
@@ -79,7 +79,8 @@ esl-sfetch --index protein.99.faa
 esl-sfetch -o orphan-spyogenes-protein-ids.2.faa -f protein.99.faa  orphan-spyogenes-protein-ids.2.txt
 ~~~
 
-### Cluster orphan sequences into families using jackhmmer. Clusters with >=5 sequences are saved in 99084.hmm & 99084.stk
+### Cluster orphan sequences into families using jackhmmer. 
+Clusters with >=5 sequences are saved in 99084.hmm & 99084.stk
 ~~~
 ../script/fasta2families.pl -v -o orphan-fams -t 0.00001 -N 5 -m 5 -i orphan-spyogenes-protein-ids.2.faa
 ~~~
