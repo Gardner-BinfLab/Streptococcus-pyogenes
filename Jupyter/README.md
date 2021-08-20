@@ -8,7 +8,7 @@ The main goal of the NCBI Datasets project is to make it easy for scientists to 
 
 This README explains the content and structure of the file that you have downloaded so that you can easily find the data that you want in this file.
 
-To find your data, go to \ncbi_dataset\data\
+To find your data, go to `\ncbi_dataset\data\`
 
 The NCBI DataSets project adheres to FAIR principles of scientific data management.
 FAIR stands for Findable, Accessible, Interoperable and Reusable (https://www.go-fair.org/fair-principles/).
